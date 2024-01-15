@@ -1,0 +1,1920 @@
+Cubic Polynomial_0_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa8b781e310>>
+Cubic Polynomial_0_1,3*x/(x**3 + x),tensor(0.1790),-20.027357224402778
+Cubic Polynomial_0_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdef490>>
+Cubic Polynomial_0_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdafc10>>
+Cubic Polynomial_0_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd87250>>
+Cubic Polynomial_0_5,2*x + 2,tensor(0.1868),-17.950871032345308
+Cubic Polynomial_0_6,x**4*(x + 1) + 2*x,tensor(0.2245),-10.927854082386043
+Cubic Polynomial_0_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc2f590>>
+Cubic Polynomial_0_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa8b780d790>>
+Cubic Polynomial_0_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbac290>>
+Cubic Polynomial_0_10,log(exp(x) + 1),tensor(0.2097),-13.20263792938989
+Cubic Polynomial_0_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dddbd90>>
+Cubic Polynomial_0_12,x**4 + 1,tensor(0.1980),-15.412530600510927
+Cubic Polynomial_0_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4bd90>>
+Cubic Polynomial_0_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db07610>>
+Cubic Polynomial_0_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be36b10>>
+Cubic Polynomial_0_16,-x**4 + x + exp(x),tensor(0.2074),-13.60052551364928
+Cubic Polynomial_0_17,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be0d850>>
+Cubic Polynomial_0_18,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5e390>>
+Cubic Polynomial_0_19,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be01f90>>
+Cubic Polynomial_0_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbafcd0>>
+Cubic Polynomial_0_21,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbaf890>>
+Cubic Polynomial_0_22,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbadd10>>
+Cubic Polynomial_0_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbaf250>>
+Cubic Polynomial_0_24,1 + 1/x,tensor(0.0116),-7239.59712117192
+Cubic Polynomial_0_25,2*x + log(x),tensor(0.),0
+Cubic Polynomial_0_26,-3*x**2 + x,tensor(0.2624),-6.898498571653161
+Cubic Polynomial_0_27,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc0850>>
+Cubic Polynomial_0_28,-x + sin(x),tensor(0.2252),-10.831100008042448
+Cubic Polynomial_0_29,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc5ed90>>
+Cubic Polynomial_0_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa8bc128e90>>
+Cubic Polynomial_0_31,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbaad50>>
+Cubic Polynomial_0_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bba8ad0>>
+Cubic Polynomial_0_33,x*(x**2 + exp(x)),tensor(0.2195),-11.650147188247509
+Cubic Polynomial_0_34,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd96710>>
+Cubic Polynomial_0_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dcdf150>>
+Cubic Polynomial_0_36,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc48090>>
+Cubic Polynomial_0_37,sin(x)*cos(x),tensor(0.2278),-10.495662798686636
+Cubic Polynomial_0_38,x + cos(4*x),tensor(0.2359),-9.494333831461848
+Cubic Polynomial_0_39,asin(2*x),tensor(0.),0
+Cubic Polynomial_0_40,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf051d0>>
+Cubic Polynomial_0_41,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd2190>>
+Cubic Polynomial_0_42,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd2850>>
+Cubic Polynomial_0_43,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd0e10>>
+Cubic Polynomial_0_44,6*x - 65,tensor(0.0319),-920.7571637378855
+Cubic Polynomial_0_45,x**6 + 2*x,tensor(0.2258),-10.755132006076563
+Cubic Polynomial_0_46,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd1d10>>
+Cubic Polynomial_0_47,log(x + 3),tensor(0.2021),-14.577530047786354
+Cubic Polynomial_0_48,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc49e50>>
+Cubic Polynomial_0_49,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd2690>>
+Cubic Polynomial_0_50,x*sinh(x) + x,tensor(0.2179),-11.887445051535053
+Cubic Polynomial_0_51,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc24cd0>>
+Cubic Polynomial_0_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc26250>>
+Cubic Polynomial_0_53,(x**2 + x)**2,tensor(0.2133),-12.602647573094885
+Cubic Polynomial_0_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd06d0>>
+Cubic Polynomial_0_55,3*x**2/2,tensor(0.2116),-12.874258933894671
+Cubic Polynomial_0_56,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc27a50>>
+Cubic Polynomial_0_57,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd0750>>
+Cubic Polynomial_0_58,2*x*acos(x),tensor(0.2580),-7.2712221583599685
+Cubic Polynomial_0_59,x + sin(x) + 2,tensor(0.1867),-17.969712177200808
+Cubic Polynomial_0_60,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd26d0>>
+Cubic Polynomial_0_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbbb5d0>>
+Cubic Polynomial_0_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbbb890>>
+Cubic Polynomial_0_63,-cos(x + 1),tensor(0.2402),-9.011156825909637
+Cubic Polynomial_0_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc62e50>>
+Cubic Polynomial_0_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc530d0>>
+Cubic Polynomial_0_66,2*x + (x + 1)**2,tensor(0.1983),-15.339458456517015
+Cubic Polynomial_0_67,x**2*sin(1)/2,tensor(0.2216),-11.342930020005179
+Cubic Polynomial_0_68,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee24d0>>
+Cubic Polynomial_0_69,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da49fd0>>
+Cubic Polynomial_0_70,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdf4d50>>
+Cubic Polynomial_0_71,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdfb710>>
+Cubic Polynomial_0_72,x*tan(x),tensor(0.2133),-12.595145975376052
+Cubic Polynomial_0_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da48ad0>>
+Cubic Polynomial_0_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa8b76f9150>>
+Cubic Polynomial_0_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc2eb90>>
+Cubic Polynomial_0_76,x**(3/2),tensor(0.),0
+Cubic Polynomial_0_77,2*x + log(x),tensor(0.),0
+Cubic Polynomial_0_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be0e810>>
+Cubic Polynomial_0_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbb4190>>
+Cubic Polynomial_0_80,x**2 - log(cos(x)),tensor(0.2110),-12.974741243467404
+Cubic Polynomial_0_81,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbaff50>>
+Cubic Polynomial_0_82,x**2*log(x) + x**2,tensor(0.),0
+Cubic Polynomial_0_83,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa8b782a050>>
+Cubic Polynomial_0_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbb5b50>>
+Cubic Polynomial_0_85,cosh(x),tensor(0.1988),-15.241282182776423
+Cubic Polynomial_0_86,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbb7310>>
+Cubic Polynomial_0_87,-x**2*(x + 2),tensor(0.2430),-8.705199220830629
+Cubic Polynomial_0_88,x*(2*x + 2),tensor(0.2112),-12.953898115784455
+Cubic Polynomial_0_89,2*x**3 + x,tensor(0.2309),-10.09356341462451
+Cubic Polynomial_0_90,x*sin(2) + x,tensor(0.2306),-10.136922472684166
+Cubic Polynomial_0_91,26*x,tensor(0.1157),-57.38364308013464
+Cubic Polynomial_0_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd9390>>
+Cubic Polynomial_0_93,tan(x + 4),tensor(0.0134),-5381.211720742031
+Cubic Polynomial_0_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbda250>>
+Cubic Polynomial_0_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd9c90>>
+Cubic Polynomial_0_96,x**2 + 11*x,tensor(0.1897),-17.24489471963733
+Cubic Polynomial_0_97,2*x + E,tensor(0.1748),-21.283629398344658
+Cubic Polynomial_0_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbb71d0>>
+Cubic Polynomial_0_99,x + 2,tensor(0.1858),-18.203443546633395
+Cubic Polynomial_0_100,tan(2*x + 4),tensor(0.0178),-3039.7389163964017
+Cubic Polynomial_0_101,x*(log(2) + 1/x),tensor(0.2045),-14.12705077748687
+Cubic Polynomial_0_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbaeb10>>
+Cubic Polynomial_0_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbb5a90>>
+Cubic Polynomial_0_104,x**2,tensor(0.2162),-12.149493046885816
+Cubic Polynomial_0_105,(x + 7)*exp(x),tensor(0.1110),-63.18424509663299
+Cubic Polynomial_0_106,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd96e10>>
+Cubic Polynomial_0_107,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc4a250>>
+Cubic Polynomial_0_108,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbb9890>>
+Cubic Polynomial_0_109,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd21d0>>
+Cubic Polynomial_0_110,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd32d0>>
+Cubic Polynomial_0_111,x**3 + x,tensor(0.2301),-10.190327730156175
+Cubic Polynomial_0_112,(x + 1)/x,tensor(0.0116),-7239.59712117192
+Cubic Polynomial_0_113,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbda4d0>>
+Cubic Polynomial_0_114,cos(2*x + 2),tensor(0.2241),-10.989356220465208
+Cubic Polynomial_0_115,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd8b50>>
+Cubic Polynomial_0_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd9510>>
+Cubic Polynomial_0_117,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd9fd0>>
+Cubic Polynomial_0_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd8150>>
+Cubic Polynomial_0_119,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd94d0>>
+Cubic Polynomial_0_120,log(x) + 1,tensor(0.),0
+Cubic Polynomial_0_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbd91d0>>
+Cubic Polynomial_0_122,5/x,tensor(0.0023),-180575.39250104318
+Cubic Polynomial_0_123,x**4*cos(1),tensor(0.2223),-11.240849731620191
+Cubic Polynomial_0_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbdbcd0>>
+Cubic Polynomial_0_125,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbc8750>>
+Cubic Polynomial_0_126,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbc8890>>
+Cubic Polynomial_0_127,x + cos(x)/x,tensor(0.0116),-7235.252608111979
+Cubic Polynomial_1_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa8bc1292d0>>
+Cubic Polynomial_1_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa896245cd0>>
+Cubic Polynomial_1_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdd3390>>
+Cubic Polynomial_1_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdd3d10>>
+Cubic Polynomial_1_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdd32d0>>
+Cubic Polynomial_1_5,asin(sqrt(x)),tensor(0.),0
+Cubic Polynomial_1_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa896245310>>
+Cubic Polynomial_1_7,(x + 4)**2,tensor(0.0781),-138.39103701374557
+Cubic Polynomial_1_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa896245c50>>
+Cubic Polynomial_1_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa8962469d0>>
+Cubic Polynomial_1_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa896245c90>>
+Cubic Polynomial_1_11,3*x**2,tensor(0.1990),-15.207387502999282
+Cubic Polynomial_1_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa896245610>>
+Cubic Polynomial_1_13,5*x**2,tensor(0.1839),-18.688831047320857
+Cubic Polynomial_1_14,48*x**2,tensor(0.0665),-195.98580296057233
+Cubic Polynomial_1_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be7f190>>
+Cubic Polynomial_1_16,x/(1 - x),tensor(0.0552),-291.7338762589251
+Cubic Polynomial_1_17,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc42f50>>
+Cubic Polynomial_1_18,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc419d0>>
+Cubic Polynomial_1_19,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc427d0>>
+Cubic Polynomial_1_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc40a10>>
+Cubic Polynomial_1_21,(x**3 + x)**2,tensor(0.2006),-14.88426226279114
+Cubic Polynomial_1_22,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc408d0>>
+Cubic Polynomial_1_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc43110>>
+Cubic Polynomial_1_24,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc41a50>>
+Cubic Polynomial_1_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc42710>>
+Cubic Polynomial_1_26,x**(-4),tensor(8.5035e-15),-1.3829343249075126e+28
+Cubic Polynomial_1_27,5*x**5*cosh(x),tensor(0.2285),-10.403878726629726
+Cubic Polynomial_1_28,x*(x + 5),tensor(0.2184),-11.81440544893132
+Cubic Polynomial_1_29,2*x,tensor(0.2307),-10.12243346472081
+Cubic Polynomial_1_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bba8710>>
+Cubic Polynomial_1_31,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc28d0>>
+Cubic Polynomial_1_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc36d0>>
+Cubic Polynomial_1_33,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc1390>>
+Cubic Polynomial_1_34,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc0bd0>>
+Cubic Polynomial_1_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc3550>>
+Cubic Polynomial_1_36,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc3ed0>>
+Cubic Polynomial_1_37,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc0790>>
+Cubic Polynomial_1_38,2*x**3/9,tensor(0.2261),-10.711058964271277
+Cubic Polynomial_1_39,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc13d0>>
+Cubic Polynomial_1_40,-2,tensor(0.),0
+Cubic Polynomial_1_41,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc0110>>
+Cubic Polynomial_1_42,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc7dd0>>
+Cubic Polynomial_1_43,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc63d0>>
+Cubic Polynomial_1_44,x*(2*x*exp(x) + x),tensor(0.1960),-15.833934135848803
+Cubic Polynomial_1_45,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc4290>>
+Cubic Polynomial_1_46,sin(x)/16,tensor(0.2258),-10.75125523404668
+Cubic Polynomial_1_47,2*x + 3,tensor(0.1705),-22.665983273809044
+Cubic Polynomial_1_48,sin(2)/x,tensor(0.0128),-5984.29540310509
+Cubic Polynomial_1_49,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be7e2d0>>
+Cubic Polynomial_1_50,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdcf3d0>>
+Cubic Polynomial_1_51,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdce1d0>>
+Cubic Polynomial_1_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdcf390>>
+Cubic Polynomial_1_53,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdce890>>
+Cubic Polynomial_1_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdcf310>>
+Cubic Polynomial_1_55,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdcded0>>
+Cubic Polynomial_1_56,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdcead0>>
+Cubic Polynomial_1_57,x*(2*x + 3),tensor(0.2116),-12.883216780957113
+Cubic Polynomial_1_58,2*x**3 + x**2,tensor(0.2194),-11.663610378219845
+Cubic Polynomial_1_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc6c50>>
+Cubic Polynomial_1_60,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc7bd0>>
+Cubic Polynomial_1_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc7750>>
+Cubic Polynomial_1_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc7650>>
+Cubic Polynomial_1_63,x*(x + 2)**4,tensor(0.0656),-202.15253178312432
+Cubic Polynomial_1_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc1d50>>
+Cubic Polynomial_1_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc3750>>
+Cubic Polynomial_1_66,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc1990>>
+Cubic Polynomial_1_67,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc3890>>
+Cubic Polynomial_1_68,sin(2*x),tensor(0.2293),-10.290836907623397
+Cubic Polynomial_1_69,exp(2*x)/x**3,tensor(1.0072e-10),-9.856866646770452e+19
+Cubic Polynomial_1_70,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbaab50>>
+Cubic Polynomial_1_71,-2*cos(x),tensor(0.2740),-6.021463675941759
+Cubic Polynomial_1_72,x*(x + sin(1)),tensor(0.2186),-11.783858996048368
+Cubic Polynomial_1_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be7dc90>>
+Cubic Polynomial_1_74,5 - 2*x,tensor(0.1414),-35.8435975887936
+Cubic Polynomial_1_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa896246550>>
+Cubic Polynomial_1_76,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdd2ed0>>
+Cubic Polynomial_1_77,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdce650>>
+Cubic Polynomial_1_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdce9d0>>
+Cubic Polynomial_1_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdce450>>
+Cubic Polynomial_1_80,2110,tensor(0.),0
+Cubic Polynomial_1_81,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdcebd0>>
+Cubic Polynomial_1_82,cosh(x + 1),tensor(0.1888),-17.453090409981954
+Cubic Polynomial_1_83,3*x*(x + 2),tensor(0.1986),-15.291552456094
+Cubic Polynomial_1_84,x*tan(2),tensor(0.2152),-12.305222099855248
+Cubic Polynomial_1_85,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc5e450>>
+Cubic Polynomial_1_86,2/x,tensor(0.0058),-28903.900974529362
+Cubic Polynomial_1_87,5*x**2,tensor(0.1839),-18.688831047320857
+Cubic Polynomial_1_88,x**2/2 + 1,tensor(0.1990),-15.199299443505783
+Cubic Polynomial_1_89,x*sin(x)**5,tensor(0.2233),-11.100626269661555
+Cubic Polynomial_1_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb93b10>>
+Cubic Polynomial_1_91,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb93e90>>
+Cubic Polynomial_1_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb90450>>
+Cubic Polynomial_1_93,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb914d0>>
+Cubic Polynomial_1_94,3*log(x),tensor(0.),0
+Cubic Polynomial_1_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb91fd0>>
+Cubic Polynomial_1_96,sin(x) + 5,tensor(0.1446),-34.00691812635227
+Cubic Polynomial_1_97,x**12/15,tensor(0.2255),-10.802239336610677
+Cubic Polynomial_1_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb93290>>
+Cubic Polynomial_1_99,x*(x**2 + 1),tensor(0.2301),-10.190327730156175
+Cubic Polynomial_1_100,sin(x + 5),tensor(0.2481),-8.18183638127348
+Cubic Polynomial_1_101,-2*x**2 - 2*x,tensor(0.2341),-9.706075042316257
+Cubic Polynomial_1_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc5e050>>
+Cubic Polynomial_1_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc5f590>>
+Cubic Polynomial_1_104,x**2 + 3*x,tensor(0.2210),-11.418204634635718
+Cubic Polynomial_1_105,(x**2 - 1)*exp(x),tensor(0.2417),-8.845551546259545
+Cubic Polynomial_1_106,log(x + 3),tensor(0.2021),-14.577530047786354
+Cubic Polynomial_1_107,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb93910>>
+Cubic Polynomial_1_108,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb93450>>
+Cubic Polynomial_1_109,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb91e50>>
+Cubic Polynomial_1_110,10*x**3,tensor(0.2212),-11.393275126866547
+Cubic Polynomial_1_111,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb92350>>
+Cubic Polynomial_1_112,223*x*exp(x),tensor(0.0095),-10953.145001421412
+Cubic Polynomial_1_113,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb91e10>>
+Cubic Polynomial_1_114,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb8bfd0>>
+Cubic Polynomial_1_115,5*x**2/2,tensor(0.2031),-14.403206161951402
+Cubic Polynomial_1_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb8ab10>>
+Cubic Polynomial_1_117,x/(x + 20),tensor(0.2258),-10.751000538615886
+Cubic Polynomial_1_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb88150>>
+Cubic Polynomial_1_119,(x + sin(x))**4,tensor(0.1621),-25.7046524138409
+Cubic Polynomial_1_120,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb8ad90>>
+Cubic Polynomial_1_121,x/sin(x),tensor(0.2015),-14.709744364219254
+Cubic Polynomial_1_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb8a150>>
+Cubic Polynomial_1_123,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb89dd0>>
+Cubic Polynomial_1_124,x*(x + 5),tensor(0.2184),-11.81440544893132
+Cubic Polynomial_1_125,x**3 + x,tensor(0.2301),-10.190327730156175
+Cubic Polynomial_1_126,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd87450>>
+Cubic Polynomial_1_127,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd86690>>
+Cubic Polynomial_2_0,x**2*(x - sinh(x)),tensor(0.2253),-10.819978402736131
+Cubic Polynomial_2_1,x*(x + cos(x)) + x,tensor(0.2202),-11.543517267611076
+Cubic Polynomial_2_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb91b50>>
+Cubic Polynomial_2_3,log(x**4),tensor(0.2525),-7.765530188879149
+Cubic Polynomial_2_4,x*exp(-1),tensor(0.2269),-10.60547774689989
+Cubic Polynomial_2_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc68c90>>
+Cubic Polynomial_2_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbaa710>>
+Cubic Polynomial_2_7,sqrt(x) + 8,tensor(0.),0
+Cubic Polynomial_2_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc6a610>>
+Cubic Polynomial_2_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc40e10>>
+Cubic Polynomial_2_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd84310>>
+Cubic Polynomial_2_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd84890>>
+Cubic Polynomial_2_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd84b10>>
+Cubic Polynomial_2_13,tan(x + 2),tensor(0.0018),-324859.37377439055
+Cubic Polynomial_2_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd87650>>
+Cubic Polynomial_2_15,atanh(2*x),tensor(0.),0
+Cubic Polynomial_2_16,x*exp(3*x),tensor(0.1687),-23.276432312407877
+Cubic Polynomial_2_17,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd85d50>>
+Cubic Polynomial_2_18,x + exp(sqrt(x)),tensor(0.),0
+Cubic Polynomial_2_19,1/5,tensor(0.),0
+Cubic Polynomial_2_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bda0950>>
+Cubic Polynomial_2_21,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bde97d0>>
+Cubic Polynomial_2_22,2*x*(x + cos(x)),tensor(0.2104),-13.089465550414138
+Cubic Polynomial_2_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdaf2d0>>
+Cubic Polynomial_2_24,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdfa250>>
+Cubic Polynomial_2_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdf9990>>
+Cubic Polynomial_2_26,2*x**3/19,tensor(0.2259),-10.746551289894455
+Cubic Polynomial_2_27,exp(3*x),tensor(0.1549),-28.781335229945245
+Cubic Polynomial_2_28,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd9a390>>
+Cubic Polynomial_2_29,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd990d0>>
+Cubic Polynomial_2_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd79fd0>>
+Cubic Polynomial_2_31,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd78a10>>
+Cubic Polynomial_2_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd79ed0>>
+Cubic Polynomial_2_33,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd78b50>>
+Cubic Polynomial_2_34,x/(x**2 + x),tensor(0.0041),-59892.28149983102
+Cubic Polynomial_2_35,x*exp(x),tensor(0.2185),-11.785040295144066
+Cubic Polynomial_2_36,x,tensor(0.2288),-10.362532453567734
+Cubic Polynomial_2_37,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be308d0>>
+Cubic Polynomial_2_38,2*tan(x + 3),tensor(0.2452),-8.481022301221264
+Cubic Polynomial_2_39,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be32fd0>>
+Cubic Polynomial_2_40,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be31410>>
+Cubic Polynomial_2_41,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be306d0>>
+Cubic Polynomial_2_42,x + atan(x),tensor(0.2305),-10.148942740100283
+Cubic Polynomial_2_43,-log(cos(x) + 1),tensor(0.2415),-8.866526596658732
+Cubic Polynomial_2_44,x + cos(5),tensor(0.2216),-11.344643076147007
+Cubic Polynomial_2_45,3*x,tensor(0.2312),-10.05907976036635
+Cubic Polynomial_2_46,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa91f143a90>>
+Cubic Polynomial_2_47,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd79590>>
+Cubic Polynomial_2_48,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd792d0>>
+Cubic Polynomial_2_49,x + exp(x) + 1,tensor(0.1834),-18.823673906070614
+Cubic Polynomial_2_50,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb892d0>>
+Cubic Polynomial_2_51,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb8b2d0>>
+Cubic Polynomial_2_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd98750>>
+Cubic Polynomial_2_53,x - 2*cos(x),tensor(0.2800),-5.613637844907274
+Cubic Polynomial_2_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd99c10>>
+Cubic Polynomial_2_55,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd98090>>
+Cubic Polynomial_2_56,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd99750>>
+Cubic Polynomial_2_57,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd993d0>>
+Cubic Polynomial_2_58,log(x + 2),tensor(0.2120),-12.819275537355407
+Cubic Polynomial_2_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd9ad50>>
+Cubic Polynomial_2_60,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd9a210>>
+Cubic Polynomial_2_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd9ab50>>
+Cubic Polynomial_2_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc68790>>
+Cubic Polynomial_2_63,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdfb750>>
+Cubic Polynomial_2_64,9*x**2 + x,tensor(0.1602),-26.472546790120994
+Cubic Polynomial_2_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdaf290>>
+Cubic Polynomial_2_66,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be26f50>>
+Cubic Polynomial_2_67,log(x + 4),tensor(0.1960),-15.821555496766766
+Cubic Polynomial_2_68,asin(x),tensor(0.2293),-10.30267333695245
+Cubic Polynomial_2_69,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be33dd0>>
+Cubic Polynomial_2_70,x*sin(2),tensor(0.2286),-10.393052713630983
+Cubic Polynomial_2_71,-x**2 + tan(x),tensor(0.2401),-9.011717440021934
+Cubic Polynomial_2_72,2*x + 25,tensor(0.0581),-261.4824824432285
+Cubic Polynomial_2_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be30d90>>
+Cubic Polynomial_2_74,x*(x + sin(x)),tensor(0.2082),-13.467378603382398
+Cubic Polynomial_2_75,0,tensor(0.),0
+Cubic Polynomial_2_76,5*x + sin(x),tensor(0.2249),-10.879029568252333
+Cubic Polynomial_2_77,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be391d0>>
+Cubic Polynomial_2_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be39050>>
+Cubic Polynomial_2_79,x*(x + cos(1)),tensor(0.2178),-11.900341937979865
+Cubic Polynomial_2_80,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3ad90>>
+Cubic Polynomial_2_81,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3b350>>
+Cubic Polynomial_2_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3be90>>
+Cubic Polynomial_2_83,x + exp(x),tensor(0.2023),-14.550232227208655
+Cubic Polynomial_2_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3aa10>>
+Cubic Polynomial_2_85,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be385d0>>
+Cubic Polynomial_2_86,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3b8d0>>
+Cubic Polynomial_2_87,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3b9d0>>
+Cubic Polynomial_2_88,x*tan(x),tensor(0.2133),-12.595145975376052
+Cubic Polynomial_2_89,x**3,tensor(0.2277),-10.501284731443539
+Cubic Polynomial_2_90,x + 5,tensor(0.1446),-33.96927747448931
+Cubic Polynomial_2_91,0,tensor(0.),0
+Cubic Polynomial_2_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be32c90>>
+Cubic Polynomial_2_93,x*(-x - 1),tensor(0.2308),-10.105073421575884
+Cubic Polynomial_2_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd86910>>
+Cubic Polynomial_2_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd99e50>>
+Cubic Polynomial_2_96,5*x**2 + x,tensor(0.1856),-18.253667697799262
+Cubic Polynomial_2_97,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be31750>>
+Cubic Polynomial_2_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd78f90>>
+Cubic Polynomial_2_99,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd7bad0>>
+Cubic Polynomial_2_100,4*x + sin(x),tensor(0.2283),-10.429178096986186
+Cubic Polynomial_2_101,oo,tensor(0.),0
+Cubic Polynomial_2_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be39410>>
+Cubic Polynomial_2_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3b4d0>>
+Cubic Polynomial_2_104,x**3 + 4,tensor(0.1559),-28.329114594582048
+Cubic Polynomial_2_105,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3a0d0>>
+Cubic Polynomial_2_106,x + atan(x),tensor(0.2305),-10.148942740100283
+Cubic Polynomial_2_107,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be38910>>
+Cubic Polynomial_2_108,x*(x + exp(x)),tensor(0.2093),-13.269081063046437
+Cubic Polynomial_2_109,2*x*(5*x**3 + x),tensor(0.1603),-26.440456045458873
+Cubic Polynomial_2_110,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be39550>>
+Cubic Polynomial_2_111,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3cbd0>>
+Cubic Polynomial_2_112,x**2 + x*tan(x),tensor(0.2046),-14.108016328013907
+Cubic Polynomial_2_113,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb896d0>>
+Cubic Polynomial_2_114,sin(1)/x,tensor(0.0138),-5126.522863888135
+Cubic Polynomial_2_115,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3db50>>
+Cubic Polynomial_2_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3da90>>
+Cubic Polynomial_2_117,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3cad0>>
+Cubic Polynomial_2_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be9ce50>>
+Cubic Polynomial_2_119,x + sin(x),tensor(0.2305),-10.140095390142541
+Cubic Polynomial_2_120,x**2 - 1,tensor(0.2417),-8.846948910791424
+Cubic Polynomial_2_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be9f810>>
+Cubic Polynomial_2_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be9dfd0>>
+Cubic Polynomial_2_123,exp(x) + 1,tensor(0.1825),-19.059899889281347
+Cubic Polynomial_2_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be9c210>>
+Cubic Polynomial_2_125,x**2*cos(1),tensor(0.2204),-11.506503819962528
+Cubic Polynomial_2_126,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bde88d0>>
+Cubic Polynomial_2_127,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be9eed0>>
+Cubic Polynomial_3_0,exp(x) - 1,tensor(0.2238),-11.034471977883921
+Cubic Polynomial_3_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdce350>>
+Cubic Polynomial_3_2,-cos(x),tensor(0.2479),-8.20576741229401
+Cubic Polynomial_3_3,cosh(2*x),tensor(0.1848),-18.46106570920478
+Cubic Polynomial_3_4,8*x**5/5,tensor(0.2279),-10.472216844714868
+Cubic Polynomial_3_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc19d0>>
+Cubic Polynomial_3_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be58810>>
+Cubic Polynomial_3_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd78fd0>>
+Cubic Polynomial_3_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bda2990>>
+Cubic Polynomial_3_9,zoo,tensor(0.),0
+Cubic Polynomial_3_10,cosh(x - 1),tensor(0.1835),-18.801675621556225
+Cubic Polynomial_3_11,x,tensor(0.2288),-10.362532453567734
+Cubic Polynomial_3_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5c050>>
+Cubic Polynomial_3_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be9d290>>
+Cubic Polynomial_3_14,2*x + 2,tensor(0.1868),-17.950871032345308
+Cubic Polynomial_3_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be511d0>>
+Cubic Polynomial_3_16,x + tanh(x + 2),tensor(0.2067),-13.725589539939564
+Cubic Polynomial_3_17,x*(sin(1) + 7),tensor(0.2155),-12.251648931465095
+Cubic Polynomial_3_18,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be86150>>
+Cubic Polynomial_3_19,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be85390>>
+Cubic Polynomial_3_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be84510>>
+Cubic Polynomial_3_21,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be6ba10>>
+Cubic Polynomial_3_22,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be68750>>
+Cubic Polynomial_3_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be6b190>>
+Cubic Polynomial_3_24,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be6a550>>
+Cubic Polynomial_3_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be69990>>
+Cubic Polynomial_3_26,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be6b8d0>>
+Cubic Polynomial_3_27,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be6a690>>
+Cubic Polynomial_3_28,x**2 + 4*x,tensor(0.2203),-11.527932399537287
+Cubic Polynomial_3_29,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be27c50>>
+Cubic Polynomial_3_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be59d10>>
+Cubic Polynomial_3_31,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be9f190>>
+Cubic Polynomial_3_32,x**2 + 5*x,tensor(0.2184),-11.81440544893132
+Cubic Polynomial_3_33,x**2 + 4*x,tensor(0.2203),-11.527932399537287
+Cubic Polynomial_3_34,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be87cd0>>
+Cubic Polynomial_3_35,2 + E,tensor(0.),0
+Cubic Polynomial_3_36,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be87550>>
+Cubic Polynomial_3_37,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be87790>>
+Cubic Polynomial_3_38,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5f190>>
+Cubic Polynomial_3_39,3 - 4*x,tensor(0.1593),-26.870018203248048
+Cubic Polynomial_3_40,x**2*(sqrt(x) + exp(x)),tensor(0.),0
+Cubic Polynomial_3_41,-3*x**2 + 6*x,tensor(0.2552),-7.520413700889808
+Cubic Polynomial_3_42,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5f490>>
+Cubic Polynomial_3_43,log(5*x),tensor(0.),0
+Cubic Polynomial_3_44,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be4ccd0>>
+Cubic Polynomial_3_45,x + cos(x)**2,tensor(0.2118),-12.843509047818221
+Cubic Polynomial_3_46,-x - sin(x),tensor(0.2167),-12.059455954942319
+Cubic Polynomial_3_47,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be68990>>
+Cubic Polynomial_3_48,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec75d0>>
+Cubic Polynomial_3_49,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec5710>>
+Cubic Polynomial_3_50,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec6dd0>>
+Cubic Polynomial_3_51,x*atan(x) + x,tensor(0.2204),-11.51441561760677
+Cubic Polynomial_3_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec6790>>
+Cubic Polynomial_3_53,sin(x) + 1,tensor(0.2049),-14.051305727212148
+Cubic Polynomial_3_54,x*(x*log(x) + x) - x,tensor(0.),0
+Cubic Polynomial_3_55,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec6d50>>
+Cubic Polynomial_3_56,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec6c90>>
+Cubic Polynomial_3_57,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec4390>>
+Cubic Polynomial_3_58,x**2/3,tensor(0.2224),-11.224316914449798
+Cubic Polynomial_3_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec5ed0>>
+Cubic Polynomial_3_60,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec5bd0>>
+Cubic Polynomial_3_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be65150>>
+Cubic Polynomial_3_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be67a90>>
+Cubic Polynomial_3_63,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be66550>>
+Cubic Polynomial_3_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be66390>>
+Cubic Polynomial_3_65,cosh(2*x),tensor(0.1848),-18.46106570920478
+Cubic Polynomial_3_66,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec5090>>
+Cubic Polynomial_3_67,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be67050>>
+Cubic Polynomial_3_68,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be67650>>
+Cubic Polynomial_3_69,-x + 2*log(x),tensor(0.),0
+Cubic Polynomial_3_70,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be65610>>
+Cubic Polynomial_3_71,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be66790>>
+Cubic Polynomial_3_72,x**2 + 3*sinh(x),tensor(0.2210),-11.42788800075119
+Cubic Polynomial_3_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec7bd0>>
+Cubic Polynomial_3_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be64150>>
+Cubic Polynomial_3_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be67410>>
+Cubic Polynomial_3_76,20*x**3,tensor(0.1807),-19.551214314815553
+Cubic Polynomial_3_77,x + cos(x),tensor(0.2090),-13.320938125289265
+Cubic Polynomial_3_78,cos(2*x**2),tensor(0.2112),-12.956400420881154
+Cubic Polynomial_3_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be64290>>
+Cubic Polynomial_3_80,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec6010>>
+Cubic Polynomial_3_81,x + sin(x),tensor(0.2305),-10.140095390142541
+Cubic Polynomial_3_82,sin(x) + cos(x),tensor(0.2088),-13.356027059869287
+Cubic Polynomial_3_83,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec7fd0>>
+Cubic Polynomial_3_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be6be10>>
+Cubic Polynomial_3_85,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be69b10>>
+Cubic Polynomial_3_86,3*x**2 + 8,tensor(0.1106),-63.67710812726955
+Cubic Polynomial_3_87,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be69690>>
+Cubic Polynomial_3_88,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be6b290>>
+Cubic Polynomial_3_89,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be6a2d0>>
+Cubic Polynomial_3_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be6bd50>>
+Cubic Polynomial_3_91,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5f090>>
+Cubic Polynomial_3_92,x**5 + x,tensor(0.2298),-10.231710811505867
+Cubic Polynomial_3_93,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec6c50>>
+Cubic Polynomial_3_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be4f990>>
+Cubic Polynomial_3_95,x*exp(x),tensor(0.2185),-11.785040295144066
+Cubic Polynomial_3_96,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd7a710>>
+Cubic Polynomial_3_97,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be4e910>>
+Cubic Polynomial_3_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc5c450>>
+Cubic Polynomial_3_99,x + 2,tensor(0.1858),-18.203443546633395
+Cubic Polynomial_3_100,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be539d0>>
+Cubic Polynomial_3_101,-x - 1,tensor(0.2475),-8.240930670416482
+Cubic Polynomial_3_102,-2*log(cos(x)),tensor(0.2149),-12.34310856577996
+Cubic Polynomial_3_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb8a410>>
+Cubic Polynomial_3_104,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea2450>>
+Cubic Polynomial_3_105,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea2410>>
+Cubic Polynomial_3_106,1/x,tensor(0.0116),-7235.219566974125
+Cubic Polynomial_3_107,4*x**(3/2)/3,tensor(0.),0
+Cubic Polynomial_3_108,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea29d0>>
+Cubic Polynomial_3_109,3*x - cos(x),tensor(0.2554),-7.498998109210595
+Cubic Polynomial_3_110,x**2,tensor(0.2162),-12.149493046885816
+Cubic Polynomial_3_111,exp(4*x),tensor(0.1013),-77.63735376035542
+Cubic Polynomial_3_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea3f50>>
+Cubic Polynomial_3_113,8*log(x + 2),tensor(0.1434),-34.67521821156478
+Cubic Polynomial_3_114,log(x)**2,tensor(0.),0
+Cubic Polynomial_3_115,x*cos(1),tensor(0.2275),-10.5322051858217
+Cubic Polynomial_3_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be73690>>
+Cubic Polynomial_3_117,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be72550>>
+Cubic Polynomial_3_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be71290>>
+Cubic Polynomial_3_119,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be702d0>>
+Cubic Polynomial_3_120,9*x**2/5,tensor(0.2090),-13.321824938746229
+Cubic Polynomial_3_121,cosh(x),tensor(0.1988),-15.241282182776423
+Cubic Polynomial_3_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea2050>>
+Cubic Polynomial_3_123,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea1f10>>
+Cubic Polynomial_3_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea3f10>>
+Cubic Polynomial_3_125,x*sin(1),tensor(0.2284),-10.41682567028484
+Cubic Polynomial_3_126,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea1510>>
+Cubic Polynomial_3_127,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea3150>>
+Cubic Polynomial_4_0,x*(x**5 + x),tensor(0.2118),-12.844594989809114
+Cubic Polynomial_4_1,x**3*cos(3),tensor(0.2231),-11.128997446136252
+Cubic Polynomial_4_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5e0d0>>
+Cubic Polynomial_4_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec6490>>
+Cubic Polynomial_4_4,x**3/3 + x,tensor(0.2293),-10.296748611555003
+Cubic Polynomial_4_5,tan(3)/x,tensor(0.0737),-157.19873045721224
+Cubic Polynomial_4_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be709d0>>
+Cubic Polynomial_4_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be86250>>
+Cubic Polynomial_4_8,sinh(x + 1),tensor(0.1977),-15.476607229819418
+Cubic Polynomial_4_9,5*x + 3,tensor(0.1697),-22.950027149737842
+Cubic Polynomial_4_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec2c90>>
+Cubic Polynomial_4_11,8*x**2,tensor(0.1647),-24.705150904193438
+Cubic Polynomial_4_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be914d0>>
+Cubic Polynomial_4_13,2*x + log(x),tensor(0.),0
+Cubic Polynomial_4_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be93e10>>
+Cubic Polynomial_4_15,4*x**3 + 2*x,tensor(0.2292),-10.309806106562055
+Cubic Polynomial_4_16,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be90450>>
+Cubic Polynomial_4_17,x**2 + x + cos(x),tensor(0.2009),-14.814255602587176
+Cubic Polynomial_4_18,log(x),tensor(0.),0
+Cubic Polynomial_4_19,sin(x)*cos(x),tensor(0.2278),-10.495662798686636
+Cubic Polynomial_4_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beba450>>
+Cubic Polynomial_4_21,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bebaa10>>
+Cubic Polynomial_4_22,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beba5d0>>
+Cubic Polynomial_4_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bebbe90>>
+Cubic Polynomial_4_24,sqrt(2*x + 1),tensor(0.),0
+Cubic Polynomial_4_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be93650>>
+Cubic Polynomial_4_26,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beb9c10>>
+Cubic Polynomial_4_27,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beb8350>>
+Cubic Polynomial_4_28,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bebaa90>>
+Cubic Polynomial_4_29,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bebba50>>
+Cubic Polynomial_4_30,5*x*log(x) + x,tensor(0.),0
+Cubic Polynomial_4_31,x**2/sin(1),tensor(0.2144),-12.419469691257117
+Cubic Polynomial_4_32,3*x**2 + x*log(x),tensor(0.),0
+Cubic Polynomial_4_33,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bebb690>>
+Cubic Polynomial_4_34,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beb9ed0>>
+Cubic Polynomial_4_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beb9010>>
+Cubic Polynomial_4_36,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beb8c10>>
+Cubic Polynomial_4_37,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be916d0>>
+Cubic Polynomial_4_38,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be939d0>>
+Cubic Polynomial_4_39,x*(-x**2 + x),tensor(0.2139),-12.505594993038647
+Cubic Polynomial_4_40,acos(6*x + 1),tensor(0.),0
+Cubic Polynomial_4_41,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beb9090>>
+Cubic Polynomial_4_42,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be90790>>
+Cubic Polynomial_4_43,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5c5d0>>
+Cubic Polynomial_4_44,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5d390>>
+Cubic Polynomial_4_45,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be641d0>>
+Cubic Polynomial_4_46,2*x*acos(x),tensor(0.2580),-7.2712221583599685
+Cubic Polynomial_4_47,x**3 + 2*x,tensor(0.2312),-10.05611601336128
+Cubic Polynomial_4_48,log(x)*sin(x),tensor(0.),0
+Cubic Polynomial_4_49,cos(acosh(x))/2,tensor(0.),0
+Cubic Polynomial_4_50,log(x + exp(x)),tensor(0.),0
+Cubic Polynomial_4_51,-4*x - tan(x),tensor(0.1955),-15.925058928741283
+Cubic Polynomial_4_52,4*log(x),tensor(0.),0
+Cubic Polynomial_4_53,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee13d0>>
+Cubic Polynomial_4_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee3d10>>
+Cubic Polynomial_4_55,x/(x + 8),tensor(0.2262),-10.696240460416535
+Cubic Polynomial_4_56,x**2*(5 - x),tensor(0.1825),-19.055211164711068
+Cubic Polynomial_4_57,-2*exp(5*x)/5,tensor(0.1369),-38.73021012000582
+Cubic Polynomial_4_58,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee1c50>>
+Cubic Polynomial_4_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5ce10>>
+Cubic Polynomial_4_60,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5da10>>
+Cubic Polynomial_4_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5ced0>>
+Cubic Polynomial_4_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5f310>>
+Cubic Polynomial_4_63,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5f410>>
+Cubic Polynomial_4_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5ce50>>
+Cubic Polynomial_4_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5d110>>
+Cubic Polynomial_4_66,7*x,tensor(0.2200),-11.573117787873183
+Cubic Polynomial_4_67,x**2*sin(x)**2,tensor(0.2208),-11.449390967619186
+Cubic Polynomial_4_68,asin(x),tensor(0.2293),-10.30267333695245
+Cubic Polynomial_4_69,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5c250>>
+Cubic Polynomial_4_70,2*x + log(x),tensor(0.),0
+Cubic Polynomial_4_71,cos(3*x + 4),tensor(0.2261),-10.710006062186139
+Cubic Polynomial_4_72,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc5de50>>
+Cubic Polynomial_4_73,x**3 + x + 4,tensor(0.1566),-27.993210542412363
+Cubic Polynomial_4_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5e610>>
+Cubic Polynomial_4_75,x*cosh(x + 6),tensor(0.0104),-8979.153531064296
+Cubic Polynomial_4_76,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc5e210>>
+Cubic Polynomial_4_77,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5d550>>
+Cubic Polynomial_4_78,5*tan(2*x),tensor(0.0034),-85916.68102307305
+Cubic Polynomial_4_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee2d50>>
+Cubic Polynomial_4_80,(x + 1)**3,tensor(0.1841),-18.653566965043797
+Cubic Polynomial_4_81,2*x*sin(4)/5,tensor(0.2244),-10.940414965036384
+Cubic Polynomial_4_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd9b210>>
+Cubic Polynomial_4_83,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee3490>>
+Cubic Polynomial_4_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee3f10>>
+Cubic Polynomial_4_85,3*x**2,tensor(0.1990),-15.207387502999282
+Cubic Polynomial_4_86,1/4,tensor(0.),0
+Cubic Polynomial_4_87,sin(x + 5),tensor(0.2481),-8.18183638127348
+Cubic Polynomial_4_88,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd78610>>
+Cubic Polynomial_4_89,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be863d0>>
+Cubic Polynomial_4_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be32410>>
+Cubic Polynomial_4_91,exp(x + 2),tensor(0.1113),-62.695481810973604
+Cubic Polynomial_4_92,5/6,tensor(0.),0
+Cubic Polynomial_4_93,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beb9650>>
+Cubic Polynomial_4_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee9ad0>>
+Cubic Polynomial_4_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beea2d0>>
+Cubic Polynomial_4_96,x**2 + sin(x),tensor(0.2187),-11.764089707109488
+Cubic Polynomial_4_97,x + exp(5*x),tensor(0.0515),-338.82119505075246
+Cubic Polynomial_4_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beeaf90>>
+Cubic Polynomial_4_99,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee80d0>>
+Cubic Polynomial_4_100,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beeb250>>
+Cubic Polynomial_4_101,5*x + 5/x,tensor(0.0023),-180588.4239568156
+Cubic Polynomial_4_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beea910>>
+Cubic Polynomial_4_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee9050>>
+Cubic Polynomial_4_104,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beea410>>
+Cubic Polynomial_4_105,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beeb7d0>>
+Cubic Polynomial_4_106,x**2 + 2*cos(x),tensor(0.1838),-18.718358356005975
+Cubic Polynomial_4_107,3*x**6 + x,tensor(0.2146),-12.38685918272345
+Cubic Polynomial_4_108,8/5,tensor(0.),0
+Cubic Polynomial_4_109,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc41850>>
+Cubic Polynomial_4_110,log(2*x + 2)/2,tensor(0.2239),-11.008901328701127
+Cubic Polynomial_4_111,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be82790>>
+Cubic Polynomial_4_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be82690>>
+Cubic Polynomial_4_113,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be803d0>>
+Cubic Polynomial_4_114,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be82750>>
+Cubic Polynomial_4_115,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be82710>>
+Cubic Polynomial_4_116,(x + tan(x))**2,tensor(0.1811),-19.444393563455158
+Cubic Polynomial_4_117,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be83110>>
+Cubic Polynomial_4_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be83b90>>
+Cubic Polynomial_4_119,x*(x + 2),tensor(0.2206),-11.48522215422662
+Cubic Polynomial_4_120,atanh(x),tensor(0.2299),-10.216773516286057
+Cubic Polynomial_4_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be81d90>>
+Cubic Polynomial_4_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be81fd0>>
+Cubic Polynomial_4_123,6*x,tensor(0.2245),-10.929490354257775
+Cubic Polynomial_4_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be83950>>
+Cubic Polynomial_4_125,x*acosh(4),tensor(0.2308),-10.113164024658639
+Cubic Polynomial_4_126,2*x**2 + 4*x,tensor(0.2110),-12.98928073062224
+Cubic Polynomial_4_127,2*x + cos(x),tensor(0.2104),-13.076329915289884
+Cubic Polynomial_5_0,2*sin(2)/x,tensor(0.0064),-23900.625103091596
+Cubic Polynomial_5_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bb93550>>
+Cubic Polynomial_5_2,2*x*tan(x),tensor(0.2020),-14.60520145263897
+Cubic Polynomial_5_3,x*cos(x + 2),tensor(0.2325),-9.894216881155737
+Cubic Polynomial_5_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee0f50>>
+Cubic Polynomial_5_5,sinh(2*x + 2),tensor(0.1196),-53.16143282347397
+Cubic Polynomial_5_6,3*x + cos(x),tensor(0.2108),-13.008466989782974
+Cubic Polynomial_5_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed15d0>>
+Cubic Polynomial_5_8,x + sin(x),tensor(0.2305),-10.140095390142541
+Cubic Polynomial_5_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be80fd0>>
+Cubic Polynomial_5_10,x**2 + 6*x,tensor(0.2153),-12.277623782817821
+Cubic Polynomial_5_11,4/(3*x**2),tensor(8.6768e-07),-1328241007865.2676
+Cubic Polynomial_5_12,5*x**3,tensor(0.2305),-10.143320828388138
+Cubic Polynomial_5_13,(x + 4)**3,tensor(0.0241),-1643.2027402991382
+Cubic Polynomial_5_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed86d0>>
+Cubic Polynomial_5_15,x*sin(2),tensor(0.2286),-10.393052713630983
+Cubic Polynomial_5_16,x**4*(2*x + 4),tensor(0.2040),-14.222617221543722
+Cubic Polynomial_5_17,x*acosh(x),tensor(0.),0
+Cubic Polynomial_5_18,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be87c90>>
+Cubic Polynomial_5_19,x - exp(x),tensor(0.2597),-7.121838315331566
+Cubic Polynomial_5_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedbb10>>
+Cubic Polynomial_5_21,x*(x - 5 + 2/x**2),tensor(0.0058),-28904.6730473165
+Cubic Polynomial_5_22,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5edd0>>
+Cubic Polynomial_5_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec0d10>>
+Cubic Polynomial_5_24,x**3 + 2*x,tensor(0.2312),-10.05611601336128
+Cubic Polynomial_5_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed36d0>>
+Cubic Polynomial_5_26,tan(x + 4),tensor(0.0134),-5381.211720742031
+Cubic Polynomial_5_27,x - (x + 2)**3,tensor(0.1786),-20.143099047833182
+Cubic Polynomial_5_28,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beca610>>
+Cubic Polynomial_5_29,x*exp(-1),tensor(0.2269),-10.60547774689989
+Cubic Polynomial_5_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88becaa50>>
+Cubic Polynomial_5_31,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88becbf90>>
+Cubic Polynomial_5_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec8b50>>
+Cubic Polynomial_5_33,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec9a90>>
+Cubic Polynomial_5_34,log(5*x),tensor(0.),0
+Cubic Polynomial_5_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec8850>>
+Cubic Polynomial_5_36,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88becb9d0>>
+Cubic Polynomial_5_37,1/58,tensor(0.),0
+Cubic Polynomial_5_38,x**3 + sin(x),tensor(0.2300),-10.21292477104526
+Cubic Polynomial_5_39,x**2 + 3*sin(x),tensor(0.2210),-11.427153208077202
+Cubic Polynomial_5_40,x + tanh(x + 1),tensor(0.2137),-12.536810163467186
+Cubic Polynomial_5_41,asin(4*x),tensor(0.),0
+Cubic Polynomial_5_42,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beca4d0>>
+Cubic Polynomial_5_43,exp(5*x),tensor(0.0519),-333.1460928006683
+Cubic Polynomial_5_44,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be95090>>
+Cubic Polynomial_5_45,-4*x**2 + 4*x,tensor(0.2770),-5.809499824892936
+Cubic Polynomial_5_46,x*(x*sin(1) + x),tensor(0.2087),-13.384444690842546
+Cubic Polynomial_5_47,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be97e50>>
+Cubic Polynomial_5_48,x**4*tanh(1),tensor(0.2209),-11.434781815211387
+Cubic Polynomial_5_49,(5 - x)/x**2,tensor(2.3138e-07),-18678671071280.285
+Cubic Polynomial_5_50,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedfc50>>
+Cubic Polynomial_5_51,asin(x),tensor(0.2293),-10.30267333695245
+Cubic Polynomial_5_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedd010>>
+Cubic Polynomial_5_53,3*exp(1/x),tensor(0.),0
+Cubic Polynomial_5_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be7c0d0>>
+Cubic Polynomial_5_55,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be967d0>>
+Cubic Polynomial_5_56,x**4*cos(1),tensor(0.2223),-11.240849731620191
+Cubic Polynomial_5_57,x*exp(4),tensor(0.0598),-246.63060151037146
+Cubic Polynomial_5_58,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be94850>>
+Cubic Polynomial_5_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be73fd0>>
+Cubic Polynomial_5_60,-x + 1/sqrt(atanh(x)**2 + 1),tensor(0.2038),-14.255356142411264
+Cubic Polynomial_5_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec89d0>>
+Cubic Polynomial_5_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88becaad0>>
+Cubic Polynomial_5_63,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed1ad0>>
+Cubic Polynomial_5_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed3e10>>
+Cubic Polynomial_5_65,exp(4*x),tensor(0.1013),-77.63735376035542
+Cubic Polynomial_5_66,x**3 + x + cos(x),tensor(0.2100),-13.14627441936801
+Cubic Polynomial_5_67,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88becba90>>
+Cubic Polynomial_5_68,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed9dd0>>
+Cubic Polynomial_5_69,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed9010>>
+Cubic Polynomial_5_70,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed8ed0>>
+Cubic Polynomial_5_71,tan(x + 5),tensor(0.0002),-22330232.45792113
+Cubic Polynomial_5_72,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beb8710>>
+Cubic Polynomial_5_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beea310>>
+Cubic Polynomial_5_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beebfd0>>
+Cubic Polynomial_5_75,x + 2*sin(x),tensor(0.2312),-10.06228172022414
+Cubic Polynomial_5_76,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5d890>>
+Cubic Polynomial_5_77,x + log(x),tensor(0.),0
+Cubic Polynomial_5_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be95210>>
+Cubic Polynomial_5_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedce90>>
+Cubic Polynomial_5_80,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedcb10>>
+Cubic Polynomial_5_81,x**3 + 16*x,tensor(0.1596),-26.735406849941732
+Cubic Polynomial_5_82,4*x**4/5,tensor(0.2207),-11.46873083662244
+Cubic Polynomial_5_83,x + 5*cos(x),tensor(0.1543),-29.047616594784046
+Cubic Polynomial_5_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beddf90>>
+Cubic Polynomial_5_85,cos(3*x/2),tensor(0.2109),-12.99826802688257
+Cubic Polynomial_5_86,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3fa50>>
+Cubic Polynomial_5_87,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedda50>>
+Cubic Polynomial_5_88,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf62950>>
+Cubic Polynomial_5_89,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf60310>>
+Cubic Polynomial_5_90,-x + exp(-x),tensor(0.1920),-16.714730987585956
+Cubic Polynomial_5_91,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedf990>>
+Cubic Polynomial_5_92,x/log(4),tensor(0.2280),-10.460923776648032
+Cubic Polynomial_5_93,x*sinh(x) + x,tensor(0.2179),-11.887445051535053
+Cubic Polynomial_5_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed2510>>
+Cubic Polynomial_5_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf60b90>>
+Cubic Polynomial_5_96,-x + log(x),tensor(0.),0
+Cubic Polynomial_5_97,-x**2*(x + 1),tensor(0.2328),-9.866110539514606
+Cubic Polynomial_5_98,-x**2 + x,tensor(0.2393),-9.101967220877517
+Cubic Polynomial_5_99,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedf5d0>>
+Cubic Polynomial_5_100,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedded0>>
+Cubic Polynomial_5_101,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedce10>>
+Cubic Polynomial_5_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be86490>>
+Cubic Polynomial_5_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd7b290>>
+Cubic Polynomial_5_104,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedbed0>>
+Cubic Polynomial_5_105,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed96d0>>
+Cubic Polynomial_5_106,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed1850>>
+Cubic Polynomial_5_107,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec9810>>
+Cubic Polynomial_5_108,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88becb050>>
+Cubic Polynomial_5_109,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88becacd0>>
+Cubic Polynomial_5_110,x**2*sin(1),tensor(0.2176),-11.925227303771615
+Cubic Polynomial_5_111,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be97110>>
+Cubic Polynomial_5_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be97190>>
+Cubic Polynomial_5_113,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be94ed0>>
+Cubic Polynomial_5_114,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be95250>>
+Cubic Polynomial_5_115,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be95650>>
+Cubic Polynomial_5_116,12*x + exp(x),tensor(0.1675),-23.68553957831981
+Cubic Polynomial_5_117,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be96510>>
+Cubic Polynomial_5_118,tan(2*x + 4),tensor(0.0178),-3039.7389163964017
+Cubic Polynomial_5_119,x*cosh(2*x) + x,tensor(0.2308),-10.106624699938989
+Cubic Polynomial_5_120,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf62f10>>
+Cubic Polynomial_5_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf61110>>
+Cubic Polynomial_5_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf62350>>
+Cubic Polynomial_5_123,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf60150>>
+Cubic Polynomial_5_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf61dd0>>
+Cubic Polynomial_5_125,x*log(x) - x,tensor(0.),0
+Cubic Polynomial_5_126,x + 4,tensor(0.1562),-28.18007052676969
+Cubic Polynomial_5_127,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf04210>>
+Cubic Polynomial_6_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf27910>>
+Cubic Polynomial_6_1,cos(x + 3),tensor(0.2470),-8.294593670792327
+Cubic Polynomial_6_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bea2290>>
+Cubic Polynomial_6_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf60410>>
+Cubic Polynomial_6_4,2*x**2 - x,tensor(0.2040),-14.226413827221274
+Cubic Polynomial_6_5,cos(2*x - 2),tensor(0.2332),-9.814881549050824
+Cubic Polynomial_6_6,x**2*atan(3),tensor(0.2139),-12.507183878118088
+Cubic Polynomial_6_7,x,tensor(0.2288),-10.362532453567734
+Cubic Polynomial_6_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedd050>>
+Cubic Polynomial_6_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf100d0>>
+Cubic Polynomial_6_10,x**5/20,tensor(0.2257),-10.76793256046062
+Cubic Polynomial_6_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf12d90>>
+Cubic Polynomial_6_12,cos(x + 4),tensor(0.2425),-8.752597339034738
+Cubic Polynomial_6_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be1c8d0>>
+Cubic Polynomial_6_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be82d50>>
+Cubic Polynomial_6_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf10210>>
+Cubic Polynomial_6_16,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf11b50>>
+Cubic Polynomial_6_17,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf12a10>>
+Cubic Polynomial_6_18,-3*cos(x),tensor(0.3043),-4.226465517850375
+Cubic Polynomial_6_19,x**4*cosh(x),tensor(0.2171),-12.007397763882183
+Cubic Polynomial_6_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf04350>>
+Cubic Polynomial_6_21,x**2*cosh(x),tensor(0.2131),-12.643613416984579
+Cubic Polynomial_6_22,x*cos(3),tensor(0.2214),-11.366150396234442
+Cubic Polynomial_6_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc1510>>
+Cubic Polynomial_6_24,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3df90>>
+Cubic Polynomial_6_25,4*log(x),tensor(0.),0
+Cubic Polynomial_6_26,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3f010>>
+Cubic Polynomial_6_27,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3e690>>
+Cubic Polynomial_6_28,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3f9d0>>
+Cubic Polynomial_6_29,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3cdd0>>
+Cubic Polynomial_6_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3ea10>>
+Cubic Polynomial_6_31,cosh(x + 2),tensor(0.1508),-30.724516419885262
+Cubic Polynomial_6_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed8f90>>
+Cubic Polynomial_6_33,x**2 + 3*x,tensor(0.2210),-11.418204634635718
+Cubic Polynomial_6_34,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3c550>>
+Cubic Polynomial_6_35,x**4 + x + 8,tensor(0.1167),-56.25253956004322
+Cubic Polynomial_6_36,2*x**2*cos(3),tensor(0.2462),-8.378951663637542
+Cubic Polynomial_6_37,4*x*sin(x) + x,tensor(0.1964),-15.745059650839888
+Cubic Polynomial_6_38,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0b690>>
+Cubic Polynomial_6_39,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf08090>>
+Cubic Polynomial_6_40,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf09e10>>
+Cubic Polynomial_6_41,4*x + sin(x),tensor(0.2283),-10.429178096986186
+Cubic Polynomial_6_42,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0b150>>
+Cubic Polynomial_6_43,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf08710>>
+Cubic Polynomial_6_44,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf09950>>
+Cubic Polynomial_6_45,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0e290>>
+Cubic Polynomial_6_46,x*(x + exp(x)),tensor(0.2093),-13.269081063046437
+Cubic Polynomial_6_47,x**2*sin(1),tensor(0.2176),-11.925227303771615
+Cubic Polynomial_6_48,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0dc10>>
+Cubic Polynomial_6_49,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0e090>>
+Cubic Polynomial_6_50,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0edd0>>
+Cubic Polynomial_6_51,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0eed0>>
+Cubic Polynomial_6_52,x + pi/2,tensor(0.1936),-16.340784424005573
+Cubic Polynomial_6_53,x*exp(-x/2),tensor(0.2343),-9.676379515704813
+Cubic Polynomial_6_54,cos(x + 6),tensor(0.2080),-13.4943934543769
+Cubic Polynomial_6_55,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf08110>>
+Cubic Polynomial_6_56,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf09790>>
+Cubic Polynomial_6_57,x*(x + 3) + x,tensor(0.2203),-11.527932399537287
+Cubic Polynomial_6_58,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0a450>>
+Cubic Polynomial_6_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf09090>>
+Cubic Polynomial_6_60,x + cos(acosh(x)),tensor(0.),0
+Cubic Polynomial_6_61,3*atan(x),tensor(0.2311),-10.074836967598618
+Cubic Polynomial_6_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf09590>>
+Cubic Polynomial_6_63,cos(x/2),tensor(0.2038),-14.255611721517118
+Cubic Polynomial_6_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdaff90>>
+Cubic Polynomial_6_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf07a50>>
+Cubic Polynomial_6_66,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3ca90>>
+Cubic Polynomial_6_67,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3df10>>
+Cubic Polynomial_6_68,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf12290>>
+Cubic Polynomial_6_69,2*x,tensor(0.2307),-10.12243346472081
+Cubic Polynomial_6_70,sin(sqrt(x)),tensor(0.),0
+Cubic Polynomial_6_71,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf12f10>>
+Cubic Polynomial_6_72,58*x**4,tensor(0.0735),-157.73333722044194
+Cubic Polynomial_6_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf25750>>
+Cubic Polynomial_6_74,x*(x + 9),tensor(0.2014),-14.727750491432126
+Cubic Polynomial_6_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0cbd0>>
+Cubic Polynomial_6_76,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0ef90>>
+Cubic Polynomial_6_77,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0f850>>
+Cubic Polynomial_6_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0d850>>
+Cubic Polynomial_6_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0fe90>>
+Cubic Polynomial_6_80,x**2*(x + asinh(x)),tensor(0.2292),-10.313426080473638
+Cubic Polynomial_6_81,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0d550>>
+Cubic Polynomial_6_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0f1d0>>
+Cubic Polynomial_6_83,4*sinh(x),tensor(0.2296),-10.264844807450409
+Cubic Polynomial_6_84,-x**2 + x + log(x),tensor(0.),0
+Cubic Polynomial_6_85,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0d390>>
+Cubic Polynomial_6_86,x - exp(x),tensor(0.2597),-7.121838315331566
+Cubic Polynomial_6_87,x**2/2,tensor(0.2208),-11.451198977889968
+Cubic Polynomial_6_88,x**4 + x + cos(x),tensor(0.2038),-14.256445162007685
+Cubic Polynomial_6_89,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0e2d0>>
+Cubic Polynomial_6_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf71310>>
+Cubic Polynomial_6_91,x*exp(x),tensor(0.2185),-11.785040295144066
+Cubic Polynomial_6_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf72010>>
+Cubic Polynomial_6_93,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf700d0>>
+Cubic Polynomial_6_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf72c50>>
+Cubic Polynomial_6_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf73750>>
+Cubic Polynomial_6_96,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf70090>>
+Cubic Polynomial_6_97,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf71550>>
+Cubic Polynomial_6_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf71610>>
+Cubic Polynomial_6_99,2*x**2 - x,tensor(0.2040),-14.226413827221274
+Cubic Polynomial_6_100,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf12d50>>
+Cubic Polynomial_6_101,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf72a50>>
+Cubic Polynomial_6_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf73a10>>
+Cubic Polynomial_6_103,-x + sinh(x),tensor(0.2260),-10.725920087687365
+Cubic Polynomial_6_104,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0cc10>>
+Cubic Polynomial_6_105,sin(x) + atanh(x),tensor(0.2311),-10.070438511866437
+Cubic Polynomial_6_106,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0e210>>
+Cubic Polynomial_6_107,sqrt(2*x + 4),tensor(0.1855),-18.281665023296064
+Cubic Polynomial_6_108,7*x,tensor(0.2200),-11.573117787873183
+Cubic Polynomial_6_109,1/5,tensor(0.),0
+Cubic Polynomial_6_110,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc40250>>
+Cubic Polynomial_6_111,x**2*(x**2 + 2*x),tensor(0.2228),-11.162229930854991
+Cubic Polynomial_6_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc417d0>>
+Cubic Polynomial_6_113,x*log(x + 2),tensor(0.2224),-11.21783506969678
+Cubic Polynomial_6_114,exp(x)/4,tensor(0.2192),-11.690806128785852
+Cubic Polynomial_6_115,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bede710>>
+Cubic Polynomial_6_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf724d0>>
+Cubic Polynomial_6_117,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf70990>>
+Cubic Polynomial_6_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf72710>>
+Cubic Polynomial_6_119,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf71710>>
+Cubic Polynomial_6_120,x**2*cos(2),tensor(0.2297),-10.240408164330056
+Cubic Polynomial_6_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf72c10>>
+Cubic Polynomial_6_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3ad50>>
+Cubic Polynomial_6_123,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3b010>>
+Cubic Polynomial_6_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da39010>>
+Cubic Polynomial_6_125,x*log(2*x) - 12*x,tensor(0.),0
+Cubic Polynomial_6_126,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3b490>>
+Cubic Polynomial_6_127,3*x**2,tensor(0.1990),-15.207387502999282
+Cubic Polynomial_7_0,8/x**2,tensor(1.4461e-07),-47816673393895.88
+Cubic Polynomial_7_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3ec10>>
+Cubic Polynomial_7_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc43e90>>
+Cubic Polynomial_7_3,x/4,tensor(0.2265),-10.65859578815111
+Cubic Polynomial_7_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf54990>>
+Cubic Polynomial_7_5,x**3 + x + sin(x),tensor(0.2312),-10.061682376393568
+Cubic Polynomial_7_6,exp(x) + sin(x),tensor(0.2022),-14.56660792929407
+Cubic Polynomial_7_7,(1 - x)**2,tensor(0.1892),-17.36969171081809
+Cubic Polynomial_7_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf55e10>>
+Cubic Polynomial_7_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf26190>>
+Cubic Polynomial_7_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf25b90>>
+Cubic Polynomial_7_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf26910>>
+Cubic Polynomial_7_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3a8d0>>
+Cubic Polynomial_7_13,x*(x + sqrt(2)) + x,tensor(0.2209),-11.436019790058289
+Cubic Polynomial_7_14,x + cos(x),tensor(0.2090),-13.320938125289265
+Cubic Polynomial_7_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf500d0>>
+Cubic Polynomial_7_16,3*x + sqrt(x + 3),tensor(0.1921),-16.675967934499184
+Cubic Polynomial_7_17,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3b0d0>>
+Cubic Polynomial_7_18,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf50790>>
+Cubic Polynomial_7_19,x**2*cosh(2),tensor(0.1930),-16.484208510791802
+Cubic Polynomial_7_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da39cd0>>
+Cubic Polynomial_7_21,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf381d0>>
+Cubic Polynomial_7_22,5*x + exp(x),tensor(0.1980),-15.397728190172717
+Cubic Polynomial_7_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3a490>>
+Cubic Polynomial_7_24,x**2*(exp(x) + sin(x)),tensor(0.2161),-12.154162833405962
+Cubic Polynomial_7_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3aa50>>
+Cubic Polynomial_7_26,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf39490>>
+Cubic Polynomial_7_27,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf39450>>
+Cubic Polynomial_7_28,x*(x + tan(x)),tensor(0.2046),-14.108016328013907
+Cubic Polynomial_7_29,sqrt(cosh(x)) - 3,tensor(0.2849),-5.3005330025957695
+Cubic Polynomial_7_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da74810>>
+Cubic Polynomial_7_31,(x**2 + x)**2,tensor(0.2133),-12.602647573094885
+Cubic Polynomial_7_32,x - 4*exp(x),tensor(0.3311),-3.0817897130515552
+Cubic Polynomial_7_33,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da75dd0>>
+Cubic Polynomial_7_34,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da74890>>
+Cubic Polynomial_7_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da75210>>
+Cubic Polynomial_7_36,cos(x + 4),tensor(0.2425),-8.752597339034738
+Cubic Polynomial_7_37,log(cos(x)),tensor(0.2313),-10.050290354716868
+Cubic Polynomial_7_38,x*(2*x + 46),tensor(0.0697),-177.04495851325515
+Cubic Polynomial_7_39,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdcfbd0>>
+Cubic Polynomial_7_40,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da75390>>
+Cubic Polynomial_7_41,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da759d0>>
+Cubic Polynomial_7_42,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da74e50>>
+Cubic Polynomial_7_43,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da756d0>>
+Cubic Polynomial_7_44,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da77bd0>>
+Cubic Polynomial_7_45,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da74610>>
+Cubic Polynomial_7_46,x*log(3),tensor(0.2290),-10.331000483725113
+Cubic Polynomial_7_47,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da75a10>>
+Cubic Polynomial_7_48,5*x**3/3,tensor(0.2288),-10.357801405512198
+Cubic Polynomial_7_49,3*x*sin(x) + x,tensor(0.2037),-14.274638229322347
+Cubic Polynomial_7_50,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be9d610>>
+Cubic Polynomial_7_51,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bbaa990>>
+Cubic Polynomial_7_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3ae50>>
+Cubic Polynomial_7_53,2*x + log(x),tensor(0.),0
+Cubic Polynomial_7_54,(3*x + 5)**2,tensor(0.0489),-377.0740099256971
+Cubic Polynomial_7_55,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf38150>>
+Cubic Polynomial_7_56,5*x**2 + x,tensor(0.1856),-18.253667697799262
+Cubic Polynomial_7_57,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bede9d0>>
+Cubic Polynomial_7_58,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf52950>>
+Cubic Polynomial_7_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf56f10>>
+Cubic Polynomial_7_60,1,tensor(0.),0
+Cubic Polynomial_7_61,atan(x),tensor(0.2284),-10.414434716472602
+Cubic Polynomial_7_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf130d0>>
+Cubic Polynomial_7_63,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf13190>>
+Cubic Polynomial_7_64,x*exp(1/(x + 1)),tensor(0.),0
+Cubic Polynomial_7_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc40cd0>>
+Cubic Polynomial_7_66,x*sin(x + 4),tensor(0.2291),-10.31983605220598
+Cubic Polynomial_7_67,x**3 + 2*x,tensor(0.2312),-10.05611601336128
+Cubic Polynomial_7_68,x*acos(3),tensor(0.),0
+Cubic Polynomial_7_69,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf42b90>>
+Cubic Polynomial_7_70,2*x + cos(x),tensor(0.2104),-13.076329915289884
+Cubic Polynomial_7_71,5*tan(x),tensor(0.2227),-11.188900750209744
+Cubic Polynomial_7_72,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3a650>>
+Cubic Polynomial_7_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf42950>>
+Cubic Polynomial_7_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf411d0>>
+Cubic Polynomial_7_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf42710>>
+Cubic Polynomial_7_76,x**6/26,tensor(0.2255),-10.803121295476895
+Cubic Polynomial_7_77,cos(x + 1),tensor(0.2123),-12.76738909537431
+Cubic Polynomial_7_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf410d0>>
+Cubic Polynomial_7_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf41c90>>
+Cubic Polynomial_7_80,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf67050>>
+Cubic Polynomial_7_81,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf66850>>
+Cubic Polynomial_7_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf65d90>>
+Cubic Polynomial_7_83,-x + tan(x),tensor(0.2267),-10.637775474087258
+Cubic Polynomial_7_84,log(x*(x + 2)),tensor(0.),0
+Cubic Polynomial_7_85,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf670d0>>
+Cubic Polynomial_7_86,3*x + atanh(x),tensor(0.2294),-10.288290901438653
+Cubic Polynomial_7_87,x**2 + x + sin(x),tensor(0.2205),-11.503296225169327
+Cubic Polynomial_7_88,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf41250>>
+Cubic Polynomial_7_89,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf42490>>
+Cubic Polynomial_7_90,-4*x + 4*cos(x),tensor(0.1555),-28.473847244689743
+Cubic Polynomial_7_91,5*x + sin(x),tensor(0.2249),-10.879029568252333
+Cubic Polynomial_7_92,x + tan(x) + 2,tensor(0.1870),-17.906022656728492
+Cubic Polynomial_7_93,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf57050>>
+Cubic Polynomial_7_94,x**2 + 5,tensor(0.1401),-36.671148303872634
+Cubic Polynomial_7_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc6d90>>
+Cubic Polynomial_7_96,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3b750>>
+Cubic Polynomial_7_97,x + x*log(3),tensor(0.2308),-10.108330751893288
+Cubic Polynomial_7_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3b7d0>>
+Cubic Polynomial_7_99,atan(x + 5),tensor(0.1956),-15.910672251793663
+Cubic Polynomial_7_100,x**2,tensor(0.2162),-12.149493046885816
+Cubic Polynomial_7_101,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da75250>>
+Cubic Polynomial_7_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf66090>>
+Cubic Polynomial_7_103,5*x**2/32,tensor(0.2241),-10.98647752801365
+Cubic Polynomial_7_104,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf652d0>>
+Cubic Polynomial_7_105,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf64550>>
+Cubic Polynomial_7_106,x + 5/x,tensor(0.0023),-180577.64530162868
+Cubic Polynomial_7_107,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf66010>>
+Cubic Polynomial_7_108,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf67f90>>
+Cubic Polynomial_7_109,sin(x) + cos(x),tensor(0.2088),-13.356027059869287
+Cubic Polynomial_7_110,x*(3 - x),tensor(0.2420),-8.805842158149012
+Cubic Polynomial_7_111,2*x + acosh(x),tensor(0.),0
+Cubic Polynomial_7_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be1db50>>
+Cubic Polynomial_7_113,5*x,tensor(0.2280),-10.462608205134835
+Cubic Polynomial_7_114,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf6bcd0>>
+Cubic Polynomial_7_115,-2*x + exp(x),tensor(0.1963),-15.770435742156511
+Cubic Polynomial_7_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf68810>>
+Cubic Polynomial_7_117,x**3 + 5*x,tensor(0.2261),-10.713952569931385
+Cubic Polynomial_7_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf68090>>
+Cubic Polynomial_7_119,x + sinh(x) + 4,tensor(0.1569),-27.89561463182348
+Cubic Polynomial_7_120,x*log(2)**3,tensor(0.2268),-10.620928044316944
+Cubic Polynomial_7_121,-2*x**4 + x,tensor(0.2420),-8.807978213963553
+Cubic Polynomial_7_122,x*sin(2*x),tensor(0.2138),-12.525584731739817
+Cubic Polynomial_7_123,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf68350>>
+Cubic Polynomial_7_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf69810>>
+Cubic Polynomial_7_125,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf6a510>>
+Cubic Polynomial_7_126,2*x - acosh(sqrt(x)),tensor(0.),0
+Cubic Polynomial_7_127,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf6aad0>>
+Cubic Polynomial_8_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5bf10>>
+Cubic Polynomial_8_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5ad10>>
+Cubic Polynomial_8_2,x + sin(x) + 1,tensor(0.2064),-13.787939297787847
+Cubic Polynomial_8_3,cos(x) + 1,tensor(0.1872),-17.851884400891954
+Cubic Polynomial_8_4,3*sqrt(3)/x,tensor(0.0023),-195020.08870990036
+Cubic Polynomial_8_5,sqrt(2*x + 1),tensor(0.),0
+Cubic Polynomial_8_6,(x + 4)**2,tensor(0.0781),-138.39103701374557
+Cubic Polynomial_8_7,x**3*exp(4),tensor(0.0882),-105.97895808920613
+Cubic Polynomial_8_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf10410>>
+Cubic Polynomial_8_9,2*cos(x - 4),tensor(0.2466),-8.338530479618957
+Cubic Polynomial_8_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf58110>>
+Cubic Polynomial_8_11,x**2 + cosh(x),tensor(0.1914),-16.84431316227441
+Cubic Polynomial_8_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5a690>>
+Cubic Polynomial_8_13,x*cos(x + 2),tensor(0.2325),-9.894216881155737
+Cubic Polynomial_8_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da07510>>
+Cubic Polynomial_8_15,sqrt(2)*x*acos(x),tensor(0.2495),-8.045869046193637
+Cubic Polynomial_8_16,sin(x + 1),tensor(0.2108),-13.020309612677227
+Cubic Polynomial_8_17,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da04c10>>
+Cubic Polynomial_8_18,(x + 3)*exp(x),tensor(0.1563),-28.131237111925103
+Cubic Polynomial_8_19,-x**2 + x,tensor(0.2393),-9.101967220877517
+Cubic Polynomial_8_20,45/(x + 4),tensor(0.0960),-87.6290512598864
+Cubic Polynomial_8_21,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da04950>>
+Cubic Polynomial_8_22,sqrt(6)*x**3,tensor(0.2298),-10.232119207462054
+Cubic Polynomial_8_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3fd50>>
+Cubic Polynomial_8_24,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3e090>>
+Cubic Polynomial_8_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3f510>>
+Cubic Polynomial_8_26,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3ec50>>
+Cubic Polynomial_8_27,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3e790>>
+Cubic Polynomial_8_28,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3f650>>
+Cubic Polynomial_8_29,x**2 + x*sin(x),tensor(0.2082),-13.467378603382398
+Cubic Polynomial_8_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3d950>>
+Cubic Polynomial_8_31,-2*cosh(x),tensor(0.3068),-4.104112034909887
+Cubic Polynomial_8_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3c210>>
+Cubic Polynomial_8_33,x - sinh(x),tensor(0.2252),-10.83509795549565
+Cubic Polynomial_8_34,2*x**2 - 2*cos(x),tensor(0.2463),-8.360123697728515
+Cubic Polynomial_8_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da04e50>>
+Cubic Polynomial_8_36,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da06290>>
+Cubic Polynomial_8_37,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da04c50>>
+Cubic Polynomial_8_38,x**3*cos(4),tensor(0.2240),-11.001921312933865
+Cubic Polynomial_8_39,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88beded90>>
+Cubic Polynomial_8_40,acosh(4),tensor(0.),0
+Cubic Polynomial_8_41,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf6aa90>>
+Cubic Polynomial_8_42,-x + tanh(x),tensor(0.2250),-10.863773254643881
+Cubic Polynomial_8_43,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf59b10>>
+Cubic Polynomial_8_44,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3b210>>
+Cubic Polynomial_8_45,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf50ad0>>
+Cubic Polynomial_8_46,x**2 + exp(x),tensor(0.1935),-16.379143609089162
+Cubic Polynomial_8_47,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf53850>>
+Cubic Polynomial_8_48,234*x**4,tensor(0.0230),-1807.4999592043725
+Cubic Polynomial_8_49,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf3f350>>
+Cubic Polynomial_8_50,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3e590>>
+Cubic Polynomial_8_51,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3ea50>>
+Cubic Polynomial_8_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3c790>>
+Cubic Polynomial_8_53,2*x + log(x),tensor(0.),0
+Cubic Polynomial_8_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3d850>>
+Cubic Polynomial_8_55,(x**4 + x)**5,tensor(0.1810),-19.4718724859494
+Cubic Polynomial_8_56,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3e490>>
+Cubic Polynomial_8_57,3*sqrt(x) + 3*x,tensor(0.),0
+Cubic Polynomial_8_58,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3efd0>>
+Cubic Polynomial_8_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da1ac10>>
+Cubic Polynomial_8_60,tanh(x) + 1,tensor(0.2048),-14.07376465107979
+Cubic Polynomial_8_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee1490>>
+Cubic Polynomial_8_62,x*cos(x) - 1,tensor(0.2571),-7.348213415712779
+Cubic Polynomial_8_63,atanh(x + 2),tensor(0.),0
+Cubic Polynomial_8_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da1a7d0>>
+Cubic Polynomial_8_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da1bed0>>
+Cubic Polynomial_8_66,x**2 + cos(x),tensor(0.1988),-15.239272912315464
+Cubic Polynomial_8_67,2*x*(2 - x),tensor(0.2523),-7.779211038594591
+Cubic Polynomial_8_68,x**2*exp(2),tensor(0.1684),-23.402664163660997
+Cubic Polynomial_8_69,atanh(x**3)/5,tensor(0.2262),-10.696195023928283
+Cubic Polynomial_8_70,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf58c90>>
+Cubic Polynomial_8_71,x**5/5 + x**2,tensor(0.2165),-12.104036538159663
+Cubic Polynomial_8_72,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3bc90>>
+Cubic Polynomial_8_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2db10>>
+Cubic Polynomial_8_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2ced0>>
+Cubic Polynomial_8_75,x + 4,tensor(0.1562),-28.18007052676969
+Cubic Polynomial_8_76,8*x**2,tensor(0.1647),-24.705150904193438
+Cubic Polynomial_8_77,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da1bc50>>
+Cubic Polynomial_8_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da18d90>>
+Cubic Polynomial_8_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da182d0>>
+Cubic Polynomial_8_80,-cosh(x + 2),tensor(0.3083),-4.031892435926216
+Cubic Polynomial_8_81,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da1ab50>>
+Cubic Polynomial_8_82,acos(2*x + 4),tensor(0.),0
+Cubic Polynomial_8_83,2*x + sin(x),tensor(0.2312),-10.05971100793129
+Cubic Polynomial_8_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf417d0>>
+Cubic Polynomial_8_85,-36*x**2 + 6*x,tensor(0.1465),-32.91761011274709
+Cubic Polynomial_8_86,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3c810>>
+Cubic Polynomial_8_87,log(2*x),tensor(0.),0
+Cubic Polynomial_8_88,x + x/(x + 1),tensor(0.0041),-59750.17021987367
+Cubic Polynomial_8_89,x*cos(3) + x,tensor(0.2257),-10.774329617437997
+Cubic Polynomial_8_90,4/x**8,tensor(9.8882e-32),-1.0227380868059984e+62
+Cubic Polynomial_8_91,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da05890>>
+Cubic Polynomial_8_92,x/16,tensor(0.2259),-10.748145875316801
+Cubic Polynomial_8_93,-x + acosh(x),tensor(0.),0
+Cubic Polynomial_8_94,exp(-x),tensor(0.1956),-15.917929352666835
+Cubic Polynomial_8_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2ea90>>
+Cubic Polynomial_8_96,exp(2*x),tensor(0.1879),-17.687277475520407
+Cubic Polynomial_8_97,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2e4d0>>
+Cubic Polynomial_8_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2fbd0>>
+Cubic Polynomial_8_99,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2c2d0>>
+Cubic Polynomial_8_100,0,tensor(0.),0
+Cubic Polynomial_8_101,log(5*x/2),tensor(0.),0
+Cubic Polynomial_8_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2dc10>>
+Cubic Polynomial_8_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5f910>>
+Cubic Polynomial_8_104,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da13cd0>>
+Cubic Polynomial_8_105,x**2 + 4,tensor(0.1508),-30.69895930893996
+Cubic Polynomial_8_106,4*x*sin(x),tensor(0.1944),-16.174910603041127
+Cubic Polynomial_8_107,3*tan(x),tensor(0.2305),-10.139715905066762
+Cubic Polynomial_8_108,x + tan(x - 2),tensor(0.0023),-193910.44367106634
+Cubic Polynomial_8_109,x*(x + asinh(x)),tensor(0.2080),-13.49921172597903
+Cubic Polynomial_8_110,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf58150>>
+Cubic Polynomial_8_111,x**4 + 2*x,tensor(0.2241),-10.984833157284307
+Cubic Polynomial_8_112,2*sinh(x),tensor(0.2309),-10.090937897553179
+Cubic Polynomial_8_113,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc5db50>>
+Cubic Polynomial_8_114,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2f4d0>>
+Cubic Polynomial_8_115,x**2*(x - log(x)),tensor(0.),0
+Cubic Polynomial_8_116,x*(x + 5),tensor(0.2184),-11.81440544893132
+Cubic Polynomial_8_117,x**3 - x,tensor(0.2241),-10.98898701722337
+Cubic Polynomial_8_118,5/x,tensor(0.0023),-180575.39250104318
+Cubic Polynomial_8_119,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da116d0>>
+Cubic Polynomial_8_120,x**(3/5)*log(2),tensor(0.),0
+Cubic Polynomial_8_121,x*(x**2 + 1/x),tensor(0.2044),-14.157348739576681
+Cubic Polynomial_8_122,x*(x + 5),tensor(0.2184),-11.81440544893132
+Cubic Polynomial_8_123,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da101d0>>
+Cubic Polynomial_8_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da10a90>>
+Cubic Polynomial_8_125,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da10350>>
+Cubic Polynomial_8_126,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da13a10>>
+Cubic Polynomial_8_127,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da72050>>
+Cubic Polynomial_9_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da70810>>
+Cubic Polynomial_9_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da10d10>>
+Cubic Polynomial_9_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da067d0>>
+Cubic Polynomial_9_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec2450>>
+Cubic Polynomial_9_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf419d0>>
+Cubic Polynomial_9_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf51010>>
+Cubic Polynomial_9_6,atanh(x + 1),tensor(0.),0
+Cubic Polynomial_9_7,x*exp(2*x),tensor(0.2026),-14.494698892137041
+Cubic Polynomial_9_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2e990>>
+Cubic Polynomial_9_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da07d90>>
+Cubic Polynomial_9_10,1,tensor(0.),0
+Cubic Polynomial_9_11,x**5 + 3*x,tensor(0.2310),-10.079138934064272
+Cubic Polynomial_9_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2fb90>>
+Cubic Polynomial_9_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da71c90>>
+Cubic Polynomial_9_14,-2*log(x),tensor(0.),0
+Cubic Polynomial_9_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da1b210>>
+Cubic Polynomial_9_16,32*x**4,tensor(0.1078),-67.53747717746556
+Cubic Polynomial_9_17,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5ac90>>
+Cubic Polynomial_9_18,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf52510>>
+Cubic Polynomial_9_19,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf68c10>>
+Cubic Polynomial_9_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf6a250>>
+Cubic Polynomial_9_21,x + asin(x) + 2,tensor(0.1869),-17.92006794053109
+Cubic Polynomial_9_22,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf56190>>
+Cubic Polynomial_9_23,3/x**2,tensor(3.8564e-07),-6724219831441.954
+Cubic Polynomial_9_24,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4a310>>
+Cubic Polynomial_9_25,-log(cos(2*x))/2,tensor(0.),0
+Cubic Polynomial_9_26,x*exp(-x),tensor(0.2414),-8.872108646790217
+Cubic Polynomial_9_27,cos(log(x)),tensor(0.),0
+Cubic Polynomial_9_28,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4a850>>
+Cubic Polynomial_9_29,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da48090>>
+Cubic Polynomial_9_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da49650>>
+Cubic Polynomial_9_31,x + tanh(x) + 4,tensor(0.1567),-27.948028108919033
+Cubic Polynomial_9_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdfab90>>
+Cubic Polynomial_9_33,x*cos(x + 3),tensor(0.2239),-11.011949708084847
+Cubic Polynomial_9_34,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee98d0>>
+Cubic Polynomial_9_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4ba90>>
+Cubic Polynomial_9_36,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da09d10>>
+Cubic Polynomial_9_37,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da0b7d0>>
+Cubic Polynomial_9_38,-x**2/2 + x,tensor(0.2340),-9.719013928216123
+Cubic Polynomial_9_39,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da0b190>>
+Cubic Polynomial_9_40,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da0b2d0>>
+Cubic Polynomial_9_41,log(5*x),tensor(0.),0
+Cubic Polynomial_9_42,x,tensor(0.2288),-10.362532453567734
+Cubic Polynomial_9_43,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da0bfd0>>
+Cubic Polynomial_9_44,x*sin(5) + x,tensor(0.2258),-10.758773679313315
+Cubic Polynomial_9_45,x**4 + x**2,tensor(0.2103),-13.092472232947898
+Cubic Polynomial_9_46,2*x - 2,tensor(0.3003),-4.429711784166938
+Cubic Polynomial_9_47,3*exp(x) + sin(x),tensor(0.1620),-25.74639058040394
+Cubic Polynomial_9_48,x,tensor(0.2288),-10.362532453567734
+Cubic Polynomial_9_49,x/cos(1)**3,tensor(0.2231),-11.128495368174322
+Cubic Polynomial_9_50,asin(x)**4,tensor(0.2103),-13.099205856852782
+Cubic Polynomial_9_51,2*sin(x),tensor(0.2304),-10.159696780292185
+Cubic Polynomial_9_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be936d0>>
+Cubic Polynomial_9_53,x*log(2*x) + x,tensor(0.),0
+Cubic Polynomial_9_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da0aa10>>
+Cubic Polynomial_9_55,3*x + 5,tensor(0.1453),-33.60345715408213
+Cubic Polynomial_9_56,109*x**2,tensor(0.0345),-783.3745389028239
+Cubic Polynomial_9_57,x**2/2 + log(x),tensor(0.),0
+Cubic Polynomial_9_58,x*exp(-x),tensor(0.2414),-8.872108646790217
+Cubic Polynomial_9_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da12450>>
+Cubic Polynomial_9_60,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5bc90>>
+Cubic Polynomial_9_61,x**2 + 4*x,tensor(0.2203),-11.527932399537287
+Cubic Polynomial_9_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da19150>>
+Cubic Polynomial_9_63,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da19710>>
+Cubic Polynomial_9_64,4/(3*x),tensor(0.0087),-12853.197678680535
+Cubic Polynomial_9_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be66050>>
+Cubic Polynomial_9_66,3*x*exp(x),tensor(0.1995),-15.095373933736191
+Cubic Polynomial_9_67,4*x**4 + x,tensor(0.2043),-14.173177857342111
+Cubic Polynomial_9_68,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da37250>>
+Cubic Polynomial_9_69,4*log(x),tensor(0.),0
+Cubic Polynomial_9_70,x**3*sin(5)/3,tensor(0.2249),-10.884177285717891
+Cubic Polynomial_9_71,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da379d0>>
+Cubic Polynomial_9_72,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da374d0>>
+Cubic Polynomial_9_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da36b50>>
+Cubic Polynomial_9_74,x*(x + exp(x)) + 1,tensor(0.1895),-17.292409223757726
+Cubic Polynomial_9_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be71f90>>
+Cubic Polynomial_9_76,4*cos(x),tensor(0.1640),-24.966869767968255
+Cubic Polynomial_9_77,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da40850>>
+Cubic Polynomial_9_78,-sin(x),tensor(0.2218),-11.306151790474786
+Cubic Polynomial_9_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da42750>>
+Cubic Polynomial_9_80,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da42990>>
+Cubic Polynomial_9_81,x*exp(x + 4) + x,tensor(0.0361),-711.3223544615308
+Cubic Polynomial_9_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da36910>>
+Cubic Polynomial_9_83,x*exp(x) + x,tensor(0.2198),-11.597001863216342
+Cubic Polynomial_9_84,x*sin(x + 3),tensor(0.2350),-9.600389086520618
+Cubic Polynomial_9_85,exp(x + 4),tensor(0.0243),-1614.8577254866311
+Cubic Polynomial_9_86,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da37a10>>
+Cubic Polynomial_9_87,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec3790>>
+Cubic Polynomial_9_88,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da11b10>>
+Cubic Polynomial_9_89,-4*sin(x),tensor(0.2066),-13.754217342218512
+Cubic Polynomial_9_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da71650>>
+Cubic Polynomial_9_91,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da49690>>
+Cubic Polynomial_9_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4a990>>
+Cubic Polynomial_9_93,4*x**5,tensor(0.2297),-10.240070998572136
+Cubic Polynomial_9_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da484d0>>
+Cubic Polynomial_9_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da0b350>>
+Cubic Polynomial_9_96,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da0bad0>>
+Cubic Polynomial_9_97,2*x**2*tan(2*x),tensor(0.0136),-5245.430749045011
+Cubic Polynomial_9_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da61c90>>
+Cubic Polynomial_9_99,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da63fd0>>
+Cubic Polynomial_9_100,2*x**2 + 1,tensor(0.1881),-17.638715031271047
+Cubic Polynomial_9_101,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da619d0>>
+Cubic Polynomial_9_102,-x**2/416,tensor(0.2256),-10.776210752350405
+Cubic Polynomial_9_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da63390>>
+Cubic Polynomial_9_104,x*acosh(x) + sin(x),tensor(0.),0
+Cubic Polynomial_9_105,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da137d0>>
+Cubic Polynomial_9_106,-sin(x),tensor(0.2218),-11.306151790474786
+Cubic Polynomial_9_107,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da43c90>>
+Cubic Polynomial_9_108,sin(x - 1),tensor(0.2463),-8.36522497554859
+Cubic Polynomial_9_109,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf10b50>>
+Cubic Polynomial_9_110,(x + 2)*cos(x),tensor(0.1917),-16.7779449115149
+Cubic Polynomial_9_111,-x - cos(x) - 3,tensor(0.3533),-2.3501226945326494
+Cubic Polynomial_9_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da13450>>
+Cubic Polynomial_9_113,2*x**2 + exp(x),tensor(0.1863),-18.08395304253155
+Cubic Polynomial_9_114,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da09fd0>>
+Cubic Polynomial_9_115,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da70c50>>
+Cubic Polynomial_9_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf53fd0>>
+Cubic Polynomial_9_117,sin(x) + cosh(x),tensor(0.2007),-14.851761186721744
+Cubic Polynomial_9_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da43110>>
+Cubic Polynomial_9_119,x,tensor(0.2288),-10.362532453567734
+Cubic Polynomial_9_120,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da09b10>>
+Cubic Polynomial_9_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da36390>>
+Cubic Polynomial_9_122,5*x**2/12,tensor(0.2216),-11.337390282030814
+Cubic Polynomial_9_123,atan(x),tensor(0.2284),-10.414434716472602
+Cubic Polynomial_9_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da62050>>
+Cubic Polynomial_9_125,x**2*exp(-2)/2,tensor(0.2250),-10.868749120163987
+Cubic Polynomial_9_126,x + sinh(x),tensor(0.2308),-10.105553386452616
+Cubic Polynomial_9_127,x*atan(2)**3,tensor(0.2296),-10.256499546510085
+Cubic Polynomial_10_0,sqrt(x + 3),tensor(0.1896),-17.274014885037438
+Cubic Polynomial_10_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee2b50>>
+Cubic Polynomial_10_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3cf90>>
+Cubic Polynomial_10_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da13890>>
+Cubic Polynomial_10_4,1/(3*x**2),tensor(3.4707e-06),-83015081057.16298
+Cubic Polynomial_10_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da41210>>
+Cubic Polynomial_10_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdc6f50>>
+Cubic Polynomial_10_7,x*sin(5),tensor(0.2216),-11.345103296384774
+Cubic Polynomial_10_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec7f10>>
+Cubic Polynomial_10_9,8*x**5,tensor(0.2280),-10.46274519405601
+Cubic Polynomial_10_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be38790>>
+Cubic Polynomial_10_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da62fd0>>
+Cubic Polynomial_10_12,x/(x - 1),tensor(0.0569),-273.69415944024564
+Cubic Polynomial_10_13,-5*x**3,tensor(0.2091),-13.30144282242351
+Cubic Polynomial_10_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da60890>>
+Cubic Polynomial_10_15,-acos(x)/2,tensor(0.2499),-8.013011658700872
+Cubic Polynomial_10_16,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da48b90>>
+Cubic Polynomial_10_17,cos(cos(x)),tensor(0.2097),-13.198196589968356
+Cubic Polynomial_10_18,(x + 4)/x,tensor(0.0029),-115580.51847488496
+Cubic Polynomial_10_19,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da51450>>
+Cubic Polynomial_10_20,x*(x + tanh(x) + 1),tensor(0.2112),-12.948332277723269
+Cubic Polynomial_10_21,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da42850>>
+Cubic Polynomial_10_22,x*(x**2 + sin(x) - 2),tensor(0.2116),-12.881777678919402
+Cubic Polynomial_10_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da49ed0>>
+Cubic Polynomial_10_24,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf51650>>
+Cubic Polynomial_10_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf52050>>
+Cubic Polynomial_10_26,log(7*x**2),tensor(0.2134),-12.590759904112758
+Cubic Polynomial_10_27,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf0a950>>
+Cubic Polynomial_10_28,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdadbd0>>
+Cubic Polynomial_10_29,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dac3fd0>>
+Cubic Polynomial_10_30,x*(cosh(x) + 4),tensor(0.2271),-10.586433044862185
+Cubic Polynomial_10_31,x + sin(1),tensor(0.2086),-13.401226761590909
+Cubic Polynomial_10_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dac3e50>>
+Cubic Polynomial_10_33,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dac0310>>
+Cubic Polynomial_10_34,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dac0a10>>
+Cubic Polynomial_10_35,x*tan(1),tensor(0.2300),-10.20689750696112
+Cubic Polynomial_10_36,2*x**2 + x,tensor(0.2097),-13.201324735104258
+Cubic Polynomial_10_37,x*sinh(x**2),tensor(0.2279),-10.478831831396223
+Cubic Polynomial_10_38,3*x**3,tensor(0.2303),-10.171421964156046
+Cubic Polynomial_10_39,-x**2/4 + 2*x,tensor(0.2333),-9.798281178602485
+Cubic Polynomial_10_40,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dac0c10>>
+Cubic Polynomial_10_41,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dac39d0>>
+Cubic Polynomial_10_42,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dac2750>>
+Cubic Polynomial_10_43,-log(cos(x)),tensor(0.2202),-11.543649463928158
+Cubic Polynomial_10_44,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be50250>>
+Cubic Polynomial_10_45,x**2 + exp(x),tensor(0.1935),-16.379143609089162
+Cubic Polynomial_10_46,x**3*cos(x) + x,tensor(0.2297),-10.240553809125151
+Cubic Polynomial_10_47,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da500d0>>
+Cubic Polynomial_10_48,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da52590>>
+Cubic Polynomial_10_49,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da52450>>
+Cubic Polynomial_10_50,2*exp(3*x),tensor(0.1103),-64.04709296295785
+Cubic Polynomial_10_51,2*sin(4*x),tensor(0.2240),-10.998862256099502
+Cubic Polynomial_10_52,x**4*log(5),tensor(0.2158),-12.2042975367435
+Cubic Polynomial_10_53,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd7be10>>
+Cubic Polynomial_10_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be50450>>
+Cubic Polynomial_10_55,sin(2*x),tensor(0.2293),-10.290836907623397
+Cubic Polynomial_10_56,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4c3d0>>
+Cubic Polynomial_10_57,sin(x) + 1,tensor(0.2049),-14.051305727212148
+Cubic Polynomial_10_58,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4c950>>
+Cubic Polynomial_10_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4e350>>
+Cubic Polynomial_10_60,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4c1d0>>
+Cubic Polynomial_10_61,cos(x + 3),tensor(0.2470),-8.294593670792327
+Cubic Polynomial_10_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bee85d0>>
+Cubic Polynomial_10_63,x**5/5,tensor(0.2260),-10.734314417299679
+Cubic Polynomial_10_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed9f50>>
+Cubic Polynomial_10_65,sin(x + 4),tensor(0.2392),-9.121754138496666
+Cubic Polynomial_10_66,x**2 + x,tensor(0.2189),-11.728984958309987
+Cubic Polynomial_10_67,x + exp(2*x),tensor(0.1875),-17.77131511824493
+Cubic Polynomial_10_68,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4f010>>
+Cubic Polynomial_10_69,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4d4d0>>
+Cubic Polynomial_10_70,x/sin(4),tensor(0.2198),-11.601239757444334
+Cubic Polynomial_10_71,x*tanh(1),tensor(0.2281),-10.445864876509297
+Cubic Polynomial_10_72,1 - 2*x,tensor(0.1961),-15.815502475874055
+Cubic Polynomial_10_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4b1d0>>
+Cubic Polynomial_10_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da8bd50>>
+Cubic Polynomial_10_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da8a450>>
+Cubic Polynomial_10_76,13*tanh(x),tensor(0.1954),-15.962082194758878
+Cubic Polynomial_10_77,6*x**3,tensor(0.2297),-10.24243087232403
+Cubic Polynomial_10_78,-2*x**2 + x,tensor(0.2506),-7.947289260239325
+Cubic Polynomial_10_79,x**4*exp(3),tensor(0.1359),-39.40975260783756
+Cubic Polynomial_10_80,x*log(2) + 2,tensor(0.1854),-18.316384578128513
+Cubic Polynomial_10_81,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4e9d0>>
+Cubic Polynomial_10_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4f190>>
+Cubic Polynomial_10_83,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4e610>>
+Cubic Polynomial_10_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4ec90>>
+Cubic Polynomial_10_85,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf57c50>>
+Cubic Polynomial_10_86,exp(-2*x),tensor(0.1765),-20.776304292291496
+Cubic Polynomial_10_87,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da61510>>
+Cubic Polynomial_10_88,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da52d50>>
+Cubic Polynomial_10_89,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da512d0>>
+Cubic Polynomial_10_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da52310>>
+Cubic Polynomial_10_91,1/(x + 1),tensor(0.0041),-59892.28149999308
+Cubic Polynomial_10_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da41250>>
+Cubic Polynomial_10_93,x + cos(x + 3),tensor(0.2515),-7.859674565983669
+Cubic Polynomial_10_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dac3150>>
+Cubic Polynomial_10_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da48690>>
+Cubic Polynomial_10_96,-sin(x - 4),tensor(0.2447),-8.531709098719473
+Cubic Polynomial_10_97,x*(x + cos(4)),tensor(0.2138),-12.519876900273898
+Cubic Polynomial_10_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da8b990>>
+Cubic Polynomial_10_99,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da886d0>>
+Cubic Polynomial_10_100,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da89e90>>
+Cubic Polynomial_10_101,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da8abd0>>
+Cubic Polynomial_10_102,x*(x - 2) + 2*x,tensor(0.2162),-12.149493046885816
+Cubic Polynomial_10_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da8bcd0>>
+Cubic Polynomial_10_104,x - cos(x),tensor(0.2522),-7.7934323601070705
+Cubic Polynomial_10_105,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da53ad0>>
+Cubic Polynomial_10_106,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da98950>>
+Cubic Polynomial_10_107,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9b050>>
+Cubic Polynomial_10_108,sqrt(x) + 3*x**2,tensor(0.),0
+Cubic Polynomial_10_109,x*(x + 2) + 2*x,tensor(0.2203),-11.527932399537287
+Cubic Polynomial_10_110,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2c850>>
+Cubic Polynomial_10_111,x*(4*x + 8),tensor(0.1851),-18.392037330641887
+Cubic Polynomial_10_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da89450>>
+Cubic Polynomial_10_113,cosh(x + 5),tensor(0.0183),-2880.0789020157076
+Cubic Polynomial_10_114,2*x**2*cos(x)**2,tensor(0.2161),-12.154514994895377
+Cubic Polynomial_10_115,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da919d0>>
+Cubic Polynomial_10_116,3*x + sin(x),tensor(0.2304),-10.156071910212503
+Cubic Polynomial_10_117,x + atan(x),tensor(0.2305),-10.148942740100283
+Cubic Polynomial_10_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9aa90>>
+Cubic Polynomial_10_119,cos(4*x)/14,tensor(0.2262),-10.707045571408871
+Cubic Polynomial_10_120,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9b1d0>>
+Cubic Polynomial_10_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9a590>>
+Cubic Polynomial_10_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9bf10>>
+Cubic Polynomial_10_123,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da98c90>>
+Cubic Polynomial_10_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da987d0>>
+Cubic Polynomial_10_125,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da99150>>
+Cubic Polynomial_10_126,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da99750>>
+Cubic Polynomial_10_127,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9a250>>
+Cubic Polynomial_11_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da39890>>
+Cubic Polynomial_11_1,x**2/2 + asinh(x),tensor(0.2236),-11.060234074321357
+Cubic Polynomial_11_2,2*x + 5,tensor(0.1451),-33.697994672039485
+Cubic Polynomial_11_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3e6d0>>
+Cubic Polynomial_11_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be5e910>>
+Cubic Polynomial_11_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da18e90>>
+Cubic Polynomial_11_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da35610>>
+Cubic Polynomial_11_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be70910>>
+Cubic Polynomial_11_8,x*cos(x + 2),tensor(0.2325),-9.894216881155737
+Cubic Polynomial_11_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed1050>>
+Cubic Polynomial_11_10,x - atanh(x),tensor(0.2233),-11.092701314411421
+Cubic Polynomial_11_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bc434d0>>
+Cubic Polynomial_11_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da99f10>>
+Cubic Polynomial_11_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9a710>>
+Cubic Polynomial_11_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da61850>>
+Cubic Polynomial_11_15,4*x**3 - 4*x,tensor(0.2180),-11.86028477778193
+Cubic Polynomial_11_16,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4ebd0>>
+Cubic Polynomial_11_17,sin(x - 1),tensor(0.2463),-8.36522497554859
+Cubic Polynomial_11_18,sin(3*x + 3)/3,tensor(0.2244),-10.944221194829892
+Cubic Polynomial_11_19,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be4cf10>>
+Cubic Polynomial_11_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4b4d0>>
+Cubic Polynomial_11_21,x*(x + 5),tensor(0.2184),-11.81440544893132
+Cubic Polynomial_11_22,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da90250>>
+Cubic Polynomial_11_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da47b10>>
+Cubic Polynomial_11_24,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da45050>>
+Cubic Polynomial_11_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da44d10>>
+Cubic Polynomial_11_26,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da47f50>>
+Cubic Polynomial_11_27,atan(x + 3),tensor(0.1984),-15.331825025062265
+Cubic Polynomial_11_28,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da45550>>
+Cubic Polynomial_11_29,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da451d0>>
+Cubic Polynomial_11_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da45ed0>>
+Cubic Polynomial_11_31,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da46790>>
+Cubic Polynomial_11_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da46550>>
+Cubic Polynomial_11_33,x - log(cos(x)),tensor(0.2231),-11.124700370191388
+Cubic Polynomial_11_34,8*x**7,tensor(0.2282),-10.439859554113475
+Cubic Polynomial_11_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da47010>>
+Cubic Polynomial_11_36,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da46cd0>>
+Cubic Polynomial_11_37,x + tan(4),tensor(0.2018),-14.641404269157562
+Cubic Polynomial_11_38,4*x**3,tensor(0.2307),-10.119651192332146
+Cubic Polynomial_11_39,x*(x + acos(x)),tensor(0.2320),-9.954725323590814
+Cubic Polynomial_11_40,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da46e10>>
+Cubic Polynomial_11_41,3 - sqrt(x),tensor(0.),0
+Cubic Polynomial_11_42,(x + 3)*sin(x),tensor(0.2220),-11.282215703901427
+Cubic Polynomial_11_43,-log(cos(x)),tensor(0.2202),-11.543649463928158
+Cubic Polynomial_11_44,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da95750>>
+Cubic Polynomial_11_45,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da97950>>
+Cubic Polynomial_11_46,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da96610>>
+Cubic Polynomial_11_47,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da96b10>>
+Cubic Polynomial_11_48,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da96390>>
+Cubic Polynomial_11_49,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da94390>>
+Cubic Polynomial_11_50,2*x + sin(x),tensor(0.2312),-10.05971100793129
+Cubic Polynomial_11_51,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9a7d0>>
+Cubic Polynomial_11_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be3c610>>
+Cubic Polynomial_11_53,cos(x) + asin(x),tensor(0.2094),-13.26037350957264
+Cubic Polynomial_11_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da45d10>>
+Cubic Polynomial_11_55,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da46110>>
+Cubic Polynomial_11_56,(1 - x**2)/x,tensor(0.0116),-7235.279227560191
+Cubic Polynomial_11_57,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da46d90>>
+Cubic Polynomial_11_58,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da4d590>>
+Cubic Polynomial_11_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da91550>>
+Cubic Polynomial_11_60,2/x**4,tensor(4.2518e-15),-5.53173729963005e+28
+Cubic Polynomial_11_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be94d50>>
+Cubic Polynomial_11_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf57d90>>
+Cubic Polynomial_11_63,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da2f6d0>>
+Cubic Polynomial_11_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da94490>>
+Cubic Polynomial_11_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da94c10>>
+Cubic Polynomial_11_66,x + tan(acosh(x)),tensor(0.),0
+Cubic Polynomial_11_67,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da96d50>>
+Cubic Polynomial_11_68,(2*x + 8)**4,tensor(0.0004),-7201845.47828881
+Cubic Polynomial_11_69,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da979d0>>
+Cubic Polynomial_11_70,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da97bd0>>
+Cubic Polynomial_11_71,2*x*tan(x**2),tensor(0.2298),-10.236299226033628
+Cubic Polynomial_11_72,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da92110>>
+Cubic Polynomial_11_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc68ad0>>
+Cubic Polynomial_11_74,-3*x**(3/2),tensor(0.),0
+Cubic Polynomial_11_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be9dd50>>
+Cubic Polynomial_11_76,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc6b850>>
+Cubic Polynomial_11_77,x/4,tensor(0.2265),-10.65859578815111
+Cubic Polynomial_11_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc6ae10>>
+Cubic Polynomial_11_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc68790>>
+Cubic Polynomial_11_80,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc6ab50>>
+Cubic Polynomial_11_81,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc6a850>>
+Cubic Polynomial_11_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc6a090>>
+Cubic Polynomial_11_83,-x**2 + x,tensor(0.2393),-9.101967220877517
+Cubic Polynomial_11_84,asin(x),tensor(0.2293),-10.30267333695245
+Cubic Polynomial_11_85,5*x**2/4,tensor(0.2139),-12.508567013138618
+Cubic Polynomial_11_86,log(1 - x)/2,tensor(0.2269),-10.60341940473229
+Cubic Polynomial_11_87,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9b290>>
+Cubic Polynomial_11_88,6*x + 1,tensor(0.2023),-14.551797601303875
+Cubic Polynomial_11_89,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7fb90>>
+Cubic Polynomial_11_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7da10>>
+Cubic Polynomial_11_91,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7f710>>
+Cubic Polynomial_11_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7c2d0>>
+Cubic Polynomial_11_93,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7fdd0>>
+Cubic Polynomial_11_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7d490>>
+Cubic Polynomial_11_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7e290>>
+Cubic Polynomial_11_96,2*x**3 + x,tensor(0.2309),-10.09356341462451
+Cubic Polynomial_11_97,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7d850>>
+Cubic Polynomial_11_98,x*sin(2*x) + x,tensor(0.2165),-12.104352024565102
+Cubic Polynomial_11_99,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7d190>>
+Cubic Polynomial_11_100,3*x**5 - 2*x,tensor(0.2225),-11.214743765674676
+Cubic Polynomial_11_101,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7d5d0>>
+Cubic Polynomial_11_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc8b090>>
+Cubic Polynomial_11_103,x*cos(x + 3),tensor(0.2239),-11.011949708084847
+Cubic Polynomial_11_104,x*(asin(x) + 2),tensor(0.2187),-11.76453482123911
+Cubic Polynomial_11_105,-x**2/2,tensor(0.2306),-10.134026293937294
+Cubic Polynomial_11_106,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc6b350>>
+Cubic Polynomial_11_107,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc69510>>
+Cubic Polynomial_11_108,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc69650>>
+Cubic Polynomial_11_109,-sqrt(x),tensor(0.),0
+Cubic Polynomial_11_110,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be338d0>>
+Cubic Polynomial_11_111,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc69dd0>>
+Cubic Polynomial_11_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc69190>>
+Cubic Polynomial_11_113,-log(cos(2*x))/2,tensor(0.),0
+Cubic Polynomial_11_114,80*x**4,tensor(0.0578),-264.92053578386486
+Cubic Polynomial_11_115,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc6a2d0>>
+Cubic Polynomial_11_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf09110>>
+Cubic Polynomial_11_117,10*x**3,tensor(0.2212),-11.393275126866547
+Cubic Polynomial_11_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed0ed0>>
+Cubic Polynomial_11_119,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da95d50>>
+Cubic Polynomial_11_120,x/cos(1),tensor(0.2305),-10.147035467962576
+Cubic Polynomial_11_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf53bd0>>
+Cubic Polynomial_11_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da94990>>
+Cubic Polynomial_11_123,2*x + tanh(x),tensor(0.2312),-10.060633301648144
+Cubic Polynomial_11_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc89d50>>
+Cubic Polynomial_11_125,cos(6*x)/6,tensor(0.2257),-10.768498135992427
+Cubic Polynomial_11_126,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc88f90>>
+Cubic Polynomial_11_127,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc8b6d0>>
+Cubic Polynomial_12_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da45c10>>
+Cubic Polynomial_12_1,3*x**2 + 15*x,tensor(0.1581),-27.348106588977593
+Cubic Polynomial_12_2,x*(x + tan(2)),tensor(0.2070),-13.683344002177183
+Cubic Polynomial_12_3,x*(x - 6),tensor(0.1851),-18.384192552682617
+Cubic Polynomial_12_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc88650>>
+Cubic Polynomial_12_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da956d0>>
+Cubic Polynomial_12_6,26*x**2,tensor(0.0995),-80.81576446326228
+Cubic Polynomial_12_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da84390>>
+Cubic Polynomial_12_8,x/9,tensor(0.2260),-10.724332534338926
+Cubic Polynomial_12_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc89d90>>
+Cubic Polynomial_12_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da86010>>
+Cubic Polynomial_12_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da85b10>>
+Cubic Polynomial_12_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da87bd0>>
+Cubic Polynomial_12_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da84590>>
+Cubic Polynomial_12_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da867d0>>
+Cubic Polynomial_12_15,asin(x + 3),tensor(0.),0
+Cubic Polynomial_12_16,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7d390>>
+Cubic Polynomial_12_17,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da87450>>
+Cubic Polynomial_12_18,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da876d0>>
+Cubic Polynomial_12_19,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da86b90>>
+Cubic Polynomial_12_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da86110>>
+Cubic Polynomial_12_21,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da414d0>>
+Cubic Polynomial_12_22,5/4,tensor(0.),0
+Cubic Polynomial_12_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc68510>>
+Cubic Polynomial_12_24,exp(x)/5,tensor(0.2205),-11.503785220233082
+Cubic Polynomial_12_25,2*E*x,tensor(0.2266),-10.644694449446648
+Cubic Polynomial_12_26,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da92090>>
+Cubic Polynomial_12_27,x**2 - log(cos(x)),tensor(0.2110),-12.974741243467404
+Cubic Polynomial_12_28,asin(x)**4,tensor(0.2103),-13.099205856852782
+Cubic Polynomial_12_29,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bede310>>
+Cubic Polynomial_12_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf05e10>>
+Cubic Polynomial_12_31,cosh(x + 8),tensor(0.0010),-1057167.9351167425
+Cubic Polynomial_12_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da92210>>
+Cubic Polynomial_12_33,4*x**3/5,tensor(0.2273),-10.550867897905865
+Cubic Polynomial_12_34,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc684d0>>
+Cubic Polynomial_12_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dc880d0>>
+Cubic Polynomial_12_36,x*log(x**2) - x,tensor(0.2179),-11.876171498157364
+Cubic Polynomial_12_37,2*x + sin(x) - 2*tan(x),tensor(0.2266),-10.646577599049749
+Cubic Polynomial_12_38,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da86cd0>>
+Cubic Polynomial_12_39,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab5510>>
+Cubic Polynomial_12_40,2*x + asin(x),tensor(0.2312),-10.061705619437953
+Cubic Polynomial_12_41,-x**2 + x + 4,tensor(0.1609),-26.2125241561096
+Cubic Polynomial_12_42,16*x**3/3,tensor(0.2303),-10.167975242157892
+Cubic Polynomial_12_43,x**2*cos(5),tensor(0.2229),-11.157268878265006
+Cubic Polynomial_12_44,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab58d0>>
+Cubic Polynomial_12_45,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab7d10>>
+Cubic Polynomial_12_46,4 - x,tensor(0.1539),-29.24039845970558
+Cubic Polynomial_12_47,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab6510>>
+Cubic Polynomial_12_48,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacd610>>
+Cubic Polynomial_12_49,sqrt(x) + 5*x,tensor(0.),0
+Cubic Polynomial_12_50,2*x**2*(x + 3),tensor(0.1789),-20.076805630800262
+Cubic Polynomial_12_51,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da97010>>
+Cubic Polynomial_12_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacdcd0>>
+Cubic Polynomial_12_53,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacd250>>
+Cubic Polynomial_12_54,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacfb10>>
+Cubic Polynomial_12_55,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacf610>>
+Cubic Polynomial_12_56,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacf5d0>>
+Cubic Polynomial_12_57,0,tensor(0.),0
+Cubic Polynomial_12_58,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacc110>>
+Cubic Polynomial_12_59,cos(x + 4),tensor(0.2425),-8.752597339034738
+Cubic Polynomial_12_60,1,tensor(0.),0
+Cubic Polynomial_12_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf39950>>
+Cubic Polynomial_12_62,2*x**3/3 + 4*x,tensor(0.2296),-10.261060468125166
+Cubic Polynomial_12_63,2*x**3/13,tensor(0.2260),-10.731683020583269
+Cubic Polynomial_12_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacf2d0>>
+Cubic Polynomial_12_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daaec50>>
+Cubic Polynomial_12_66,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daaf390>>
+Cubic Polynomial_12_67,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daac510>>
+Cubic Polynomial_12_68,atanh(1/x),tensor(0.),0
+Cubic Polynomial_12_69,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacdfd0>>
+Cubic Polynomial_12_70,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daae490>>
+Cubic Polynomial_12_71,x*asinh(x),tensor(0.2169),-12.032769038780803
+Cubic Polynomial_12_72,sinh(x + 5),tensor(0.0183),-2879.7806266027465
+Cubic Polynomial_12_73,x*sinh(1),tensor(0.2292),-10.307696470472973
+Cubic Polynomial_12_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacfc90>>
+Cubic Polynomial_12_75,9/x,tensor(0.0013),-585023.4249120404
+Cubic Polynomial_12_76,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3d0d0>>
+Cubic Polynomial_12_77,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacf0d0>>
+Cubic Polynomial_12_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacf810>>
+Cubic Polynomial_12_79,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab4cd0>>
+Cubic Polynomial_12_80,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab4790>>
+Cubic Polynomial_12_81,2*x + exp(2*x),tensor(0.1865),-18.03209804546192
+Cubic Polynomial_12_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab5190>>
+Cubic Polynomial_12_83,x**2/6,tensor(0.2240),-11.000376164122185
+Cubic Polynomial_12_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab4c10>>
+Cubic Polynomial_12_85,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab4150>>
+Cubic Polynomial_12_86,3*x**2/4 + x,tensor(0.2213),-11.377444900369545
+Cubic Polynomial_12_87,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dace0d0>>
+Cubic Polynomial_12_88,x*acosh(x),tensor(0.),0
+Cubic Polynomial_12_89,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da86750>>
+Cubic Polynomial_12_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da92bd0>>
+Cubic Polynomial_12_91,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da93690>>
+Cubic Polynomial_12_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da77b90>>
+Cubic Polynomial_12_93,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daad210>>
+Cubic Polynomial_12_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daadcd0>>
+Cubic Polynomial_12_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daac1d0>>
+Cubic Polynomial_12_96,-x**2 + 2*x,tensor(0.2415),-8.86553204726703
+Cubic Polynomial_12_97,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da8b1d0>>
+Cubic Polynomial_12_98,sin(log(sqrt(x))),tensor(0.),0
+Cubic Polynomial_12_99,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daac990>>
+Cubic Polynomial_12_100,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daaf450>>
+Cubic Polynomial_12_101,2*x**(7/2)/7,tensor(0.),0
+Cubic Polynomial_12_102,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daae2d0>>
+Cubic Polynomial_12_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daae390>>
+Cubic Polynomial_12_104,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daad150>>
+Cubic Polynomial_12_105,x**2*log(x)**2,tensor(0.),0
+Cubic Polynomial_12_106,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9f2d0>>
+Cubic Polynomial_12_107,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9ff50>>
+Cubic Polynomial_12_108,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9ee90>>
+Cubic Polynomial_12_109,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9ffd0>>
+Cubic Polynomial_12_110,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9c890>>
+Cubic Polynomial_12_111,x - log(sin(x)),tensor(0.),0
+Cubic Polynomial_12_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9f9d0>>
+Cubic Polynomial_12_113,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9ed50>>
+Cubic Polynomial_12_114,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9ee10>>
+Cubic Polynomial_12_115,log(x) + tanh(x),tensor(0.),0
+Cubic Polynomial_12_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9f750>>
+Cubic Polynomial_12_117,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9f150>>
+Cubic Polynomial_12_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9e610>>
+Cubic Polynomial_12_119,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9cf10>>
+Cubic Polynomial_12_120,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9c550>>
+Cubic Polynomial_12_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9e810>>
+Cubic Polynomial_12_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9e150>>
+Cubic Polynomial_12_123,-1,tensor(0.),0
+Cubic Polynomial_12_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9d890>>
+Cubic Polynomial_12_125,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da9cbd0>>
+Cubic Polynomial_12_126,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf6510>>
+Cubic Polynomial_12_127,-1/(4*x),tensor(0.0444),-461.5820193694803
+Cubic Polynomial_13_0,x**3 - 2*x,tensor(0.2194),-11.653434587495665
+Cubic Polynomial_13_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da92810>>
+Cubic Polynomial_13_2,x + tan(x),tensor(0.2310),-10.081032559111259
+Cubic Polynomial_13_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da86bd0>>
+Cubic Polynomial_13_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da85510>>
+Cubic Polynomial_13_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacc310>>
+Cubic Polynomial_13_6,exp(4*cos(2*x)),tensor(0.0601),-243.75814343617282
+Cubic Polynomial_13_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf53f90>>
+Cubic Polynomial_13_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da950d0>>
+Cubic Polynomial_13_9,3*x**2 + x + log(x),tensor(0.),0
+Cubic Polynomial_13_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf54090>>
+Cubic Polynomial_13_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf5790>>
+Cubic Polynomial_13_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf5490>>
+Cubic Polynomial_13_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf4d90>>
+Cubic Polynomial_13_14,5*x/sin(x),tensor(0.1405),-36.439198576485715
+Cubic Polynomial_13_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf7610>>
+Cubic Polynomial_13_16,x - exp(x),tensor(0.2597),-7.121838315331566
+Cubic Polynomial_13_17,15*log(x),tensor(0.),0
+Cubic Polynomial_13_18,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dadc950>>
+Cubic Polynomial_13_19,x*log(2*x),tensor(0.),0
+Cubic Polynomial_13_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf6950>>
+Cubic Polynomial_13_21,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dadfe90>>
+Cubic Polynomial_13_22,x + 4/x,tensor(0.0029),-115575.70631317764
+Cubic Polynomial_13_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dacde50>>
+Cubic Polynomial_13_24,x**2*cos(x)**2,tensor(0.2208),-11.455143523330674
+Cubic Polynomial_13_25,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bec5310>>
+Cubic Polynomial_13_26,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daddc10>>
+Cubic Polynomial_13_27,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dadc290>>
+Cubic Polynomial_13_28,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daddb90>>
+Cubic Polynomial_13_29,x*(x + cos(x**2)),tensor(0.2184),-11.808395516766675
+Cubic Polynomial_13_30,x*(x + exp(x)),tensor(0.2093),-13.269081063046437
+Cubic Polynomial_13_31,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf12950>>
+Cubic Polynomial_13_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3a4d0>>
+Cubic Polynomial_13_33,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf56150>>
+Cubic Polynomial_13_34,cos(x) + atanh(x),tensor(0.2099),-13.172996658453803
+Cubic Polynomial_13_35,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bed0150>>
+Cubic Polynomial_13_36,x + 3/x**3,tensor(3.3570e-11),-8.873303854156482e+20
+Cubic Polynomial_13_37,x**(3/2),tensor(0.),0
+Cubic Polynomial_13_38,x**3*cos(x) + x,tensor(0.2297),-10.240553809125151
+Cubic Polynomial_13_39,4*x*sin(x),tensor(0.1944),-16.174910603041127
+Cubic Polynomial_13_40,5*x**2 + x,tensor(0.1856),-18.253667697799262
+Cubic Polynomial_13_41,2*x**2 + 7*x,tensor(0.2032),-14.367944286572422
+Cubic Polynomial_13_42,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da80590>>
+Cubic Polynomial_13_43,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da80610>>
+Cubic Polynomial_13_44,x*(2*x + 4),tensor(0.2110),-12.98928073062224
+Cubic Polynomial_13_45,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da83c50>>
+Cubic Polynomial_13_46,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da82690>>
+Cubic Polynomial_13_47,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da82190>>
+Cubic Polynomial_13_48,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db13e90>>
+Cubic Polynomial_13_49,x*(x*cosh(x) + x),tensor(0.2044),-14.159840253433805
+Cubic Polynomial_13_50,x/2,tensor(0.2274),-10.548861429675872
+Cubic Polynomial_13_51,x + x*exp(5),tensor(0.0224),-1908.1500016408067
+Cubic Polynomial_13_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da7fd50>>
+Cubic Polynomial_13_53,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da80c90>>
+Cubic Polynomial_13_54,2*x**3*exp(2),tensor(0.2033),-14.350082026644609
+Cubic Polynomial_13_55,x**4 + 1,tensor(0.1980),-15.412530600510927
+Cubic Polynomial_13_56,2*sin(x),tensor(0.2304),-10.159696780292185
+Cubic Polynomial_13_57,x*asin(x),tensor(0.2144),-12.430466325630194
+Cubic Polynomial_13_58,x**2*sinh(x**2),tensor(0.2189),-11.738443870239408
+Cubic Polynomial_13_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab61d0>>
+Cubic Polynomial_13_60,x + sin(1),tensor(0.2086),-13.401226761590909
+Cubic Polynomial_13_61,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bedebd0>>
+Cubic Polynomial_13_62,x + 1,tensor(0.2051),-14.016023514216736
+Cubic Polynomial_13_63,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da06610>>
+Cubic Polynomial_13_64,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da848d0>>
+Cubic Polynomial_13_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf51a50>>
+Cubic Polynomial_13_66,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dadf290>>
+Cubic Polynomial_13_67,x*cos(x) - 2*x + cos(x),tensor(0.2023),-14.548284087057908
+Cubic Polynomial_13_68,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dadcb90>>
+Cubic Polynomial_13_69,-2*x**2/5,tensor(0.2296),-10.26097863509022
+Cubic Polynomial_13_70,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dadfc10>>
+Cubic Polynomial_13_71,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dadf850>>
+Cubic Polynomial_13_72,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bdd2850>>
+Cubic Polynomial_13_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db125d0>>
+Cubic Polynomial_13_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db11650>>
+Cubic Polynomial_13_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db11c50>>
+Cubic Polynomial_13_76,2*x**2 - x,tensor(0.2040),-14.226413827221274
+Cubic Polynomial_13_77,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf7590>>
+Cubic Polynomial_13_78,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db12bd0>>
+Cubic Polynomial_13_79,2*log(x + 3),tensor(0.1827),-19.014169535721134
+Cubic Polynomial_13_80,4/7,tensor(0.),0
+Cubic Polynomial_13_81,sqrt(x) + 1,tensor(0.),0
+Cubic Polynomial_13_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db11a10>>
+Cubic Polynomial_13_83,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db116d0>>
+Cubic Polynomial_13_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db13d90>>
+Cubic Polynomial_13_85,-2*x**2,tensor(0.2464),-8.356805903105835
+Cubic Polynomial_13_86,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db11b10>>
+Cubic Polynomial_13_87,-4/3,tensor(0.),0
+Cubic Polynomial_13_88,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae7810>>
+Cubic Polynomial_13_89,x*(x + 1),tensor(0.2189),-11.728984958309987
+Cubic Polynomial_13_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db10650>>
+Cubic Polynomial_13_91,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae6210>>
+Cubic Polynomial_13_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae46d0>>
+Cubic Polynomial_13_93,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae4d10>>
+Cubic Polynomial_13_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae6590>>
+Cubic Polynomial_13_95,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae5210>>
+Cubic Polynomial_13_96,x**2,tensor(0.2162),-12.149493046885816
+Cubic Polynomial_13_97,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae4b50>>
+Cubic Polynomial_13_98,-2*x + cos(x),tensor(0.1994),-15.1152344622422
+Cubic Polynomial_13_99,8*x + sin(x),tensor(0.2092),-13.28905568900558
+Cubic Polynomial_13_100,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bf5b3d0>>
+Cubic Polynomial_13_101,x*sin(3),tensor(0.2261),-10.70984044021201
+Cubic Polynomial_13_102,x*exp(-2),tensor(0.2261),-10.712621653943444
+Cubic Polynomial_13_103,x*(x**3 + 2),tensor(0.2241),-10.984833157284307
+Cubic Polynomial_13_104,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae5910>>
+Cubic Polynomial_13_105,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db10390>>
+Cubic Polynomial_13_106,x + 9*exp(x),tensor(0.0988),-82.14403329090702
+Cubic Polynomial_13_107,(x + 4)/x,tensor(0.0029),-115580.51847488496
+Cubic Polynomial_13_108,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dadda90>>
+Cubic Polynomial_13_109,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dadd850>>
+Cubic Polynomial_13_110,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daaccd0>>
+Cubic Polynomial_13_111,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da90a10>>
+Cubic Polynomial_13_112,3/atan(x),tensor(0.0039),-65017.94100936411
+Cubic Polynomial_13_113,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf72d0>>
+Cubic Polynomial_13_114,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab6dd0>>
+Cubic Polynomial_13_115,x*log(x) + log(x),tensor(0.),0
+Cubic Polynomial_13_116,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da87dd0>>
+Cubic Polynomial_13_117,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da82c50>>
+Cubic Polynomial_13_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da81790>>
+Cubic Polynomial_13_119,-exp(x),tensor(0.2529),-7.725537641520198
+Cubic Polynomial_13_120,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da818d0>>
+Cubic Polynomial_13_121,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dad4ad0>>
+Cubic Polynomial_13_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dad51d0>>
+Cubic Polynomial_13_123,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dad7e50>>
+Cubic Polynomial_13_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dad69d0>>
+Cubic Polynomial_13_125,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dad7b10>>
+Cubic Polynomial_13_126,x**4/15,tensor(0.2252),-10.835393846018547
+Cubic Polynomial_13_127,x*(x + 4),tensor(0.2203),-11.527932399537287
+Cubic Polynomial_14_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88be32110>>
+Cubic Polynomial_14_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da83090>>
+Cubic Polynomial_14_2,sin(x*sin(2*x)),tensor(0.2148),-12.367260365405256
+Cubic Polynomial_14_3,x/2 - atan(x),tensor(0.2242),-10.968222715625217
+Cubic Polynomial_14_4,x**2*(x + cos(x)),tensor(0.2208),-11.446648743615672
+Cubic Polynomial_14_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dab6d90>>
+Cubic Polynomial_14_6,2*x**3*exp(x),tensor(0.2156),-12.235508076357581
+Cubic Polynomial_14_7,-x + 4*log(x),tensor(0.),0
+Cubic Polynomial_14_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88bd86650>>
+Cubic Polynomial_14_9,2*x + cos(x)**2,tensor(0.2133),-12.600063309643206
+Cubic Polynomial_14_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf7290>>
+Cubic Polynomial_14_11,2*x**5,tensor(0.2284),-10.414476372262273
+Cubic Polynomial_14_12,6*x**3,tensor(0.2297),-10.24243087232403
+Cubic Polynomial_14_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dddb110>>
+Cubic Polynomial_14_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88ddd8910>>
+Cubic Polynomial_14_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dddb950>>
+Cubic Polynomial_14_16,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88ddda110>>
+Cubic Polynomial_14_17,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dddae50>>
+Cubic Polynomial_14_18,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88ddd9490>>
+Cubic Polynomial_14_19,x*(3 - x),tensor(0.2420),-8.805842158149012
+Cubic Polynomial_14_20,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dddbf90>>
+Cubic Polynomial_14_21,2*x**4,tensor(0.2135),-12.572915693652003
+Cubic Polynomial_14_22,exp(x + 4),tensor(0.0243),-1614.8577254866311
+Cubic Polynomial_14_23,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88ddd9c50>>
+Cubic Polynomial_14_24,sin(log(x)) + cos(x),tensor(0.),0
+Cubic Polynomial_14_25,2*x*(x - 1),tensor(0.2000),-15.004076300018482
+Cubic Polynomial_14_26,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5a510>>
+Cubic Polynomial_14_27,15*x + 1,tensor(0.1598),-26.65114388108613
+Cubic Polynomial_14_28,8*x + log(x),tensor(0.),0
+Cubic Polynomial_14_29,sqrt(3)*x**(3/2),tensor(0.),0
+Cubic Polynomial_14_30,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88ddd8950>>
+Cubic Polynomial_14_31,cos(x + 2),tensor(0.2306),-10.132557762721637
+Cubic Polynomial_14_32,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db58c10>>
+Cubic Polynomial_14_33,5/x,tensor(0.0023),-180575.39250104318
+Cubic Polynomial_14_34,cosh(x) + 1,tensor(0.1808),-19.527829831316737
+Cubic Polynomial_14_35,1 - 1/x,tensor(0.0116),-7233.522305236652
+Cubic Polynomial_14_36,4*sqrt(x),tensor(0.),0
+Cubic Polynomial_14_37,x**3 + 3*x,tensor(0.2309),-10.098649581058847
+Cubic Polynomial_14_38,6,tensor(0.),0
+Cubic Polynomial_14_39,4/5,tensor(0.),0
+Cubic Polynomial_14_40,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5a250>>
+Cubic Polynomial_14_41,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5b250>>
+Cubic Polynomial_14_42,x + tanh(sqrt(x)),tensor(0.),0
+Cubic Polynomial_14_43,x + 5/2,tensor(0.1774),-20.497376927254596
+Cubic Polynomial_14_44,x*(x + 3),tensor(0.2210),-11.418204634635718
+Cubic Polynomial_14_45,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5af10>>
+Cubic Polynomial_14_46,2*x + atan(x),tensor(0.2312),-10.060196048220433
+Cubic Polynomial_14_47,x**3*log(x) - x,tensor(0.),0
+Cubic Polynomial_14_48,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5b310>>
+Cubic Polynomial_14_49,x*sin(x + 1) + x,tensor(0.2251),-10.850590792118801
+Cubic Polynomial_14_50,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da44e10>>
+Cubic Polynomial_14_51,-1/x,tensor(0.0116),-7230.580403787706
+Cubic Polynomial_14_52,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae7cd0>>
+Cubic Polynomial_14_53,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dad5710>>
+Cubic Polynomial_14_54,x**2*log(x),tensor(0.),0
+Cubic Polynomial_14_55,x**3 + 3*x,tensor(0.2309),-10.098649581058847
+Cubic Polynomial_14_56,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd81490>>
+Cubic Polynomial_14_57,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd80ad0>>
+Cubic Polynomial_14_58,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd83f90>>
+Cubic Polynomial_14_59,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd83890>>
+Cubic Polynomial_14_60,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd83610>>
+Cubic Polynomial_14_61,x + acosh(x + 5),tensor(0.1812),-19.42494240396158
+Cubic Polynomial_14_62,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd804d0>>
+Cubic Polynomial_14_63,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd81e90>>
+Cubic Polynomial_14_64,x**2/asinh(x),tensor(0.2290),-10.33360427961819
+Cubic Polynomial_14_65,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd83090>>
+Cubic Polynomial_14_66,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd819d0>>
+Cubic Polynomial_14_67,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd82bd0>>
+Cubic Polynomial_14_68,x*asin(x) + exp(x),tensor(0.1920),-16.703145996881215
+Cubic Polynomial_14_69,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dad5a90>>
+Cubic Polynomial_14_70,x + 13,tensor(0.0907),-99.504376039882
+Cubic Polynomial_14_71,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd82110>>
+Cubic Polynomial_14_72,x*cos(x + 5),tensor(0.2181),-11.853550501739518
+Cubic Polynomial_14_73,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd80410>>
+Cubic Polynomial_14_74,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd82550>>
+Cubic Polynomial_14_75,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd82410>>
+Cubic Polynomial_14_76,x + 113,tensor(0.0160),-3801.909555652639
+Cubic Polynomial_14_77,x/2,tensor(0.2274),-10.548861429675872
+Cubic Polynomial_14_78,x*exp(-1) + x,tensor(0.2296),-10.253654430049272
+Cubic Polynomial_14_79,3*x**2 + x,tensor(0.2011),-14.779551783950565
+Cubic Polynomial_14_80,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da3b990>>
+Cubic Polynomial_14_81,x + tan(x) + 3,tensor(0.1706),-22.619411163188595
+Cubic Polynomial_14_82,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da92150>>
+Cubic Polynomial_14_83,3*x**2 + sin(x),tensor(0.2009),-14.815480823792027
+Cubic Polynomial_14_84,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da809d0>>
+Cubic Polynomial_14_85,x + cos(x),tensor(0.2090),-13.320938125289265
+Cubic Polynomial_14_86,x + 2,tensor(0.1858),-18.203443546633395
+Cubic Polynomial_14_87,2*x**8,tensor(0.2184),-11.814805106588244
+Cubic Polynomial_14_88,x + 1,tensor(0.2051),-14.016023514216736
+Cubic Polynomial_14_89,3*x**3,tensor(0.2303),-10.171421964156046
+Cubic Polynomial_14_90,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da49910>>
+Cubic Polynomial_14_91,x**(3/2),tensor(0.),0
+Cubic Polynomial_14_92,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf3290>>
+Cubic Polynomial_14_93,cos(x) + acosh(x),tensor(0.),0
+Cubic Polynomial_14_94,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf3e50>>
+Cubic Polynomial_14_95,-x*cos(x),tensor(0.2227),-11.182802610678136
+Cubic Polynomial_14_96,x + cos(x) - 1,tensor(0.2337),-9.751511078666661
+Cubic Polynomial_14_97,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da07490>>
+Cubic Polynomial_14_98,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf1f50>>
+Cubic Polynomial_14_99,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf0350>>
+Cubic Polynomial_14_100,-x**3 + x**2 + x,tensor(0.2173),-11.979199632410786
+Cubic Polynomial_14_101,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf3010>>
+Cubic Polynomial_14_102,asin(2*x),tensor(0.),0
+Cubic Polynomial_14_103,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5e4d0>>
+Cubic Polynomial_14_104,3*x*cos(x),tensor(0.2306),-10.130412293750892
+Cubic Polynomial_14_105,2*x**3/5,tensor(0.2265),-10.659087079776103
+Cubic Polynomial_14_106,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88da48390>>
+Cubic Polynomial_14_107,x**2*cos(x + 2),tensor(0.2264),-10.676456013015795
+Cubic Polynomial_14_108,3*x**2 + x*sin(x) + cos(x),tensor(0.1785),-20.17186900360749
+Cubic Polynomial_14_109,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf0e50>>
+Cubic Polynomial_14_110,acosh(x + 3),tensor(0.1895),-17.298846414749462
+Cubic Polynomial_14_111,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88daf3a50>>
+Cubic Polynomial_14_112,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db59810>>
+Cubic Polynomial_14_113,cos(x + 9),tensor(0.2438),-8.61675191841709
+Cubic Polynomial_14_114,x**2 + 2*x,tensor(0.2206),-11.48522215422662
+Cubic Polynomial_14_115,x**2*(x + 2),tensor(0.2089),-13.342265557834255
+Cubic Polynomial_14_116,x*atan(2)**2,tensor(0.2293),-10.292875561654453
+Cubic Polynomial_14_117,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dae6fd0>>
+Cubic Polynomial_14_118,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db10b90>>
+Cubic Polynomial_14_119,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd80c10>>
+Cubic Polynomial_14_120,-x + tan(x),tensor(0.2267),-10.637775474087258
+Cubic Polynomial_14_121,x*tan(3) + x,tensor(0.2284),-10.411150638479404
+Cubic Polynomial_14_122,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5ced0>>
+Cubic Polynomial_14_123,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5d3d0>>
+Cubic Polynomial_14_124,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5d110>>
+Cubic Polynomial_14_125,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88db5d410>>
+Cubic Polynomial_14_126,x*(x + tan(x**3)),tensor(0.2091),-13.315003850801899
+Cubic Polynomial_14_127,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7fa88dd83e50>>
