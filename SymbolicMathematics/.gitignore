@@ -128,3 +128,5 @@ dmypy.json
 /data
 /dumped
 .vscode
+/wandb
+

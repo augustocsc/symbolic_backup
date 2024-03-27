@@ -28,7 +28,7 @@ def get_parser():
                         help="Mini batch size")
     parser.add_argument("--epochs", type=int, default=100,
                         help="Number of epochs")
-    parser.add_argument("--lr", type=float, default=1e-5,
+    parser.add_argument("--lr", type=float, default=1.5e-5,
                         help="Learning rate")
     parser.add_argument("--lr_decay", type=float, default=0.99,
                         help="Learning rate decay")
