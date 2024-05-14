@@ -22,7 +22,7 @@ def get_parser():
                         help="Stop condition") #TODO implement a stop condition based on the mean of the rewards and a way to set the values of the stop condition
     
     # training parameters
-    parser.add_argument("--batch_size", type=int, default=128,
+    parser.add_argument("--batch_size", type=int, default=512,
                         help="Batch size")
     parser.add_argument("--mini_batch_size", type=int, default=16,
                         help="Mini batch size")

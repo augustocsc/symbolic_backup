@@ -1,33 +1,17 @@
 import torch
 from datasets import load_dataset
 from transformers import AutoTokenizer
+import multiprocessing
+from transformers import AutoModelForCausalLM
+from transformers import TrainingArguments, Trainer
+from datetime import datetime
 
+MODEL_NAME = "gpt2-p100k"
+DATABASE_NAME = "prefix100k.txt"
+RUN_NAME = str(datetime.now().month) + "/" + str(datetime.now().day) + "/" + str(datetime.now().hour)
 
-MODEL_NAME = "gpt2-10var"
-DATABASE_NAME = "data_formatted.txt"
-#run name is the current date of the run, in the format of month/day/hour
-import datetime
-now = datetime.datetime.now()
-RUN_NAME = str(now.month) + "/" + str(now.day) + "/" + str(now.hour)
-model_checkpoint="gpt2"
-
-
-
-dataset = load_dataset("augustocsc/math-expressions", data_files=DATABASE_NAME)['train'].train_test_split(train_size=.9, test_size=.1)
-
-
-
-tokenizer = AutoTokenizer.from_pretrained(model_checkpoint,
-                                          bos_token='<|startoftext|>',
-                                          eos_token='<|endoftext|>',
-                                          pad_token='<|pad|>')
 def tokenize_function(examples):
     return tokenizer(examples["text"], padding="max_length", truncation=True)
-
-tokenized_datasets = dataset.map(tokenize_function, batched=True, remove_columns=["text"])
-
-#block_size = tokenizer.model_max_length
-block_size = 128
 
 def group_texts(examples):
     # Concatenate all texts.
@@ -44,7 +28,21 @@ def group_texts(examples):
     result["labels"] = result["input_ids"].copy()
     return result
 
-import multiprocessing
+
+model_checkpoint="gpt2"
+
+dataset = load_dataset("augustocsc/prefix_expressions", data_files=DATABASE_NAME)['train'].train_test_split(train_size=.8, test_size=.2)
+tokenizer = AutoTokenizer.from_pretrained(model_checkpoint,
+                                          bos_token='<|startoftext|>',
+                                          eos_token='<|endoftext|>',
+                                          pad_token='<|pad|>')
+
+
+tokenized_datasets = dataset.map(tokenize_function, batched=True, remove_columns=["text"])
+
+#block_size = tokenizer.model_max_length
+block_size = 128
+
 cores = multiprocessing.cpu_count()
 
 lm_datasets = tokenized_datasets.map(
@@ -54,16 +52,16 @@ lm_datasets = tokenized_datasets.map(
     num_proc=cores,
 )
 
-from transformers import AutoModelForCausalLM
+
 model = AutoModelForCausalLM.from_pretrained(model_checkpoint)
 #this need bc we added tokens (bos_token, etc).
 model.resize_token_embeddings(len(tokenizer))
 
-from transformers import TrainingArguments, Trainer
+
 
 torch.cuda.empty_cache()
 training_args = TrainingArguments(
-                            num_train_epochs=2,
+                            num_train_epochs=1,
                             #max_steps=1000,
                             output_dir=MODEL_NAME,
                             resume_from_checkpoint=True,
