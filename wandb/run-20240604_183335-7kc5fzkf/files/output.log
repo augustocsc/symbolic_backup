@@ -1,0 +1,10673 @@
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+Using device: cuda
+Loading experiment data comparing
+Loading dataset from data/input/train_data.csv
+Dataset loaded from            x          y
+0   4.076870 -10.751228
+1   0.553660   4.611533
+2   7.885349  69.673659
+3   2.873052   3.900079
+4   4.503506 -13.406350
+5   3.039123   5.498615
+6   5.263995 -23.165419
+7   6.238122  -6.534384
+8   7.767755  63.243614
+9   6.862416  25.549998
+10  9.809389 -38.928264
+11  6.008161  -6.569769
+12  8.139685  61.380977
+13  7.086452  37.122846
+14  0.275347  -1.378814
+15  9.042672  26.039799
+16  4.499049 -16.254375
+17  1.189247  10.154075
+18  8.353002  58.949826
+19  2.022482   9.226380
+20  1.742027   8.790470
+21  4.491471 -24.217071
+22  6.697948  21.820739
+23  9.573991  -8.161211
+24  8.333333  70.265463
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:40<00:00,  1.26s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in sqrt
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0
+ max top: 0
+Current epoch: 1
+Learning rate:  0.000125
+mean: 0.17889243364334106
+top: 0.8261257410049438
+invalid: 51
+Current epoch: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:40<00:01,  1.23s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:40<00:00,  1.25s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.17889243364334106
+ max top: 0.8261257410049438
+Current epoch: 2
+Learning rate:  0.000125
+mean: 0.18675054609775543
+top: 0.5173099637031555
+invalid: 38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:48<00:00,  1.32s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-203>:2: RuntimeWarning: invalid value encountered in arctanh
+  return x**2*arctanh(4)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.18675054609775543
+ max top: 0.8261257410049438
+Current epoch: 3
+Learning rate:  0.000125
+mean: 0.17642395198345184
+top: 0.6239771842956543
+invalid: 42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:43<00:01,  1.21s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:45<00:00,  1.29s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+  1%|▋                                                                                  | 1/128 [00:00<02:00,  1.05it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.18675054609775543
+ max top: 0.8261257410049438
+Current epoch: 4
+Learning rate:  0.000125
+mean: 0.1768653690814972
+top: 0.515864372253418
+invalid: 46
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:46<00:00,  1.30s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in sqrt
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.18675054609775543
+ max top: 0.8261257410049438
+Current epoch: 5
+Learning rate:  0.000125
+mean: 0.21044659614562988
+top: 0.6892091631889343
+invalid: 42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 98%|███████████████████████████████████████████████████████████████████████████████▋ | 126/128 [02:48<00:02,  1.06s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:50<00:00,  1.33s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.21044659614562988
+ max top: 0.8261257410049438
+Current epoch: 6
+Learning rate:  0.000125
+mean: 0.2704535126686096
+top: 0.6113412380218506
+invalid: 32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:00<00:00,  1.41s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.2704535126686096
+ max top: 0.8261257410049438
+Current epoch: 7
+Learning rate:  0.000125
+mean: 0.2655354142189026
+top: 0.8261257410049438
+invalid: 32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:42<00:00,  1.27s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-739>:2: RuntimeWarning: invalid value encountered in arccos
+  return x*arccos(4)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.2704535126686096
+ max top: 0.8261257410049438
+Current epoch: 8
+Learning rate:  0.000125
+mean: 0.24437382817268372
+top: 0.6411736607551575
+invalid: 38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:54<00:00,  1.36s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+  2%|█▎                                                                                 | 2/128 [00:01<01:13,  1.70it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.2704535126686096
+ max top: 0.8261257410049438
+Current epoch: 9
+Learning rate:  0.000125
+mean: 0.28476616740226746
+top: 0.5930165648460388
+invalid: 24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:50<00:00,  1.33s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in exp
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+  5%|████▌                                                                              | 7/128 [00:04<01:45,  1.15it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.28476616740226746
+ max top: 0.8261257410049438
+Current epoch: 10
+Learning rate:  0.000125
+mean: 0.2652440071105957
+top: 0.5150368213653564
+invalid: 40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:36<00:00,  1.23s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.28476616740226746
+ max top: 0.8261257410049438
+Current epoch: 11
+Learning rate:  0.000125
+mean: 0.20933708548545837
+top: 0.6937872767448425
+invalid: 44
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:44<00:00,  1.28s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.28476616740226746
+ max top: 0.8261257410049438
+Current epoch: 12
+Learning rate:  0.000125
+mean: 0.24735866487026215
+top: 0.5194156169891357
+invalid: 36
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:53<00:00,  1.36s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in sqrt
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.28476616740226746
+ max top: 0.8261257410049438
+Current epoch: 13
+Learning rate:  0.000125
+mean: 0.2644021511077881
+top: 0.535768985748291
+invalid: 29
+  1%|▋                                                                                  | 1/128 [00:00<01:19,  1.60it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:47<00:00,  1.31s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.28476616740226746
+ max top: 0.8261257410049438
+Current epoch: 14
+Learning rate:  0.000125
+mean: 0.29279351234436035
+top: 0.6411736607551575
+invalid: 27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:41<00:00,  1.26s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 15
+Learning rate:  0.000125
+mean: 0.26115909218788147
+top: 0.6411736607551575
+invalid: 33
+  2%|█▎                                                                                 | 2/128 [00:00<00:46,  2.74it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:37<00:00,  1.23s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/numexpr/expressions.py:185: RuntimeWarning: invalid value encountered in sqrt
+  return ConstantNode(func(*[x.value for x in args]))
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-1528>:2: RuntimeWarning: invalid value encountered in arctanh
+  return x*arctanh(5)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 16
+Learning rate:  0.000125
+mean: 0.26836085319519043
+top: 0.5174239277839661
+invalid: 31
+  1%|▋                                                                                  | 1/128 [00:00<01:26,  1.46it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:32<00:00,  1.19s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 17
+Learning rate:  0.000125
+mean: 0.27304261922836304
+top: 0.5183507204055786
+invalid: 38
+  1%|▋                                                                                  | 1/128 [00:01<03:00,  1.42s/it]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:32<00:01,  1.07s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:34<00:00,  1.21s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 18
+Learning rate:  0.000125
+mean: 0.28820139169692993
+top: 0.535768985748291
+invalid: 31
+Current epoch: 18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:52<00:01,  1.11s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:54<00:00,  1.36s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-1805>:2: RuntimeWarning: invalid value encountered in arctanh
+  return arctanh(2)/x
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 19
+Learning rate:  0.000125
+mean: 0.2562393248081207
+top: 0.5193720459938049
+invalid: 42
+Current epoch: 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 98%|███████████████████████████████████████████████████████████████████████████████▋ | 126/128 [02:43<00:03,  1.62s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:46<00:00,  1.30s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Expression zoo cannot be evaluated. Error: 'ComplexInfinity'
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in exp
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 20
+Learning rate:  0.000125
+mean: 0.23744824528694153
+top: 0.543128252029419
+invalid: 46
+Current epoch: 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:46<00:00,  1.30s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 21
+Learning rate:  0.000125
+mean: 0.26935458183288574
+top: 0.5193720459938049
+invalid: 32
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 98%|███████████████████████████████████████████████████████████████████████████████▋ | 126/128 [02:42<00:02,  1.30s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:45<00:00,  1.29s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 22
+Learning rate:  0.000125
+mean: 0.2204911708831787
+top: 0.5613439679145813
+invalid: 41
+Current epoch: 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:43<00:00,  1.35it/s]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:45<00:00,  1.29s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (9133.98) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (9134.35) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (9134.34) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 23
+Learning rate:  0.000125
+mean: 0.20470713078975677
+top: 0.5968571901321411
+invalid: 52
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:40<00:01,  1.22s/it]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:41<00:00,  1.26s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 24
+Learning rate:  0.000125
+mean: 0.2648521363735199
+top: 0.5327562689781189
+invalid: 34
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [03:01<00:01,  1.78s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:03<00:00,  1.43s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 25
+Learning rate:  0.000125
+mean: 0.2817319333553314
+top: 0.5193720459938049
+invalid: 30
+Current epoch: 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:47<00:00,  1.31s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in exp
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (15.31) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (15.35) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 26
+Learning rate:  0.000125
+mean: 0.21833106875419617
+top: 0.6239771842956543
+invalid: 36
+Current epoch: 26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:36<00:01,  1.14s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:39<00:00,  1.24s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 27
+Learning rate:  0.000125
+mean: 0.19598978757858276
+top: 0.5175111293792725
+invalid: 48
+Current epoch: 27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:46<00:01,  1.37s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:48<00:00,  1.32s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 28
+Learning rate:  0.000125
+mean: 0.19512955844402313
+top: 0.5173547863960266
+invalid: 34
+Current epoch: 28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:24<00:00,  1.13s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 29
+Learning rate:  0.000125
+mean: 0.22743192315101624
+top: 0.5173011422157288
+invalid: 42
+Current epoch: 29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [03:07<00:01,  1.23s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:09<00:00,  1.48s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in exp
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (100250560.00) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (143129888.00) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (161095232.00) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 30
+Learning rate:  0.000125
+mean: 0.22232963144779205
+top: 0.5193720459938049
+invalid: 35
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:32<00:00,  1.05it/s]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:34<00:00,  1.21s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 31
+Learning rate:  0.000125
+mean: 0.17749303579330444
+top: 0.5128331780433655
+invalid: 53
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:55<00:00,  1.37s/it]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains infinity or a value too large for dtype('float64').
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in sinh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 32
+Learning rate:  0.000125
+mean: 0.21256336569786072
+top: 0.5173011422157288
+invalid: 33
+Current epoch: 32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:42<00:01,  1.04s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains infinity or a value too large for dtype('float64').
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:44<00:00,  1.28s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in exp
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 33
+Learning rate:  0.000125
+mean: 0.21525517106056213
+top: 0.5170318484306335
+invalid: 35
+Current epoch: 33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 98%|███████████████████████████████████████████████████████████████████████████████  | 125/128 [03:03<00:04,  1.56s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:05<00:00,  1.45s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 34
+Learning rate:  0.000125
+mean: 0.2609136998653412
+top: 0.5203410387039185
+invalid: 27
+Current epoch: 34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:39<00:00,  1.01it/s]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:40<00:00,  1.26s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 35
+Learning rate:  0.000125
+mean: 0.28139859437942505
+top: 0.6411736607551575
+invalid: 29
+Current epoch: 35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:47<00:00,  1.31s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 36
+Learning rate:  0.000125
+mean: 0.2749773859977722
+top: 0.5527896881103516
+invalid: 27
+Current epoch: 36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:49<00:01,  1.39s/it]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:50<00:00,  1.33s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 37
+Learning rate:  0.000125
+mean: 0.2264099270105362
+top: 0.6810957193374634
+invalid: 38
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:48<00:00,  1.31s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.29279351234436035
+ max top: 0.8261257410049438
+Current epoch: 38
+Learning rate:  0.000125
+mean: 0.32163918018341064
+top: 0.6411736607551575
+invalid: 25
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:10<00:00,  1.49s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+<lambdifygenerated-3767>:2: RuntimeWarning: invalid value encountered in arccos
+  return x*arccos(sqrt(3))
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/numexpr/expressions.py:185: RuntimeWarning: invalid value encountered in sqrt
+  return ConstantNode(func(*[x.value for x in args]))
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.32163918018341064
+ max top: 0.8261257410049438
+Current epoch: 39
+Learning rate:  0.000125
+mean: 0.28939226269721985
+top: 0.535768985748291
+invalid: 26
+Current epoch: 39
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:45<00:00,  1.29s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in cosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.32163918018341064
+ max top: 0.8261257410049438
+Current epoch: 40
+Learning rate:  0.000125
+mean: 0.2736046314239502
+top: 0.5135445594787598
+invalid: 26
+  1%|▋                                                                                  | 1/128 [00:00<00:33,  3.78it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:52<00:00,  1.35s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.32163918018341064
+ max top: 0.8261257410049438
+Current epoch: 41
+Learning rate:  0.000125
+mean: 0.28690218925476074
+top: 0.870083749294281
+invalid: 28
+Current epoch: 41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:48<00:00,  1.32s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.32163918018341064
+ max top: 0.870083749294281
+Current epoch: 42
+Learning rate:  0.000125
+mean: 0.2729935348033905
+top: 0.5260006189346313
+invalid: 32
+Current epoch: 42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:56<00:00,  1.38s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.32163918018341064
+ max top: 0.870083749294281
+Current epoch: 43
+Learning rate:  0.000125
+mean: 0.3344975709915161
+top: 0.5193720459938049
+invalid: 19
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:48<00:00,  1.32s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in exp
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 44
+Learning rate:  0.000125
+mean: 0.2844552993774414
+top: 0.6937872767448425
+invalid: 27
+Current epoch: 44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:49<00:00,  1.32s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 45
+Learning rate:  0.000125
+mean: 0.3167276382446289
+top: 0.5174670219421387
+invalid: 21
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:36<00:00,  1.22s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-4573>:2: RuntimeWarning: invalid value encountered in arcsin
+  return x*arcsin(4)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+<lambdifygenerated-4596>:2: RuntimeWarning: invalid value encountered in arccos
+  return x*arccos(2)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 46
+Learning rate:  0.000125
+mean: 0.2780003845691681
+top: 0.5502244830131531
+invalid: 31
+Current epoch: 46
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:37<00:01,  1.11s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:38<00:00,  1.24s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 47
+Learning rate:  0.000125
+mean: 0.31114107370376587
+top: 0.5194272398948669
+invalid: 29
+Current epoch: 47
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:44<00:01,  1.04s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:46<00:00,  1.30s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in sqrt
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 48
+Learning rate:  0.000125
+mean: 0.31200382113456726
+top: 0.5173011422157288
+invalid: 22
+Current epoch: 48
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:39<00:00,  1.25s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 49
+Learning rate:  0.000125
+mean: 0.2897351384162903
+top: 0.5150785446166992
+invalid: 28
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:06<00:00,  1.46s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in exp
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 50
+Learning rate:  0.000125
+mean: 0.29689711332321167
+top: 0.5173011422157288
+invalid: 31
+  1%|▋                                                                                  | 1/128 [00:00<01:58,  1.07it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:33<00:00,  1.20s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (19.53) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (1499.82) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 51
+Learning rate:  0.000125
+mean: 0.26032090187072754
+top: 0.5930165648460388
+invalid: 38
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:51<00:00,  1.34s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 52
+Learning rate:  0.000125
+mean: 0.2859366834163666
+top: 0.5140071511268616
+invalid: 26
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:49<00:00,  1.32s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/numexpr/expressions.py:185: RuntimeWarning: invalid value encountered in sqrt
+  return ConstantNode(func(*[x.value for x in args]))
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (44455.98) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (44455.99) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 53
+Learning rate:  0.000125
+mean: 0.21590694785118103
+top: 0.870083749294281
+invalid: 39
+Current epoch: 53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:49<00:00,  1.33s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 54
+Learning rate:  0.000125
+mean: 0.3001209795475006
+top: 0.5150785446166992
+invalid: 28
+Current epoch: 54
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:56<00:00,  1.38s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 55
+Learning rate:  0.000125
+mean: 0.2403208315372467
+top: 0.5090565085411072
+invalid: 41
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:46<00:00,  1.30s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 56
+Learning rate:  0.000125
+mean: 0.30939793586730957
+top: 0.5173011422157288
+invalid: 33
+Current epoch: 56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:26<00:00,  1.15s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 57
+Learning rate:  0.000125
+mean: 0.28946369886398315
+top: 0.5193720459938049
+invalid: 33
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:46<00:01,  1.10s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:47<00:00,  1.31s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in sqrt
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 58
+Learning rate:  0.000125
+mean: 0.2911003828048706
+top: 0.5193720459938049
+invalid: 29
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:39<00:00,  1.25s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3344975709915161
+ max top: 0.870083749294281
+Current epoch: 59
+Learning rate:  0.000125
+mean: 0.3384878635406494
+top: 0.535768985748291
+invalid: 21
+  1%|▋                                                                                  | 1/128 [00:00<00:27,  4.62it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:01<00:00,  1.41s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3384878635406494
+ max top: 0.870083749294281
+Current epoch: 60
+Learning rate:  0.000125
+mean: 0.30716848373413086
+top: 0.5223982334136963
+invalid: 26
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:41<00:00,  1.26s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3384878635406494
+ max top: 0.870083749294281
+Current epoch: 61
+Learning rate:  0.000125
+mean: 0.322395384311676
+top: 0.5502244830131531
+invalid: 28
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:50<00:00,  1.33s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-6170>:2: RuntimeWarning: invalid value encountered in arctanh
+  return 2*x**2*arctanh(2)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3384878635406494
+ max top: 0.870083749294281
+Current epoch: 62
+Learning rate:  0.000125
+mean: 0.3013417720794678
+top: 0.5173011422157288
+invalid: 24
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:45<00:00,  1.29s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3384878635406494
+ max top: 0.870083749294281
+Current epoch: 63
+Learning rate:  0.000125
+mean: 0.29554176330566406
+top: 0.5147016048431396
+invalid: 28
+  1%|▋                                                                                  | 1/128 [00:01<02:13,  1.05s/it]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:23<00:00,  1.12s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/numexpr/expressions.py:185: RuntimeWarning: invalid value encountered in sqrt
+  return ConstantNode(func(*[x.value for x in args]))
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3384878635406494
+ max top: 0.870083749294281
+Current epoch: 64
+Learning rate:  0.000125
+mean: 0.283818781375885
+top: 0.5162074565887451
+invalid: 35
+Current epoch: 64
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:50<00:00,  1.34s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3384878635406494
+ max top: 0.870083749294281
+Current epoch: 65
+Learning rate:  0.000125
+mean: 0.2787076532840729
+top: 0.5136231780052185
+invalid: 33
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:57<00:00,  1.39s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3384878635406494
+ max top: 0.870083749294281
+Current epoch: 66
+Learning rate:  0.000125
+mean: 0.30817171931266785
+top: 0.535768985748291
+invalid: 28
+  2%|█▎                                                                                 | 2/128 [00:00<00:35,  3.54it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:52<00:01,  1.75s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:54<00:00,  1.36s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.3384878635406494
+ max top: 0.870083749294281
+Current epoch: 67
+Learning rate:  0.000125
+mean: 0.35363155603408813
+top: 0.5494297742843628
+invalid: 19
+Current epoch: 67
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:49<00:01,  1.43s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:50<00:00,  1.33s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 68
+Learning rate:  0.000125
+mean: 0.33246785402297974
+top: 0.6411736607551575
+invalid: 21
+Current epoch: 68
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 98%|███████████████████████████████████████████████████████████████████████████████▋ | 126/128 [02:37<00:02,  1.30s/it]
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:39<00:00,  1.25s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/numexpr/expressions.py:185: RuntimeWarning: invalid value encountered in sqrt
+  return ConstantNode(func(*[x.value for x in args]))
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 69
+Learning rate:  0.000125
+mean: 0.29813623428344727
+top: 0.5193720459938049
+invalid: 24
+Current epoch: 69
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 98%|███████████████████████████████████████████████████████████████████████████████  | 125/128 [02:42<00:03,  1.26s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:44<00:00,  1.29s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 70
+Learning rate:  0.000125
+mean: 0.280337929725647
+top: 0.5223982334136963
+invalid: 33
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:35<00:01,  1.07s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Expression zoo cannot be evaluated. Error: 'ComplexInfinity'
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:36<00:00,  1.22s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 71
+Learning rate:  0.000125
+mean: 0.2923509478569031
+top: 0.5486384034156799
+invalid: 28
+Current epoch: 71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:42<00:00,  1.27s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Expression zoo cannot be evaluated. Error: 'ComplexInfinity'
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 72
+Learning rate:  0.000125
+mean: 0.2683430314064026
+top: 0.5369552373886108
+invalid: 35
+Current epoch: 72
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:58<00:01,  1.67s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:00<00:00,  1.41s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-7349>:2: RuntimeWarning: invalid value encountered in arctanh
+  return x + x*arctanh(2)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 73
+Learning rate:  0.000125
+mean: 0.2690959572792053
+top: 0.5167768597602844
+invalid: 36
+Current epoch: 73
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:44<00:00,  1.29s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-7434>:2: RuntimeWarning: invalid value encountered in arctanh
+  return x**2*arctanh(2)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 74
+Learning rate:  0.000125
+mean: 0.31013792753219604
+top: 0.5820441842079163
+invalid: 24
+Current epoch: 74
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:55<00:01,  1.42s/it]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:56<00:00,  1.38s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 75
+Learning rate:  0.000125
+mean: 0.28022682666778564
+top: 0.535768985748291
+invalid: 35
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:41<00:01,  1.19s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:43<00:00,  1.28s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 76
+Learning rate:  0.000125
+mean: 0.3322315812110901
+top: 0.5194272398948669
+invalid: 19
+Current epoch: 76
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [03:02<00:01,  1.87s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:04<00:00,  1.44s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-7778>:2: RuntimeWarning: invalid value encountered in arcsin
+  return x*arcsin(4)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:1222: UserWarning: The average ratio of batch (170.71) exceeds threshold 10.00. Skipping batch.
+  warnings.warn(
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 77
+Learning rate:  0.000125
+mean: 0.3321724832057953
+top: 0.5193720459938049
+invalid: 20
+Current epoch: 77
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:43<00:00,  1.28s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 78
+Learning rate:  0.000125
+mean: 0.3185562193393707
+top: 0.5344312787055969
+invalid: 29
+Current epoch: 78
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:50<00:01,  1.86s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:52<00:00,  1.35s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in sqrt
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 79
+Learning rate:  0.000125
+mean: 0.3303961455821991
+top: 0.5173419713973999
+invalid: 28
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:44<00:00,  1.28s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 80
+Learning rate:  0.000125
+mean: 0.3158855736255646
+top: 0.5193720459938049
+invalid: 27
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:56<00:00,  1.38s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 81
+Learning rate:  0.000125
+mean: 0.30581027269363403
+top: 0.5271192193031311
+invalid: 27
+Current epoch: 81
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:54<00:00,  1.36s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 82
+Learning rate:  0.000125
+mean: 0.33378663659095764
+top: 0.5350332260131836
+invalid: 28
+  1%|▋                                                                                  | 1/128 [00:00<01:25,  1.49it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:44<00:00,  1.29s/it]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 83
+Learning rate:  0.000125
+mean: 0.2829897999763489
+top: 0.5174092650413513
+invalid: 39
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 98%|███████████████████████████████████████████████████████████████████████████████▋ | 126/128 [02:46<00:02,  1.22s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:47<00:00,  1.31s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in sqrt
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 84
+Learning rate:  0.000125
+mean: 0.29389870166778564
+top: 0.5175111293792725
+invalid: 27
+Current epoch: 84
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:47<00:00,  1.31s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 85
+Learning rate:  0.000125
+mean: 0.3122025728225708
+top: 0.5486384034156799
+invalid: 33
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:47<00:00,  1.31s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-8766>:2: RuntimeWarning: invalid value encountered in arcsin
+  return (1/2)*x + (1/2)*x*arcsin(4)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 86
+Learning rate:  0.000125
+mean: 0.31686657667160034
+top: 0.870083749294281
+invalid: 34
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:58<00:00,  1.40s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 87
+Learning rate:  0.000125
+mean: 0.3110864758491516
+top: 0.5390028953552246
+invalid: 28
+Current epoch: 87
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:44<00:00,  1.29s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 88
+Learning rate:  0.000125
+mean: 0.27890223264694214
+top: 0.5193720459938049
+invalid: 30
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:55<00:00,  1.37s/it]
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 89
+Learning rate:  0.000125
+mean: 0.2992565631866455
+top: 0.5151100754737854
+invalid: 20
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:34<00:00,  1.21s/it]
+<lambdifygenerated-9097>:2: RuntimeWarning: invalid value encountered in arcsin
+  return x**2/arcsin(2)**5
+<lambdifygenerated-9098>:2: RuntimeWarning: invalid value encountered in arccos
+  return x*arccos(2)**e
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 90
+Learning rate:  0.000125
+mean: 0.3073701858520508
+top: 0.5502244830131531
+invalid: 31
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [03:01<00:02,  2.10s/it]
+Error: Input contains NaN.
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [03:02<00:00,  1.43s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+<lambdifygenerated-9250>:2: RuntimeWarning: invalid value encountered in arcsin
+  return x*arcsin(3)
+<lambdifygenerated-9265>:2: RuntimeWarning: invalid value encountered in arctanh
+  return x*arctanh(4)
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 91
+Learning rate:  0.000125
+mean: 0.29440194368362427
+top: 0.535768985748291
+invalid: 28
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:49<00:01,  1.29s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:51<00:00,  1.34s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 92
+Learning rate:  0.000125
+mean: 0.30613499879837036
+top: 0.5148570537567139
+invalid: 25
+Current epoch: 92
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:35<00:00,  1.21s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains infinity or a value too large for dtype('float64').
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: overflow encountered in exp
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 93
+Learning rate:  0.000125
+mean: 0.2773677110671997
+top: 0.5486384034156799
+invalid: 28
+Current epoch: 93
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:55<00:00,  1.37s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 94
+Learning rate:  0.000125
+mean: 0.30008548498153687
+top: 0.6411736607551575
+invalid: 33
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:53<00:00,  1.36s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arctanh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccosh
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 95
+Learning rate:  0.000125
+mean: 0.3117735981941223
+top: 0.535768985748291
+invalid: 30
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:50<00:00,  1.33s/it]
+Error: Input contains NaN.
+Error: Input contains NaN.
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 96
+Learning rate:  0.000125
+mean: 0.29810547828674316
+top: 0.5174171328544617
+invalid: 33
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:54<00:00,  1.36s/it]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 97
+Learning rate:  0.000125
+mean: 0.2996918261051178
+top: 0.535768985748291
+invalid: 28
+  1%|▋                                                                                  | 1/128 [00:00<01:00,  2.11it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:48<00:00,  1.31s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 98
+Learning rate:  0.000125
+mean: 0.2937009036540985
+top: 0.5527499914169312
+invalid: 28
+Current epoch: 98
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 99%|████████████████████████████████████████████████████████████████████████████████▎| 127/128 [02:47<00:01,  1.11s/it]
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:48<00:00,  1.32s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arccos
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 99
+Learning rate:  0.000125
+mean: 0.3102727234363556
+top: 0.6411736607551575
+invalid: 24
+  0%|                                                                                           | 0/128 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████| 128/128 [02:50<00:00,  1.33s/it]
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/pandas/core/arraylike.py:399: RuntimeWarning: invalid value encountered in arcsin
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+Error: Input contains NaN.
+Error: Found input variables with inconsistent numbers of samples: [25, 1]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Working with expression:  self.x**2 * np.sin(self.x)
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+max mean: 0.35363155603408813
+ max top: 0.870083749294281
+Current epoch: 100
+Learning rate:  0.000125
+mean: 0.338299036026001
+top: 0.5770397782325745
+invalid: 22
+Current epoch: 100
+Saving results...
+Results saved!

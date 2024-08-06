@@ -1,0 +1,2 @@
+type,name,expression,dataset,low,high,size,noise,seed,nrmse,result,mean_nrmse,r2,epoch,time
+dso_4, Nguyen-5, np.sin(x) * np.cos(x) - 1,nguyen_5.csv,-1,1,"(1,20)",0,42,tensor(0.8277),,0.0948895737528801,0.9566755834583761,1000,10593.118570327759

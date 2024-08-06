@@ -1,0 +1,29 @@
+2024-06-04 15:59:16,338 INFO    MainThread:853167 [wandb_setup.py:_flush():76] Current SDK version is 0.17.0
+2024-06-04 15:59:16,338 INFO    MainThread:853167 [wandb_setup.py:_flush():76] Configure stats pid to 853167
+2024-06-04 15:59:16,338 INFO    MainThread:853167 [wandb_setup.py:_flush():76] Loading settings from /home/augusto/.config/wandb/settings
+2024-06-04 15:59:16,338 INFO    MainThread:853167 [wandb_setup.py:_flush():76] Loading settings from /home/augusto/SR_Methods/symbolic/wandb/settings
+2024-06-04 15:59:16,338 INFO    MainThread:853167 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-06-04 15:59:16,338 INFO    MainThread:853167 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-06-04 15:59:16,338 INFO    MainThread:853167 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'main.py', 'program_abspath': '/home/augusto/SR_Methods/symbolic/main.py', 'program': '/home/augusto/SR_Methods/symbolic/main.py'}
+2024-06-04 15:59:16,339 INFO    MainThread:853167 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-06-04 15:59:16,339 INFO    MainThread:853167 [wandb_init.py:_log_setup():520] Logging user logs to /home/augusto/SR_Methods/symbolic/wandb/run-20240604_155916-c5vsdu1p/logs/debug.log
+2024-06-04 15:59:16,339 INFO    MainThread:853167 [wandb_init.py:_log_setup():521] Logging internal logs to /home/augusto/SR_Methods/symbolic/wandb/run-20240604_155916-c5vsdu1p/logs/debug-internal.log
+2024-06-04 15:59:16,339 INFO    MainThread:853167 [wandb_init.py:init():560] calling init triggers
+2024-06-04 15:59:16,339 INFO    MainThread:853167 [wandb_init.py:init():567] wandb.init called with sweep_config: {}
+config: {}
+2024-06-04 15:59:16,339 INFO    MainThread:853167 [wandb_init.py:init():610] starting backend
+2024-06-04 15:59:16,339 INFO    MainThread:853167 [wandb_init.py:init():614] setting up manager
+2024-06-04 15:59:16,341 INFO    MainThread:853167 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-06-04 15:59:16,378 INFO    MainThread:853167 [wandb_init.py:init():622] backend started and connected
+2024-06-04 15:59:16,382 INFO    MainThread:853167 [wandb_init.py:init():711] updated telemetry
+2024-06-04 15:59:16,439 INFO    MainThread:853167 [wandb_init.py:init():744] communicating run to backend with 90.0 second timeout
+2024-06-04 15:59:16,868 INFO    MainThread:853167 [wandb_run.py:_on_init():2396] communicating current version
+2024-06-04 15:59:17,097 INFO    MainThread:853167 [wandb_run.py:_on_init():2405] got version response 
+2024-06-04 15:59:17,098 INFO    MainThread:853167 [wandb_init.py:init():795] starting run threads in backend
+2024-06-04 15:59:30,817 INFO    MainThread:853167 [wandb_run.py:_console_start():2374] atexit reg
+2024-06-04 15:59:30,817 INFO    MainThread:853167 [wandb_run.py:_redirect():2229] redirect: wrap_raw
+2024-06-04 15:59:30,817 INFO    MainThread:853167 [wandb_run.py:_redirect():2294] Wrapping output streams.
+2024-06-04 15:59:30,818 INFO    MainThread:853167 [wandb_run.py:_redirect():2319] Redirects installed.
+2024-06-04 15:59:30,821 INFO    MainThread:853167 [wandb_init.py:init():838] run started, returning control to user process
+2024-06-04 15:59:30,823 INFO    MainThread:853167 [wandb_run.py:_config_callback():1376] config_cb None None {'trl_ppo_trainer_config': {'exp_name': 'data/expressions/test_expr.csv', 'seed': 42, 'log_with': 'wandb', 'task_name': None, 'model_name': 'augustocsc/gpt-base', 'query_dataset': 'imdb', 'reward_model': 'sentiment-analysis:lvwerra/distilbert-imdb', 'remove_unused_columns': True, 'tracker_project_name': 'trl', 'steps': 20000, 'learning_rate': 0.00025, 'adap_kl_ctrl': True, 'init_kl_coef': 0.2, 'kl_penalty': 'kl', 'target': 6, 'horizon': 10000, 'gamma': 1, 'lam': 0.95, 'cliprange': 0.2, 'cliprange_value': 0.2, 'vf_coef': 0.1, 'batch_size': 128, 'forward_batch_size': None, 'mini_batch_size': 128, 'gradient_accumulation_steps': 1, 'world_size': 1, 'ppo_epochs': 4, 'max_grad_norm': None, 'optimize_cuda_cache': None, 'optimize_device_cache': False, 'early_stopping': False, 'target_kl': 1, 'compare_steps': 1, 'ratio_threshold': 10.0, 'use_score_scaling': False, 'use_score_norm': False, 'score_clip': None, 'whiten_rewards': False, 'is_encoder_decoder': False, 'is_peft_model': False, 'backward_batch_size': 128, 'global_backward_batch_size': 128, 'global_batch_size': 128, 'total_ppo_epochs': 157}}
+2024-06-04 16:39:43,716 WARNING MsgRouterThr:853167 [router.py:message_loop():77] message_loop has been closed

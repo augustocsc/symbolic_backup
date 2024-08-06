@@ -19,6 +19,7 @@ from datasets import load_dataset
 from trl import PPOTrainer, PPOConfig, AutoModelForCausalLMWithValueHead
 from trl.core import LengthSampler, respond_to_batch
 from torch.optim.lr_scheduler import ExponentialLR
+from torch.optim.lr_scheduler import LinearLR
 
 def save_epoch(epoch, rewards, exprs, r2):
     index = [f'{line["name"]}_{epoch}_{i}' for i in range(len(rewards))]
@@ -38,11 +39,12 @@ def save_results(results, line, save_dir):
    
 class Agent:
     def __init__(self, params):
-
+        
         self.config = PPOConfig(
             model_name="augustocsc/gpt-base", #add gpt2 model name here
             learning_rate=params.lr, #experiment with different lr?
-            log_with="wandb",
+            log_with= "wandb",
+            exp_name=params.experiment_file,
             mini_batch_size = params.mini_batch_size, # incase of memory issues while sampling, reduce batch size
             batch_size=params.batch_size,
             seed = params.seed,
@@ -51,8 +53,8 @@ class Agent:
         self.save_dir = params.save_dir
         self.experiment_file = params.experiment_file
 
-
-        self.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        
         #, torch_dtype=torch.float16
         self.model = AutoModelForCausalLMWithValueHead.from_pretrained(self.config.model_name)
         self.ref_model = AutoModelForCausalLMWithValueHead.from_pretrained(self.config.model_name)
@@ -98,22 +100,25 @@ class Agent:
         #for each line in data pandas dataframe
         for _, line in data.iterrows():    
 
-            # Assuming optimizer is the optimizer you're using for your model
-            optimizer = torch.optim.Adam(self.model.parameters(), lr=self.config.learning_rate)
-            lr_scheduler = ExponentialLR(optimizer, gamma=0.9)
+            optimizer = torch.optim.Adam(self.model.parameters(), lr=self.config.learning_rate, eps=1e-8)
+            lr_scheduler = LinearLR(optimizer, start_factor=0.5, total_iters=4)
+            #lr_scheduler = ExponentialLR(optimizer, gamma=0.9)
 
+            
             ppo_trainer = PPOTrainer(
                 self.config, 
                 self.model, 
                 self.ref_model, 
                 self.tokenizer, 
-                lr_scheduler=lr_scheduler, 
+                #lr_scheduler=lr_scheduler, 
                 optimizer=optimizer
             )
-
+            
+            
             self.device = ppo_trainer.accelerator.device
+            print(f'Using device: {self.device}')
             if ppo_trainer.accelerator.num_processes == 1:
-                self.device = 0 if torch.cuda.is_available() else "cpu" # to avoid a `pipeline` bug
+                self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
             experiment = Experiment(experiment=line)
 
@@ -126,7 +131,7 @@ class Agent:
             log_saved = {'index':[], 'expr':[], 'reward': [], 'r2':[]}
             max_reward = mean_reward = max_r2 = 0 
             output_min_length = 4
-            output_max_length = 20
+            output_max_length = 50
             output_length_sampler = LengthSampler(output_min_length, output_max_length)
             
             generation_kwargs = {
@@ -162,6 +167,8 @@ class Agent:
 
                     response = ppo_trainer.generate(query.to(self.device), **generation_kwargs)
                     response_tensors.append(response.squeeze()[-gen_len:])
+                    #print the response
+                    #print(self.tokenizer.decode(response.squeeze()[-gen_len:]))
 
                 
                 batch['response'] = [self.tokenizer.decode(r.squeeze()) for r in response_tensors]
@@ -238,8 +245,3 @@ class Agent:
             #append the results in a csv file
             save_results(results, line, save_dir=self.save_dir)
             print("Results saved!")
-
-            
-            
-
-

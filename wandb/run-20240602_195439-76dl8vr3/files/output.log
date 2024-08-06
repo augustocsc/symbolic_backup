@@ -1,0 +1,83 @@
+/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py:262: UserWarning: No dataset is provided. Make sure to set config.batch_size to the correct value before training.
+  warnings.warn(
+  0%|                                                                              | 0/16 [00:00<?, ?it/s]
+Using device: cuda
+Loading experiment data comparing
+Loading dataset from data/input/results.csv
+Dataset data/input/results.csv not found
+Creating folder comparing
+
+
+
+
+
+ 50%|███████████████████████████████████                                   | 8/16 [00:18<00:18,  2.32s/it]
+Traceback (most recent call last):
+  File "/home/augusto/SR_Methods/symbolic/main.py", line 59, in <module>
+    main(params)
+  File "/home/augusto/SR_Methods/symbolic/main.py", line 51, in main
+    agent.train()
+  File "/home/augusto/SR_Methods/symbolic/Agent.py", line 168, in train
+    response = ppo_trainer.generate(query.to(self.device), **generation_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/trainer/ppo_trainer.py", line 497, in generate
+    response = unwrapped_model.generate(input_ids=query_tensor.unsqueeze(dim=0), **generation_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/trl/models/modeling_value_head.py", line 204, in generate
+    return self.pretrained_model.generate(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/transformers/generation/utils.py", line 1622, in generate
+    result = self._sample(
+             ^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/transformers/generation/utils.py", line 2791, in _sample
+    outputs = self(
+              ^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 1305, in forward
+    transformer_outputs = self.transformer(
+                          ^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 1119, in forward
+    outputs = block(
+              ^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 654, in forward
+    feed_forward_hidden_states = self.mlp(hidden_states)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/transformers/models/gpt2/modeling_gpt2.py", line 574, in forward
+    hidden_states = self.c_fc(hidden_states)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/augusto/miniconda3/envs/sr_env/lib/python3.11/site-packages/transformers/pytorch_utils.py", line 103, in forward
+    x = torch.addmm(self.bias, x.view(-1, x.size(-1)), self.weight)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

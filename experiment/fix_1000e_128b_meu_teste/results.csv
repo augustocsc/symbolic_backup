@@ -1,0 +1,2 @@
+type,name,expression,dataset,low,high,size,noise,seed,nrmse,result,mean_nrmse,r2,epoch,time
+test_5,meu teste,-x**2 - 7,meu_teste.csv,-1,1,"(1,20)",0,42,tensor(0.5408),,0.025095684453845024,0.27893664005462404,1000,41988.59630942345

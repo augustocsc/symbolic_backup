@@ -6,8 +6,8 @@ from transformers import AutoModelForCausalLM
 from transformers import TrainingArguments, Trainer
 from datetime import datetime
 
-MODEL_NAME = "gpt2-p100k"
-DATABASE_NAME = "prefix100k.txt"
+MODEL_NAME = "gpt2-p10k-cossine"
+DATABASE_NAME = "prefix10k.txt"
 RUN_NAME = str(datetime.now().month) + "/" + str(datetime.now().day) + "/" + str(datetime.now().hour)
 
 def tokenize_function(examples):
@@ -28,8 +28,10 @@ def group_texts(examples):
     result["labels"] = result["input_ids"].copy()
     return result
 
+device = torch.device("cuda:0")
 
-model_checkpoint="gpt2"
+
+model_checkpoint="gpt2-large"
 
 dataset = load_dataset("augustocsc/prefix_expressions", data_files=DATABASE_NAME)['train'].train_test_split(train_size=.8, test_size=.2)
 tokenizer = AutoTokenizer.from_pretrained(model_checkpoint,
@@ -53,15 +55,14 @@ lm_datasets = tokenized_datasets.map(
 )
 
 
-model = AutoModelForCausalLM.from_pretrained(model_checkpoint)
+model = AutoModelForCausalLM.from_pretrained(model_checkpoint).to(device)
 #this need bc we added tokens (bos_token, etc).
 model.resize_token_embeddings(len(tokenizer))
 
 
-
 torch.cuda.empty_cache()
 training_args = TrainingArguments(
-                            num_train_epochs=1,
+                            num_train_epochs=10,
                             #max_steps=1000,
                             output_dir=MODEL_NAME,
                             resume_from_checkpoint=True,
@@ -69,9 +70,10 @@ training_args = TrainingArguments(
                             seed=42,
                             save_steps=1000,
                             save_total_limit=2,
-                            optim= "adamw_apex_fused",
+                            optim= "adamw_hf",
                             learning_rate=5e-5,
                             weight_decay=0.01,
+                            lr_scheduler_type = "cosine",
                             evaluation_strategy="steps",
                             eval_steps=200,
                             per_device_train_batch_size=64,
@@ -80,13 +82,14 @@ training_args = TrainingArguments(
                             push_to_hub=True,
                             hub_strategy = "checkpoint",
                             report_to="wandb",
-                            overwrite_output_dir = True,)
+                            overwrite_output_dir = True,
+                            )
 
 trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=lm_datasets['train'],
-    eval_dataset=lm_datasets['test']
+    eval_dataset=lm_datasets['test'],
 )
 
 trainer.train()

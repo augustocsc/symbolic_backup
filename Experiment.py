@@ -11,7 +11,7 @@ import time
 #case 4: expression and interval are available
 class Experiment:
   def __init__(self, x=None, y=None, experiment=None, save=True, save_folder='data/input/'):
-    experiment = experiment.replace(np.nan, None)
+    self.experiment = experiment.replace(np.nan, None)
 
     # Set the seed for reproducibility
     self.x = x
@@ -45,7 +45,7 @@ class Experiment:
           raise ValueError('y cannot be None')
         else:
           self.y = y
-          self.sigma = np.std(y)
+    self.sigma = np.std(self.y)
     
   def create_dataset(self):
     print("Creating dataset for {}".format(self.name))
@@ -82,6 +82,7 @@ class Experiment:
       result = re.sub(pattern, 'self.x', x)
       
       return result
+  
   def load_experiment_data(self):
     
     print("Loading experiment data {}".format(self.name))
@@ -89,11 +90,15 @@ class Experiment:
     print("Loading dataset from {}".format(self.dataset))
     #try to read the dataset from the experiment, if it fails, create a new dataset
     try:
+      #load file from the dataset
       data = pd.read_csv(self.dataset)
-      self.experiment.x = data['x']
-      self.experiment.y = data['y']
-    except:
-      print("Dataset {} not found".format(self.dataset))
+      
+      self.x = data['x']
+      self.y = data['y']
+      print("Dataset loaded from {}".format(data))
+      
+    except Exception as error:
+      print(f'Error loading dataset from {self.dataset}. Error: {error}')
       self.create_dataset()
 
     return self

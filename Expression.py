@@ -2,7 +2,7 @@ from utils import prefix_to_infix
 import math
 from sympy import lambdify
 import numpy as np
-from sklearn.metrics import mean_squared_error
+from sklearn.metrics import root_mean_squared_error
 from sklearn.metrics import r2_score
 
 opt_dict={'sqrt':'np.sqrt','sin':'np.sin','cos':'np.cos','tan':'np.tanh'}
@@ -66,14 +66,13 @@ class Expression:
     return reward
   
   def nrmse(self, y, y_pred):
-    reward = mean_squared_error(y, y_pred, squared=False)
+    reward = root_mean_squared_error(y, y_pred)
     return reward
   
   def eval_expr(self, x):
     try:
       f = lambdify('x', self.infix, "numpy")
+      return f(x)
     except Exception as error:
       print(f'Expression {self.infix} cannot be evaluated. Error: {error}')
       return math.nan
-    
-    return f(x)

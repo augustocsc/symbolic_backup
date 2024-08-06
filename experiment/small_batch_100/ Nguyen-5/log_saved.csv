@@ -1,0 +1,1600 @@
+ Nguyen-5_0_0,-x**4/4 + x**3/3 + x,tensor(0.2886),-5.078448609823766
+ Nguyen-5_0_1,3*E*x,tensor(0.0811),-127.23780486143804
+ Nguyen-5_0_2,x*cosh(x) - x,tensor(0.2697),-6.32929477719616
+ Nguyen-5_0_3,sin(4*x**2)/8,tensor(0.2502),-7.979139399449583
+ Nguyen-5_0_4,8*x**2,tensor(0.0790),-134.94540842426
+ Nguyen-5_0_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1edde50>>
+ Nguyen-5_0_6,exp(2*x + 4),tensor(0.0028),-124290.87388679913
+ Nguyen-5_0_7,4*log(x),tensor(0.),0
+ Nguyen-5_0_8,x**3*sin(x),tensor(0.2296),-10.258825430362162
+ Nguyen-5_0_9,x - sin(x + 4),tensor(0.1940),-16.25426749309246
+ Nguyen-5_0_10,2*x**(3/2)/3,tensor(0.),0
+ Nguyen-5_0_11,4*x + 4*log(x),tensor(0.),0
+ Nguyen-5_0_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1eead90>>
+ Nguyen-5_0_13,x*exp(5*x),tensor(0.0128),-5906.99509975475
+ Nguyen-5_0_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1eed110>>
+ Nguyen-5_0_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1eed750>>
+ Nguyen-5_1_0,3*x**2/2 + x*sin(x) + cos(x),tensor(0.1226),-50.248693402240015
+ Nguyen-5_1_1,x**3/3 + x + 4,tensor(0.0741),-155.01005828339927
+ Nguyen-5_1_2,x**14/2 + x**2/2,tensor(0.2268),-10.624332818463046
+ Nguyen-5_1_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1eef910>>
+ Nguyen-5_1_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d6ad10>>
+ Nguyen-5_1_5,sqrt(x) - exp(x),tensor(0.),0
+ Nguyen-5_1_6,-2*x**2 + tan(x),tensor(0.3450),-2.6041673560352847
+ Nguyen-5_1_7,x**2 + x + 1/x,tensor(0.0657),-201.0762541134071
+ Nguyen-5_1_8,sin(x) - cos(x),tensor(0.6014),0.5605635793086451
+ Nguyen-5_1_9,x*(x**2 + x) + x,tensor(0.2121),-12.802590327865312
+ Nguyen-5_1_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d6b010>>
+ Nguyen-5_1_11,1/log(x + 2),tensor(0.0537),-309.3283285417922
+ Nguyen-5_1_12,-(-x**4 - 1)**2/3,tensor(0.3542),-2.3253426128646226
+ Nguyen-5_1_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d70bd0>>
+ Nguyen-5_1_14,2*x**(7/2)/7 + x**4/4,tensor(0.),0
+ Nguyen-5_1_15,3 - x**2,tensor(0.0966),-86.4703530882857
+ Nguyen-5_2_0,4*log(x)/x,tensor(0.),0
+ Nguyen-5_2_1,(x**2 + x)**2,tensor(0.1850),-18.415796459905273
+ Nguyen-5_2_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1da7610>>
+ Nguyen-5_2_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1db7fd0>>
+ Nguyen-5_2_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d9a850>>
+ Nguyen-5_2_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d9b490>>
+ Nguyen-5_2_6,sqrt(x) + exp(x) + 4,tensor(0.),0
+ Nguyen-5_2_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d99d90>>
+ Nguyen-5_2_8,x/(x + cos(x)),tensor(0.1266),-46.63399302546215
+ Nguyen-5_2_9,x*(-4*x**2 - 2*x + log(x)),tensor(0.),0
+ Nguyen-5_2_10,cosh(2*x + 1)/2,tensor(0.1345),-40.4238358272132
+ Nguyen-5_2_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d83850>>
+ Nguyen-5_2_12,-x**2 - 16*x,tensor(0.0376),-652.6729791588947
+ Nguyen-5_2_13,2*x + sin(3*x**2),tensor(0.1910),-16.950461611333917
+ Nguyen-5_2_14,x,tensor(0.2840),-5.357102660773727
+ Nguyen-5_2_15,x**2/2 + sin(2*x),tensor(0.2501),-7.9936103152376
+ Nguyen-5_3_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1dabb90>>
+ Nguyen-5_3_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1f29590>>
+ Nguyen-5_3_2,-x**2/2 + x*sinh(2),tensor(0.1748),-21.292302371324745
+ Nguyen-5_3_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1df3e50>>
+ Nguyen-5_3_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1df97d0>>
+ Nguyen-5_3_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1dfac10>>
+ Nguyen-5_3_6,-x**5/5 + 2*x**3*log(x)/9,tensor(0.),0
+ Nguyen-5_3_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e041d0>>
+ Nguyen-5_3_8,x*tan(3),tensor(0.2526),-7.754229685659158
+ Nguyen-5_3_9,x**5/5 - exp(x),tensor(0.2816),-5.510502473222581
+ Nguyen-5_3_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1df0290>>
+ Nguyen-5_3_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e070d0>>
+ Nguyen-5_3_12,x*(x**2 + 4*x),tensor(0.1259),-47.235446415694824
+ Nguyen-5_3_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e07b90>>
+ Nguyen-5_3_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e08250>>
+ Nguyen-5_3_15,x/2 + log(x)/(2*x),tensor(0.),0
+ Nguyen-5_4_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1dfa390>>
+ Nguyen-5_4_1,x**2*tan(4)/2,tensor(0.2282),-10.437304005184634
+ Nguyen-5_4_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1de0d90>>
+ Nguyen-5_4_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e28ad0>>
+ Nguyen-5_4_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e1d810>>
+ Nguyen-5_4_5,-45*x**2/2,tensor(0.0393),-596.2492449566894
+ Nguyen-5_4_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c3d090>>
+ Nguyen-5_4_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c3d450>>
+ Nguyen-5_4_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c3d610>>
+ Nguyen-5_4_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c3da10>>
+ Nguyen-5_4_10,3*x**3,tensor(0.2331),-9.824318460867744
+ Nguyen-5_4_11,-x**2/4 + x/11,tensor(0.2796),-5.640853963417079
+ Nguyen-5_4_12,(x + sinh(x))**3,tensor(0.0994),-81.14337644264515
+ Nguyen-5_4_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c40050>>
+ Nguyen-5_4_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c40490>>
+ Nguyen-5_4_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c41390>>
+ Nguyen-5_5_0,x**2,tensor(0.2084),-13.427628353794578
+ Nguyen-5_5_1,x**2 + 4*x + exp(x),tensor(0.1026),-75.43625245515189
+ Nguyen-5_5_2,-x**2*log(x) - 6/(5*x**5),tensor(0.),0
+ Nguyen-5_5_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e2b2d0>>
+ Nguyen-5_5_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c7dc90>>
+ Nguyen-5_5_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c7f1d0>>
+ Nguyen-5_5_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c49cd0>>
+ Nguyen-5_5_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c49a50>>
+ Nguyen-5_5_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c4a890>>
+ Nguyen-5_5_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c4bf10>>
+ Nguyen-5_5_10,x**6/6 + log(x),tensor(0.),0
+ Nguyen-5_5_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c49250>>
+ Nguyen-5_5_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c490d0>>
+ Nguyen-5_5_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c48e50>>
+ Nguyen-5_5_14,x**2 - x*cosh(x)/2 - 2*cos(x),tensor(0.2880),-5.109528970944985
+ Nguyen-5_5_15,acos(x)**2,tensor(0.0728),-161.00103366722783
+ Nguyen-5_6_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e0a450>>
+ Nguyen-5_6_1,2*x**3/3 + x**2,tensor(0.2146),-12.39701963509134
+ Nguyen-5_6_2,sin(x)**(3/2)/6,tensor(0.),0
+ Nguyen-5_6_3,x**2/2 + x + 2*log(x),tensor(0.),0
+ Nguyen-5_6_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c74110>>
+ Nguyen-5_6_5,x*(x + 3) + x,tensor(0.1475),-32.414394833607794
+ Nguyen-5_6_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d44250>>
+ Nguyen-5_6_7,2*x**3 + x*log(x),tensor(0.),0
+ Nguyen-5_6_8,1 - sqrt(x),tensor(0.),0
+ Nguyen-5_6_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c74c50>>
+ Nguyen-5_6_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c70090>>
+ Nguyen-5_6_11,5*x**2/2,tensor(0.1565),-28.063055196842157
+ Nguyen-5_6_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c76a90>>
+ Nguyen-5_6_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c709d0>>
+ Nguyen-5_6_14,x*(x + 3/x),tensor(0.0821),-123.97857377312926
+ Nguyen-5_6_15,-x + sinh(x),tensor(0.2636),-6.80438774626524
+ Nguyen-5_7_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d44310>>
+ Nguyen-5_7_1,4*x**3/3 + x**2,tensor(0.2156),-12.23890232490164
+ Nguyen-5_7_2,x**2 + 8,tensor(0.0405),-559.6155943656149
+ Nguyen-5_7_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c5c490>>
+ Nguyen-5_7_4,x**2/2 - x*exp(x) - x,tensor(0.1617),-25.869750399164378
+ Nguyen-5_7_5,2*x**2 + exp(x),tensor(0.1171),-55.89111956096957
+ Nguyen-5_7_6,x**2*exp(2),tensor(0.0837),-118.9439506939658
+ Nguyen-5_7_7,2/x,tensor(0.0358),-723.0172811130673
+ Nguyen-5_7_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1daabd0>>
+ Nguyen-5_7_9,x**3 + (x - 1)*exp(x),tensor(0.4825),-0.15038342391101378
+ Nguyen-5_7_10,-5*log(x),tensor(0.),0
+ Nguyen-5_7_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e19610>>
+ Nguyen-5_7_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e198d0>>
+ Nguyen-5_7_13,x*log(x**2) - x,tensor(0.1735),-21.682257844618437
+ Nguyen-5_7_14,-x*cos(x) + sin(x) - 2*cos(x),tensor(0.3551),-2.2968934697166694
+ Nguyen-5_7_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e1ae50>>
+ Nguyen-5_8_0,-3*x**5,tensor(0.1930),-16.47840212382367
+ Nguyen-5_8_1,x*log(x) + 2*x,tensor(0.),0
+ Nguyen-5_8_2,-x**2/8 + x*log(x),tensor(0.),0
+ Nguyen-5_8_3,x**2 + 2*x + sin(x),tensor(0.1798),-19.797019746266447
+ Nguyen-5_8_4,x**2/2 - 2*acos(-2*x),tensor(0.),0
+ Nguyen-5_8_5,x**2/2 + (x - 1)*exp(x),tensor(0.3882),-1.4839068232683745
+ Nguyen-5_8_6,x**2 - cosh(x),tensor(0.4511),-0.48019586617733845
+ Nguyen-5_8_7,-x + log(cos(x)),tensor(0.2241),-10.992625993767524
+ Nguyen-5_8_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cbc250>>
+ Nguyen-5_8_9,x**6 + x**5/5,tensor(0.2365),-9.420602125596446
+ Nguyen-5_8_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cc12d0>>
+ Nguyen-5_8_11,x**(5/3),tensor(0.),0
+ Nguyen-5_8_12,x + cos(x),tensor(0.1794),-19.928876847737303
+ Nguyen-5_8_13,x**2 - 2*x*cos(x) + 2*sin(x),tensor(0.2144),-12.420112549125822
+ Nguyen-5_8_14,exp(x + 1),tensor(0.0845),-116.50626419695169
+ Nguyen-5_8_15,x**(-2),tensor(0.0043),-54087.30461310216
+ Nguyen-5_9_0,x + x**(-2),tensor(0.0043),-54094.05653514642
+ Nguyen-5_9_1,x - tan(x),tensor(0.2471),-8.283576902475621
+ Nguyen-5_9_2,x*asin(x),tensor(0.2003),-14.935902945219365
+ Nguyen-5_9_3,x + sin(x) + tanh(x),tensor(0.2097),-13.206057983851826
+ Nguyen-5_9_4,x**7*sin(2),tensor(0.2651),-6.68247969236498
+ Nguyen-5_9_5,-2*log(x) + sin(x),tensor(0.),0
+ Nguyen-5_9_6,-1/cos(x),tensor(0.4441),-0.5663539128225423
+ Nguyen-5_9_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cc38d0>>
+ Nguyen-5_9_8,x*acos(x),tensor(0.3220),-3.4321408506236066
+ Nguyen-5_9_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cc3d10>>
+ Nguyen-5_9_10,3*x - log(tanh(x) + 1),tensor(0.2288),-10.35801485756227
+ Nguyen-5_9_11,x**4 - 1,tensor(0.4204),-0.901248325196871
+ Nguyen-5_9_12,8*x**4 + x,tensor(0.1024),-75.85228703617392
+ Nguyen-5_9_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1ce01d0>>
+ Nguyen-5_9_14,1/(x**3 + x),tensor(0.0693),-179.59768923698746
+ Nguyen-5_9_15,2*x - exp(x),tensor(0.5677),0.42005697780797935
+ Nguyen-5_10_0,x + (x + 2)**2,tensor(0.0659),-199.96421762507876
+ Nguyen-5_10_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cbc0d0>>
+ Nguyen-5_10_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1ce1390>>
+ Nguyen-5_10_3,log(6*x + 1) + 1/6,tensor(0.),0
+ Nguyen-5_10_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d11910>>
+ Nguyen-5_10_5,(x + 4)**5,tensor(0.0003),-12835213.202994637
+ Nguyen-5_10_6,5,tensor(0.),0
+ Nguyen-5_10_7,x/4,tensor(0.2708),-6.251771932029156
+ Nguyen-5_10_8,-x**2 + 3*x,tensor(0.2090),-13.321838167435816
+ Nguyen-5_10_9,x*sinh(x**3),tensor(0.2230),-11.14441733344213
+ Nguyen-5_10_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d1b0d0>>
+ Nguyen-5_10_11,log(x + 1),tensor(0.2991),-4.493645156985404
+ Nguyen-5_10_12,5 - 16*x,tensor(0.0311),-971.7381519060488
+ Nguyen-5_10_13,x**2*exp(3),tensor(0.0373),-663.5898024907502
+ Nguyen-5_10_14,(x - 1)**2,tensor(0.1152),-58.012415949813395
+ Nguyen-5_10_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1ce3c50>>
+ Nguyen-5_11_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdae2490>>
+ Nguyen-5_11_1,1/(x**2 + 1),tensor(0.1753),-21.139924551762547
+ Nguyen-5_11_2,10*x**7/7 + x**3/15,tensor(0.2643),-6.7453110776791485
+ Nguyen-5_11_3,exp(3)/x,tensor(0.0037),-72449.29498717589
+ Nguyen-5_11_4,x**3/3 + 3*x**2/2,tensor(0.1909),-16.964762782185264
+ Nguyen-5_11_5,x**2*(x + sinh(x)),tensor(0.2578),-7.292205726489003
+ Nguyen-5_11_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1dcedd0>>
+ Nguyen-5_11_7,x**3/3 + 9*x**2/2,tensor(0.1166),-56.44806992036332
+ Nguyen-5_11_8,32*x**4,tensor(0.0326),-878.5534162543565
+ Nguyen-5_11_9,4*x - sin(x),tensor(0.1921),-16.682403476750032
+ Nguyen-5_11_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1f1d750>>
+ Nguyen-5_11_11,x**2/2 + x*log(x),tensor(0.),0
+ Nguyen-5_11_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1ca3f50>>
+ Nguyen-5_11_13,x**2*(x + cos(x)),tensor(0.2306),-10.13059945244622
+ Nguyen-5_11_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c890d0>>
+ Nguyen-5_11_15,-cos(x + 2),tensor(0.2290),-10.329594679687554
+ Nguyen-5_12_0,5/x,tensor(0.0147),-4491.33070303946
+ Nguyen-5_12_1,x**4/4 + log(x),tensor(0.),0
+ Nguyen-5_12_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c60fd0>>
+ Nguyen-5_12_3,x**5 + x + 4,tensor(0.0739),-155.90446283649229
+ Nguyen-5_12_4,x**3*acos(3),tensor(0.),0
+ Nguyen-5_12_5,3*x*sin(x) - 3*cos(x),tensor(0.2348),-9.62611615057742
+ Nguyen-5_12_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cd6ed0>>
+ Nguyen-5_12_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0374c50>>
+ Nguyen-5_12_8,x**3/3 + exp(2*x)/2,tensor(0.1633),-25.2630422173961
+ Nguyen-5_12_9,-x + cos(x + 2),tensor(0.1876),-17.757658688325247
+ Nguyen-5_12_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1dce750>>
+ Nguyen-5_12_11,x**7 + 2,tensor(0.1148),-58.446400324729254
+ Nguyen-5_12_12,sin(x + 5),tensor(0.5141),0.10666580384658553
+ Nguyen-5_12_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d07dd0>>
+ Nguyen-5_12_14,tan(2)/x**2,tensor(0.0020),-255771.090059072
+ Nguyen-5_12_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0378a50>>
+ Nguyen-5_13_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1f18890>>
+ Nguyen-5_13_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f038c750>>
+ Nguyen-5_13_2,-cos(2*x + 5)/4,tensor(0.2463),-8.363698943742342
+ Nguyen-5_13_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cacf50>>
+ Nguyen-5_13_4,-cos(2*x),tensor(0.3088),-4.008474243104015
+ Nguyen-5_13_5,2*x + atan(x),tensor(0.2040),-14.227202178973972
+ Nguyen-5_13_6,4*x**2 - x + log(x),tensor(0.),0
+ Nguyen-5_13_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cbd450>>
+ Nguyen-5_13_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d1e3d0>>
+ Nguyen-5_13_9,x**2*(x + 4),tensor(0.1259),-47.235446415694824
+ Nguyen-5_13_10,3*x + exp(x),tensor(0.1237),-49.20693075224001
+ Nguyen-5_13_11,x**4/4 + sin(x)*cos(x),tensor(0.2740),-6.023359393841863
+ Nguyen-5_13_12,tan(x) + asinh(x),tensor(0.2351),-9.580646600537106
+ Nguyen-5_13_13,x**3/16,tensor(0.2612),-7.002462564190289
+ Nguyen-5_13_14,cos(15*x),tensor(0.2460),-8.397477766277436
+ Nguyen-5_13_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0390bd0>>
+ Nguyen-5_14_0,0,tensor(0.),0
+ Nguyen-5_14_1,-x + cos(1),tensor(0.1691),-23.148495771365802
+ Nguyen-5_14_2,x**4/4 + x**3/3,tensor(0.2575),-7.315060525906771
+ Nguyen-5_14_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c7d550>>
+ Nguyen-5_14_4,2*x + 23,tensor(0.0164),-3591.7070908063747
+ Nguyen-5_14_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03d2250>>
+ Nguyen-5_14_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f039b8d0>>
+ Nguyen-5_14_7,3*x*log(x) + x,tensor(0.),0
+ Nguyen-5_14_8,-x**3/3 + sin(x),tensor(0.2858),-5.242452255616478
+ Nguyen-5_14_9,-3*x + (x + 2)*exp(x),tensor(0.0930),-94.09493367083746
+ Nguyen-5_14_10,x**4 + log(x),tensor(0.),0
+ Nguyen-5_14_11,x**3 + 5*x,tensor(0.1159),-57.15652076179121
+ Nguyen-5_14_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03cb510>>
+ Nguyen-5_14_13,-sinh(x/4)/8,tensor(0.2582),-7.256762648048792
+ Nguyen-5_14_14,25*x**2/32,tensor(0.2184),-11.81301325561814
+ Nguyen-5_14_15,x**2 + log(x),tensor(0.),0
+ Nguyen-5_15_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1f2b950>>
+ Nguyen-5_15_1,2*x + exp(x),tensor(0.1381),-37.934239413675975
+ Nguyen-5_15_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d10e10>>
+ Nguyen-5_15_3,cosh(x),tensor(0.1479),-32.19071701710409
+ Nguyen-5_15_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03e5310>>
+ Nguyen-5_15_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03efcd0>>
+ Nguyen-5_15_6,(x + 1)**2,tensor(0.1414),-35.85194130197689
+ Nguyen-5_15_7,x*atan(x + 3)/2 + log(x + 1)/2,tensor(0.2950),-4.709745039195042
+ Nguyen-5_15_8,20*x**9,tensor(0.0812),-127.15495317409969
+ Nguyen-5_15_9,130*log(x),tensor(0.),0
+ Nguyen-5_15_10,-2*x - log(x),tensor(0.),0
+ Nguyen-5_15_11,-x**2 + 8*x,tensor(0.0828),-121.77675921658744
+ Nguyen-5_15_12,x**3/3,tensor(0.2668),-6.553734405814227
+ Nguyen-5_15_13,log(x) + sin(x**4),tensor(0.),0
+ Nguyen-5_15_14,2*x*(x*sin(x) + x),tensor(0.1749),-21.24773337724652
+ Nguyen-5_15_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03edd50>>
+ Nguyen-5_16_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f04112d0>>
+ Nguyen-5_16_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f041e050>>
+ Nguyen-5_16_2,2*x - log(cos(x)),tensor(0.2241),-10.985254587053975
+ Nguyen-5_16_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0410690>>
+ Nguyen-5_16_4,sin(x),tensor(0.2854),-5.268228339505732
+ Nguyen-5_16_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0409210>>
+ Nguyen-5_16_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f040be90>>
+ Nguyen-5_16_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f040b450>>
+ Nguyen-5_16_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f040b390>>
+ Nguyen-5_16_9,cosh(x/2),tensor(0.1566),-28.02410769654162
+ Nguyen-5_16_10,-x**2 + x,tensor(0.3578),-2.222145567282377
+ Nguyen-5_16_11,x**2 + sqrt(tan(x)),tensor(0.),0
+ Nguyen-5_16_12,cos(3*x),tensor(0.2400),-9.03126757401939
+ Nguyen-5_16_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0408e50>>
+ Nguyen-5_16_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0413750>>
+ Nguyen-5_16_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0410a50>>
+ Nguyen-5_17_0,313*x,tensor(0.0021),-224636.02539409534
+ Nguyen-5_17_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03e5c90>>
+ Nguyen-5_17_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0413010>>
+ Nguyen-5_17_3,4*x + (x - 1)*exp(x),tensor(0.1564),-28.111528150309894
+ Nguyen-5_17_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0429290>>
+ Nguyen-5_17_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0429190>>
+ Nguyen-5_17_6,cos(log(x)),tensor(0.),0
+ Nguyen-5_17_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03b0910>>
+ Nguyen-5_17_8,2*tanh(x),tensor(0.2653),-6.671899428644135
+ Nguyen-5_17_9,16*x**3,tensor(0.0623),-225.6780097049172
+ Nguyen-5_17_10,2*x*asin(x) - 4*asin(x),tensor(0.0903),-100.57544446326084
+ Nguyen-5_17_11,x**3/5,tensor(0.2642),-6.756651594637235
+ Nguyen-5_17_12,2*x - 2*log(x),tensor(0.),0
+ Nguyen-5_17_13,x + tan(4),tensor(0.1565),-28.04789384536239
+ Nguyen-5_17_14,3*x + 6*log(x),tensor(0.),0
+ Nguyen-5_17_15,x**3/3 + sin(x),tensor(0.2815),-5.512127275523368
+ Nguyen-5_18_0,sin(4*x + 4),tensor(0.1951),-16.019428445253457
+ Nguyen-5_18_1,exp(x) + asin(x),tensor(0.1475),-32.40717189306838
+ Nguyen-5_18_2,-2*log(x),tensor(0.),0
+ Nguyen-5_18_3,36/x,tensor(0.0021),-232762.50041120144
+ Nguyen-5_18_4,3*x**3/5,tensor(0.2708),-6.252598997189831
+ Nguyen-5_18_5,x**2 + 2*x + sin(x),tensor(0.1798),-19.797019746266447
+ Nguyen-5_18_6,x**2 + x*log(x),tensor(0.),0
+ Nguyen-5_18_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03edb90>>
+ Nguyen-5_18_8,x**2*log(x)/4,tensor(0.),0
+ Nguyen-5_18_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03a7190>>
+ Nguyen-5_18_10,x**5 + cos(x),tensor(0.1731),-21.80969246962079
+ Nguyen-5_18_11,6*x**7/7 + x**5/5,tensor(0.2657),-6.6402186781746355
+ Nguyen-5_18_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f040dd50>>
+ Nguyen-5_18_13,x**2/21,tensor(0.2569),-7.36382965223738
+ Nguyen-5_18_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f024f810>>
+ Nguyen-5_18_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f024f550>>
+ Nguyen-5_19_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cbde90>>
+ Nguyen-5_19_1,4*x**5 + x**2/2,tensor(0.2016),-14.693540370928439
+ Nguyen-5_19_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f024dd50>>
+ Nguyen-5_19_3,-x + exp(-x),tensor(0.1193),-53.52382364824658
+ Nguyen-5_19_4,3*x + tan(x/3),tensor(0.1818),-19.254878168097108
+ Nguyen-5_19_5,2*x + cos(x),tensor(0.1728),-21.902396360349698
+ Nguyen-5_19_6,x**13/16 + x**2,tensor(0.2086),-13.393584142832442
+ Nguyen-5_19_7,22*x**3,tensor(0.0456),-437.1998134209548
+ Nguyen-5_19_8,2*x**3/3 + 6*sinh(x),tensor(0.0934),-93.31747215659047
+ Nguyen-5_19_9,x**2 + x - 1,tensor(0.4409),-0.6082216954879245
+ Nguyen-5_19_10,4*x - log(cos(x)),tensor(0.1521),-30.073889391790427
+ Nguyen-5_19_11,x**3*cosh(4)/65,tensor(0.2683),-6.44039855542453
+ Nguyen-5_19_12,x**2*cos(3)/2,tensor(0.2894),-5.030348855826382
+ Nguyen-5_19_13,x**2*(1 - x),tensor(0.1924),-16.60946282281231
+ Nguyen-5_19_14,2*x**2 + 9*x,tensor(0.0720),-165.36390867110768
+ Nguyen-5_19_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0257850>>
+ Nguyen-5_20_0,x*(2*x + asin(x)),tensor(0.1395),-37.03719891845329
+ Nguyen-5_20_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0277790>>
+ Nguyen-5_20_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0270e50>>
+ Nguyen-5_20_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03c2850>>
+ Nguyen-5_20_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03c3250>>
+ Nguyen-5_20_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0264490>>
+ Nguyen-5_20_6,25*x**4/2,tensor(0.0726),-162.0208030718312
+ Nguyen-5_20_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f041e3d0>>
+ Nguyen-5_20_8,x + sinh(x**2),tensor(0.2180),-11.868109185374731
+ Nguyen-5_20_9,x**3/3 + x**2/2,tensor(0.2373),-9.332919776255089
+ Nguyen-5_20_10,x**2 + (x - 1)*exp(x),tensor(0.3212),-3.466424284013046
+ Nguyen-5_20_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03c39d0>>
+ Nguyen-5_20_12,-x,tensor(0.2079),-13.507579494747828
+ Nguyen-5_20_13,-1/x,tensor(0.0678),-188.07649511514322
+ Nguyen-5_20_14,x**3 + x*log(x),tensor(0.),0
+ Nguyen-5_20_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f035e410>>
+ Nguyen-5_21_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0264090>>
+ Nguyen-5_21_1,cos(x)**(-2),tensor(0.1257),-47.400010413650136
+ Nguyen-5_21_2,x**3/3 + x*cosh(x) - 2*sin(x),tensor(0.2385),-9.194520210106297
+ Nguyen-5_21_3,log(sqrt(x)),tensor(0.),0
+ Nguyen-5_21_4,x**5/5 + 2*x**2,tensor(0.1718),-22.2390155529435
+ Nguyen-5_21_5,-4*x - 2*log(x + 2),tensor(0.1042),-72.9792778273634
+ Nguyen-5_21_6,x/(3*x - 3),tensor(0.1920),-16.71139834940549
+ Nguyen-5_21_7,x**2/2 + sin(x),tensor(0.2512),-7.8850647246471315
+ Nguyen-5_21_8,atan(x + 2),tensor(0.1571),-27.789155809104287
+ Nguyen-5_21_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f039bb90>>
+ Nguyen-5_21_10,2*x*asin(x) - sqrt(x**2 + 1),tensor(0.2721),-6.154991310968838
+ Nguyen-5_21_11,-x**2,tensor(0.3182),-3.589929799957205
+ Nguyen-5_21_12,x**2*(x + 1),tensor(0.2158),-12.208899553932296
+ Nguyen-5_21_13,x**2*sin(2),tensor(0.2124),-12.742089285334117
+ Nguyen-5_21_14,3*acosh(x),tensor(0.),0
+ Nguyen-5_21_15,-x*exp(x) - 4*x + cos(x),tensor(0.0888),-104.26565619789433
+ Nguyen-5_22_0,x**2/2 - x + exp(x),tensor(0.1386),-37.61749050622634
+ Nguyen-5_22_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0408d10>>
+ Nguyen-5_22_2,5*x - sin(x),tensor(0.1540),-29.193013982072333
+ Nguyen-5_22_3,3*x**4 + x**3/3,tensor(0.1726),-21.968340023057205
+ Nguyen-5_22_4,x**2/2 + 16*log(x),tensor(0.),0
+ Nguyen-5_22_5,x**2/2 + (x - 1)*exp(x),tensor(0.3882),-1.4839068232683745
+ Nguyen-5_22_6,-x,tensor(0.2079),-13.507579494747828
+ Nguyen-5_22_7,E*sin(2*x),tensor(0.1729),-21.870808419114287
+ Nguyen-5_22_8,log(x**4),tensor(0.0961),-87.4197091362607
+ Nguyen-5_22_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f029a010>>
+ Nguyen-5_22_10,x + cos(3),tensor(0.6392),0.6814630700565086
+ Nguyen-5_22_11,(x**2 + 2*x)**2,tensor(0.1095),-65.1755438439417
+ Nguyen-5_22_12,4*x*tan(x),tensor(0.1043),-72.72136492959707
+ Nguyen-5_22_13,x*(2*x + 1),tensor(0.1794),-19.920905907950203
+ Nguyen-5_22_14,2*x*sinh(x) - 2*sinh(x),tensor(0.1263),-46.869757981841595
+ Nguyen-5_22_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02d9dd0>>
+ Nguyen-5_23_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03175d0>>
+ Nguyen-5_23_1,x/16,tensor(0.2627),-6.880769163871426
+ Nguyen-5_23_2,6*x - 6*log(tanh(x) + 1),tensor(0.1507),-30.778145497412993
+ Nguyen-5_23_3,x**2*(-x**2 + x),tensor(0.3087),-4.015327947091246
+ Nguyen-5_23_4,x/2 + 1/2,tensor(0.2071),-13.662974082565544
+ Nguyen-5_23_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02f4e10>>
+ Nguyen-5_23_6,x**6/6 + x**4/2,tensor(0.2384),-9.208467345228211
+ Nguyen-5_23_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f031a410>>
+ Nguyen-5_23_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02eae90>>
+ Nguyen-5_23_9,x**2*(2*x + 1),tensor(0.2112),-12.95327642322547
+ Nguyen-5_23_10,x**3/4 + 3*x**2,tensor(0.1450),-33.75766836152843
+ Nguyen-5_23_11,2*x**2 + 8*x,tensor(0.0801),-131.0423954159594
+ Nguyen-5_23_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02de150>>
+ Nguyen-5_23_13,x**2*cos(x)/2 - sin(x)*cos(x)/2 + cos(x)**2/2,tensor(0.1911),-16.92788169009565
+ Nguyen-5_23_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02dfd90>>
+ Nguyen-5_23_15,-x*exp(x) + x,tensor(0.2948),-4.72480536190578
+ Nguyen-5_24_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0274150>>
+ Nguyen-5_24_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02d0190>>
+ Nguyen-5_24_2,(x + 1)/x,tensor(0.0639),-213.6306323897454
+ Nguyen-5_24_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02dd050>>
+ Nguyen-5_24_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0317fd0>>
+ Nguyen-5_24_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0316b90>>
+ Nguyen-5_24_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02fce90>>
+ Nguyen-5_24_7,3*x**2*sin(x),tensor(0.2461),-8.381124736900476
+ Nguyen-5_24_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02fdf50>>
+ Nguyen-5_24_9,x**2/4 + 5/2,tensor(0.0978),-84.06552576103161
+ Nguyen-5_24_10,x*(x + sin(4)),tensor(0.1861),-18.136384691286654
+ Nguyen-5_24_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02ffdd0>>
+ Nguyen-5_24_12,x**3*log(x)/3 + x**2/2,tensor(0.),0
+ Nguyen-5_24_13,x**3/3 - x*cos(log(x)) + sin(log(x)),tensor(0.),0
+ Nguyen-5_24_14,-tan(1),tensor(0.),0
+ Nguyen-5_24_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0319810>>
+ Nguyen-5_25_0,x**2*log(5),tensor(0.1842),-18.62364360555854
+ Nguyen-5_25_1,x**4/4,tensor(0.2511),-7.89362436913661
+ Nguyen-5_25_2,82*x**2 + x,tensor(0.0101),-9670.458408273535
+ Nguyen-5_25_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f032ba10>>
+ Nguyen-5_25_4,2*(x + 1)/x,tensor(0.0339),-809.0102662389271
+ Nguyen-5_25_5,26*x**5 + x,tensor(0.0453),-443.13308309521716
+ Nguyen-5_25_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0329490>>
+ Nguyen-5_25_7,-2/x,tensor(0.0357),-728.2901522110503
+ Nguyen-5_25_8,x**2*(2*x + exp(x)),tensor(0.1831),-18.917696772414576
+ Nguyen-5_25_9,3*x**3 + 3*x,tensor(0.1307),-43.23316198874256
+ Nguyen-5_25_10,log(9*x + 3)/6,tensor(0.),0
+ Nguyen-5_25_11,2*x**7 + x,tensor(0.2460),-8.39576841249279
+ Nguyen-5_25_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0329d10>>
+ Nguyen-5_25_13,x + 5,tensor(0.0625),-224.0797566160066
+ Nguyen-5_25_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdaf00d0>>
+ Nguyen-5_25_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0297f10>>
+ Nguyen-5_26_0,x + sqrt(x + 2),tensor(0.1432),-34.808317570588045
+ Nguyen-5_26_1,x**3/27,tensor(0.2606),-7.052056087117943
+ Nguyen-5_26_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db248950>>
+ Nguyen-5_26_3,asinh(x)**2,tensor(0.2153),-12.281122302159746
+ Nguyen-5_26_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db249d50>>
+ Nguyen-5_26_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db249d10>>
+ Nguyen-5_26_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db24a350>>
+ Nguyen-5_26_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db24a450>>
+ Nguyen-5_26_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db24a590>>
+ Nguyen-5_26_9,12*x*(x - 1),tensor(0.0363),-703.9822565459897
+ Nguyen-5_26_10,2*x**3 + x**2/2,tensor(0.2349),-9.612023525401225
+ Nguyen-5_26_11,3*x**2/25 - 25*cos(x),tensor(0.0197),-2470.64706794043
+ Nguyen-5_26_12,x**3/4,tensor(0.2652),-6.6764678453512
+ Nguyen-5_26_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db248a90>>
+ Nguyen-5_26_14,-x*cos(x) + sin(x),tensor(0.2665),-6.5787782739563365
+ Nguyen-5_26_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02c8b10>>
+ Nguyen-5_27_0,-sin(2*x - 5)/2,tensor(0.2751),-5.946775568136695
+ Nguyen-5_27_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0317e10>>
+ Nguyen-5_27_2,x**3*tan(2)/3,tensor(0.2390),-9.136908087191966
+ Nguyen-5_27_3,1/x,tensor(0.0682),-185.4400595661516
+ Nguyen-5_27_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02af450>>
+ Nguyen-5_27_5,x*(1 - 3*x) + x,tensor(0.2470),-8.293244576443069
+ Nguyen-5_27_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0247f50>>
+ Nguyen-5_27_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0246750>>
+ Nguyen-5_27_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02666d0>>
+ Nguyen-5_27_9,x**2*sin(1),tensor(0.2156),-12.244313574952836
+ Nguyen-5_27_10,cos(x) - 1,tensor(0.2883),-5.091194882411762
+ Nguyen-5_27_11,1/(4*x**4),tensor(4.2875e-05),-543942420.7573806
+ Nguyen-5_27_12,(x - 5)**2,tensor(0.0140),-4932.416942358305
+ Nguyen-5_27_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03e6390>>
+ Nguyen-5_27_14,(2*x + 2)/x,tensor(0.0339),-809.0102662389271
+ Nguyen-5_27_15,sinh(x),tensor(0.2815),-5.512462452868978
+ Nguyen-5_28_0,sqrt(x)*cos(x),tensor(0.),0
+ Nguyen-5_28_1,x*(x + 16),tensor(0.0415),-532.1030483691463
+ Nguyen-5_28_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db29f790>>
+ Nguyen-5_28_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2a1590>>
+ Nguyen-5_28_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2a06d0>>
+ Nguyen-5_28_5,(2*x + 1/2)**2,tensor(0.1183),-54.59836592232586
+ Nguyen-5_28_6,x**3 + 4*x**2,tensor(0.1259),-47.235446415694824
+ Nguyen-5_28_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db248d90>>
+ Nguyen-5_28_8,245*x,tensor(0.0027),-137418.95062820887
+ Nguyen-5_28_9,x*log(x)**2,tensor(0.),0
+ Nguyen-5_28_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02afbd0>>
+ Nguyen-5_28_11,x**4/4 + x**3/3 + x**2/2,tensor(0.2290),-10.339634104992065
+ Nguyen-5_28_12,-x*cos(x + 1) + exp(x),tensor(0.1369),-38.777950134405295
+ Nguyen-5_28_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02b4ad0>>
+ Nguyen-5_28_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2a08d0>>
+ Nguyen-5_28_15,-x - tan(x),tensor(0.1560),-28.271034530523213
+ Nguyen-5_29_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0246d10>>
+ Nguyen-5_29_1,3*x,tensor(0.1968),-15.65364058080375
+ Nguyen-5_29_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db29f750>>
+ Nguyen-5_29_3,sinh(x + 1),tensor(0.1414),-35.86891248691019
+ Nguyen-5_29_4,x*acos(4),tensor(0.),0
+ Nguyen-5_29_5,x**2/2 - x*tan(2),tensor(0.2198),-11.597354511099208
+ Nguyen-5_29_6,x**6/3 + log(x),tensor(0.),0
+ Nguyen-5_29_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0319c50>>
+ Nguyen-5_29_8,x**5/5 - sin(x),tensor(0.2159),-12.187183613274499
+ Nguyen-5_29_9,x**4/2 + x**3/3,tensor(0.2482),-8.171518345637686
+ Nguyen-5_29_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f031a350>>
+ Nguyen-5_29_11,-log(cos(x)),tensor(0.2289),-10.343634536321636
+ Nguyen-5_29_12,sinh(x**2),tensor(0.2049),-14.05107649636982
+ Nguyen-5_29_13,(4*x + 5)**2,tensor(0.0106),-8752.997043106563
+ Nguyen-5_29_14,x/tan(5),tensor(0.2446),-8.533748792328524
+ Nguyen-5_29_15,2*x*sin(x),tensor(0.1778),-20.38579487033545
+ Nguyen-5_30_0,log(x**2),tensor(0.1925),-16.597984628120255
+ Nguyen-5_30_1,2*x*atanh(x),tensor(0.1414),-35.86494794608068
+ Nguyen-5_30_2,x + sin(5),tensor(0.6384),0.679191441227019
+ Nguyen-5_30_3,2*x - tan(x),tensor(0.2864),-5.2074786212033715
+ Nguyen-5_30_4,x**2/2 + 2*x,tensor(0.2269),-10.602920785777268
+ Nguyen-5_30_5,x + log(x) + cos(x),tensor(0.),0
+ Nguyen-5_30_6,9*sqrt(x)*exp(-x) + x**2/2,tensor(0.),0
+ Nguyen-5_30_7,(x + cos(x))/x,tensor(0.0643),-210.52544734682178
+ Nguyen-5_30_8,x**3 + 2*x*sin(x) - x - log(cos(x)),tensor(0.1532),-29.567425996216798
+ Nguyen-5_30_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cac450>>
+ Nguyen-5_30_10,2*x + cos(3*x),tensor(0.2264),-10.674618047676082
+ Nguyen-5_30_11,x*log(x) - x,tensor(0.),0
+ Nguyen-5_30_12,5*x**6,tensor(0.1519),-30.18806463284875
+ Nguyen-5_30_13,0,tensor(0.),0
+ Nguyen-5_30_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2bea90>>
+ Nguyen-5_30_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2bc550>>
+ Nguyen-5_31_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02a7350>>
+ Nguyen-5_31_1,x/2 + (x - 1)*exp(x),tensor(0.5542),0.35286502246896256
+ Nguyen-5_31_2,1/(3*x**2 + x),tensor(0.0497),-365.2647339240628
+ Nguyen-5_31_3,1/(7*x),tensor(0.2269),-10.604102778115706
+ Nguyen-5_31_4,x**2*cosh(1),tensor(0.1866),-18.00807219369682
+ Nguyen-5_31_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db279290>>
+ Nguyen-5_31_6,3*x - cos(x),tensor(0.2197),-11.616085631867806
+ Nguyen-5_31_7,x**2 + asinh(x),tensor(0.2225),-11.209612024342022
+ Nguyen-5_31_8,-log(x) + sin(x),tensor(0.),0
+ Nguyen-5_31_9,x*(2 - x),tensor(0.2823),-5.46611502310858
+ Nguyen-5_31_10,x**2*(x + 2)**3,tensor(0.0483),-387.5289608664266
+ Nguyen-5_31_11,x**2/2 + 3*x/2,tensor(0.2430),-8.705649851847816
+ Nguyen-5_31_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db281710>>
+ Nguyen-5_31_13,4*x**(3/2)/3 + 2*x**7/7,tensor(0.),0
+ Nguyen-5_31_14,x + cos(x) + 3,tensor(0.0765),-144.58235002472713
+ Nguyen-5_31_15,x**2/2 + 5*x/3,tensor(0.2384),-9.209969227365939
+ Nguyen-5_32_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f032a910>>
+ Nguyen-5_32_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0256050>>
+ Nguyen-5_32_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02a6c90>>
+ Nguyen-5_32_3,sqrt(13)*x**2,tensor(0.1312),-42.83172048147273
+ Nguyen-5_32_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db24a110>>
+ Nguyen-5_32_5,x**2*log(3)/2,tensor(0.2297),-10.245514230303808
+ Nguyen-5_32_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2ec210>>
+ Nguyen-5_32_7,(x - 1)*exp(x),tensor(0.4780),-0.19254678420651783
+ Nguyen-5_32_8,-x**3 - 2*x**2,tensor(0.2812),-5.535135902675171
+ Nguyen-5_32_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db29d150>>
+ Nguyen-5_32_10,2*x + sin(5),tensor(0.3284),-3.182827641375856
+ Nguyen-5_32_11,2*x**5/5 + x**4/4,tensor(0.2556),-7.485939801691744
+ Nguyen-5_32_12,exp(2*x**3/3),tensor(0.1601),-26.51828858666301
+ Nguyen-5_32_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f032fc10>>
+ Nguyen-5_32_14,2*x**(2/9)/9 + x**5/5,tensor(0.),0
+ Nguyen-5_32_15,x**4*sin(3)/4,tensor(0.2585),-7.228960652004968
+ Nguyen-5_33_0,sin(x) + 1,tensor(0.1668),-23.93986706619281
+ Nguyen-5_33_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cc3750>>
+ Nguyen-5_33_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cf1450>>
+ Nguyen-5_33_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cf20d0>>
+ Nguyen-5_33_4,x/10,tensor(0.2644),-6.741999160254063
+ Nguyen-5_33_5,3*x**2*acos(x),tensor(0.0975),-84.64389078195491
+ Nguyen-5_33_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1ca2a50>>
+ Nguyen-5_33_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cd7110>>
+ Nguyen-5_33_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cbd210>>
+ Nguyen-5_33_9,x**2*sinh(5),tensor(0.0111),-7983.307384958333
+ Nguyen-5_33_10,-sqrt(x)*(x + 2),tensor(0.),0
+ Nguyen-5_33_11,4*x**3/3,tensor(0.2723),-6.144282035496419
+ Nguyen-5_33_12,-1/(13*x),tensor(0.2470),-8.29077573750779
+ Nguyen-5_33_13,(x + 1)*log(x),tensor(0.),0
+ Nguyen-5_33_14,1/(3*x**5),tensor(1.5925e-06),-394317793507.8778
+ Nguyen-5_33_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2f5090>>
+ Nguyen-5_34_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2ecb50>>
+ Nguyen-5_34_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db32a510>>
+ Nguyen-5_34_2,2*x + tan(4),tensor(0.1530),-29.65917122823754
+ Nguyen-5_34_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db32b290>>
+ Nguyen-5_34_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db25ec50>>
+ Nguyen-5_34_5,x**2 + log(x),tensor(0.),0
+ Nguyen-5_34_6,2*x**3 - x,tensor(0.2520),-7.813783937034849
+ Nguyen-5_34_7,x**4/4 - x**2/2,tensor(0.2812),-5.534390232874242
+ Nguyen-5_34_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2ed610>>
+ Nguyen-5_34_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db13dd10>>
+ Nguyen-5_34_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db13d390>>
+ Nguyen-5_34_11,2*sqrt(x) + x,tensor(0.),0
+ Nguyen-5_34_12,x**2*log(x) - x,tensor(0.),0
+ Nguyen-5_34_13,x*tan(2) + 2*x,tensor(0.2504),-7.95949844192185
+ Nguyen-5_34_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db13f6d0>>
+ Nguyen-5_34_15,-tan(x/2)/4,tensor(0.2532),-7.698617652291549
+ Nguyen-5_35_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02a78d0>>
+ Nguyen-5_35_1,5/(2*x),tensor(0.0289),-1126.529751716878
+ Nguyen-5_35_2,2*x**2 + 2*x,tensor(0.1727),-21.960143343591277
+ Nguyen-5_35_3,x*atanh(2*x)/6 + atanh(2*x),tensor(0.),0
+ Nguyen-5_35_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db17cc50>>
+ Nguyen-5_35_5,-log(x),tensor(0.),0
+ Nguyen-5_35_6,x**2 + x*cos(x) + 2*x,tensor(0.1862),-18.103981892777767
+ Nguyen-5_35_7,x**2/2 - sin(2*x)/4,tensor(0.2191),-11.698990989195016
+ Nguyen-5_35_8,x**2*(x + 5),tensor(0.1100),-64.44022140974484
+ Nguyen-5_35_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db157390>>
+ Nguyen-5_35_10,3*x + 3,tensor(0.0894),-102.79959879044206
+ Nguyen-5_35_11,x**3*(2*x + 2),tensor(0.1976),-15.482863978522435
+ Nguyen-5_35_12,x**2/2 + 8*x,tensor(0.0823),-123.29936891870075
+ Nguyen-5_35_13,-x + exp(x),tensor(0.1487),-31.786687528990072
+ Nguyen-5_35_14,4*x**2 + log(x),tensor(0.),0
+ Nguyen-5_35_15,2*x*cos(x)**3,tensor(0.2875),-5.1391906445603714
+ Nguyen-5_36_0,x**5/5 + 9*x**2/2,tensor(0.1161),-56.96375085672888
+ Nguyen-5_36_1,x*(x + 4)*sin(x),tensor(0.1341),-40.718307076216654
+ Nguyen-5_36_2,2*log(x**2 + 1),tensor(0.1859),-18.167541391522544
+ Nguyen-5_36_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db32f7d0>>
+ Nguyen-5_36_4,x**2/2 - x + sin(x),tensor(0.2293),-10.29992597997028
+ Nguyen-5_36_5,log(x)*tanh(x),tensor(0.),0
+ Nguyen-5_36_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db162ad0>>
+ Nguyen-5_36_7,(x + 6)**2,tensor(0.0107),-8625.164308291784
+ Nguyen-5_36_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db329b50>>
+ Nguyen-5_36_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d3f190>>
+ Nguyen-5_36_10,acos(3*x),tensor(0.),0
+ Nguyen-5_36_11,5*x + cos(x),tensor(0.1174),-55.49347702919305
+ Nguyen-5_36_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1612d0>>
+ Nguyen-5_36_13,x*log(x) - x + 2*atan(x + 2),tensor(0.),0
+ Nguyen-5_36_14,x**2*log(3),tensor(0.2041),-14.198755958955331
+ Nguyen-5_36_15,exp(x**2 + 3),tensor(0.0120),-6747.044525722991
+ Nguyen-5_37_0,4*x**7/37 + x**2/2,tensor(0.2330),-9.837688980766728
+ Nguyen-5_37_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db183290>>
+ Nguyen-5_37_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db181f50>>
+ Nguyen-5_37_3,x**3/16,tensor(0.2612),-7.002462564190289
+ Nguyen-5_37_4,x + (x + 1)*cos(x),tensor(0.1769),-20.64279445595179
+ Nguyen-5_37_5,x**2*acosh(4)/2,tensor(0.2070),-13.672727745155754
+ Nguyen-5_37_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db32de90>>
+ Nguyen-5_37_7,x**4/4 + 3*x**3,tensor(0.2274),-10.538972456689873
+ Nguyen-5_37_8,x - 2*log(x),tensor(0.),0
+ Nguyen-5_37_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2be090>>
+ Nguyen-5_37_10,x**2/2 + 3*x/2,tensor(0.2430),-8.705649851847816
+ Nguyen-5_37_11,4*x/75,tensor(0.2622),-6.915677123183487
+ Nguyen-5_37_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0411550>>
+ Nguyen-5_37_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db242d50>>
+ Nguyen-5_37_14,1/(2*x**2),tensor(0.0085),-13614.692276154115
+ Nguyen-5_37_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03b1c50>>
+ Nguyen-5_38_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02eb950>>
+ Nguyen-5_38_1,x**2/2 - 3*x,tensor(0.1303),-43.51244044211937
+ Nguyen-5_38_2,x**3/3 + 1/4,tensor(0.2296),-10.259222656186394
+ Nguyen-5_38_3,x*(x**5 + 3),tensor(0.1867),-17.972555502674503
+ Nguyen-5_38_4,x*exp(10),tensor(2.9898e-05),-1118641433.7585788
+ Nguyen-5_38_5,2*x + sqrt(cos(x)),tensor(0.1678),-23.58199218205666
+ Nguyen-5_38_6,x**2/2 + x*exp(4*x)/2 + 4*x,tensor(0.0473),-404.69770921973617
+ Nguyen-5_38_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f03d3310>>
+ Nguyen-5_38_8,3*x - log(tan(tan(x)) + 1),tensor(0.),0
+ Nguyen-5_38_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1b7e10>>
+ Nguyen-5_38_10,x**3/3 + x**2/2 + cosh(x)/2,tensor(0.1756),-21.029859513540885
+ Nguyen-5_38_11,x**2/5,tensor(0.2483),-8.165526682628624
+ Nguyen-5_38_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1c1950>>
+ Nguyen-5_38_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1c1dd0>>
+ Nguyen-5_38_14,x/25,tensor(0.2616),-6.967144099781582
+ Nguyen-5_38_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1c2e50>>
+ Nguyen-5_39_0,4*x**2 + 2*x,tensor(0.1264),-46.77931065756937
+ Nguyen-5_39_1,exp(x + 1),tensor(0.0845),-116.50626419695169
+ Nguyen-5_39_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2e23d0>>
+ Nguyen-5_39_3,acosh(x)**4,tensor(0.),0
+ Nguyen-5_39_4,x**3/3 - 2*x,tensor(0.1723),-22.084632158969548
+ Nguyen-5_39_5,2*x**2 - x,tensor(0.1529),-29.67769210217113
+ Nguyen-5_39_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1804d0>>
+ Nguyen-5_39_7,-6*x**2,tensor(0.1581),-27.376702933160786
+ Nguyen-5_39_8,x*sin(1) + 2*x,tensor(0.2043),-14.164343827604313
+ Nguyen-5_39_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1e2ed0>>
+ Nguyen-5_39_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1e2990>>
+ Nguyen-5_39_11,-x*cos(x) + sin(x),tensor(0.2665),-6.5787782739563365
+ Nguyen-5_39_12,x*sin(x) + 2*x + cos(x),tensor(0.1529),-29.70427208402623
+ Nguyen-5_39_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1ec5d0>>
+ Nguyen-5_39_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1ec690>>
+ Nguyen-5_39_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1eca90>>
+ Nguyen-5_40_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db206550>>
+ Nguyen-5_40_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db204410>>
+ Nguyen-5_40_2,x**2/2 + x*atanh(x) - 4*atanh(x),tensor(0.0800),-131.42092465868475
+ Nguyen-5_40_3,sqrt(2)*x**2/2,tensor(0.2219),-11.295773334536827
+ Nguyen-5_40_4,acosh(x + 1),tensor(0.),0
+ Nguyen-5_40_5,22*x**3,tensor(0.0456),-437.1998134209548
+ Nguyen-5_40_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1ff190>>
+ Nguyen-5_40_7,x**3/10,tensor(0.2620),-6.93174238572797
+ Nguyen-5_40_8,3*x**2/4 + 36*x,tensor(0.0184),-2842.458372246061
+ Nguyen-5_40_9,sqrt(2)*atan(5),tensor(0.),0
+ Nguyen-5_40_10,x**4/4 + 3*x,tensor(0.1938),-16.304619811560606
+ Nguyen-5_40_11,x**2 + x + log(x),tensor(0.),0
+ Nguyen-5_40_12,cos(x + 5),tensor(0.2446),-8.534676949527645
+ Nguyen-5_40_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1e1150>>
+ Nguyen-5_40_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1ec0d0>>
+ Nguyen-5_40_15,x**2 + 4*x,tensor(0.1475),-32.414394833607794
+ Nguyen-5_41_0,x**2*log(x),tensor(0.),0
+ Nguyen-5_41_1,x + 10,tensor(0.0350),-757.0342166882324
+ Nguyen-5_41_2,-sqrt(x) + x,tensor(0.),0
+ Nguyen-5_41_3,2*x**3/3 - 5*sin(5*x),tensor(0.0944),-90.97283917297442
+ Nguyen-5_41_4,x**2/2 + sin(x),tensor(0.2512),-7.8850647246471315
+ Nguyen-5_41_5,-cos(2*x),tensor(0.3088),-4.008474243104015
+ Nguyen-5_41_6,tanh(x + 2),tensor(0.1648),-24.699254599347878
+ Nguyen-5_41_7,x + 2/x,tensor(0.0353),-746.3864640296903
+ Nguyen-5_41_8,3*x**3 + sin(x),tensor(0.1984),-15.315741440286274
+ Nguyen-5_41_9,x*(x + asinh(x)),tensor(0.1737),-21.633571716951874
+ Nguyen-5_41_10,2*x + log(x**3),tensor(0.),0
+ Nguyen-5_41_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db200d90>>
+ Nguyen-5_41_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db201790>>
+ Nguyen-5_41_13,x - atanh(x),tensor(0.2378),-9.27147253217632
+ Nguyen-5_41_14,x**2*sin(2*x)/2,tensor(0.2725),-6.124603302597976
+ Nguyen-5_41_15,cos(2)/x,tensor(0.1368),-38.7833485729931
+ Nguyen-5_42_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0409250>>
+ Nguyen-5_42_1,x**3/3 - x + cos(x),tensor(0.1561),-28.21383289905528
+ Nguyen-5_42_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db03bc10>>
+ Nguyen-5_42_3,x**4*exp(x)/4,tensor(0.2510),-7.905335758124952
+ Nguyen-5_42_4,x**2*exp(x) + x,tensor(0.1958),-15.864629266919177
+ Nguyen-5_42_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1b0e90>>
+ Nguyen-5_42_6,x*exp(2*x),tensor(0.1356),-39.6115341719175
+ Nguyen-5_42_7,x*(x*cos(x) + x),tensor(0.1810),-19.462110607710695
+ Nguyen-5_42_8,-3*x + log(x),tensor(0.),0
+ Nguyen-5_42_9,2*x - sinh(x),tensor(0.2855),-5.260674374964616
+ Nguyen-5_42_10,-x**2/4 + sin(x)*cos(x)/12,tensor(0.2778),-5.757649574238794
+ Nguyen-5_42_11,x**7,tensor(0.2652),-6.6785660396658315
+ Nguyen-5_42_12,x**4/4,tensor(0.2511),-7.89362436913661
+ Nguyen-5_42_13,x**2/2 + x/6,tensor(0.2377),-9.282848536203877
+ Nguyen-5_42_14,x**3/3 + 8*x**2 + 3*x,tensor(0.0788),-135.61354080734955
+ Nguyen-5_42_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1de850>>
+ Nguyen-5_43_0,x**2 - tan(x),tensor(0.1703),-22.73923309566129
+ Nguyen-5_43_1,x**2 + 4*x + log(x),tensor(0.),0
+ Nguyen-5_43_2,8*x**5/5 + 2*x**3/3,tensor(0.2565),-7.401188945480609
+ Nguyen-5_43_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db06fcd0>>
+ Nguyen-5_43_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db056510>>
+ Nguyen-5_43_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0545d0>>
+ Nguyen-5_43_6,x**2 + x*cos(1),tensor(0.2192),-11.681941222338489
+ Nguyen-5_43_7,x**2*sin(x),tensor(0.2738),-6.036985259886441
+ Nguyen-5_43_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f035ad10>>
+ Nguyen-5_43_9,2*x,tensor(0.2480),-8.199494776538224
+ Nguyen-5_43_10,2*x + tan(4),tensor(0.1530),-29.65917122823754
+ Nguyen-5_43_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db06f050>>
+ Nguyen-5_43_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0237d90>>
+ Nguyen-5_43_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db055d50>>
+ Nguyen-5_43_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db055890>>
+ Nguyen-5_43_15,x**4/4 + x**2/2,tensor(0.2244),-10.944015927081791
+ Nguyen-5_44_0,x**4/4 + 1/(x + 3),tensor(0.2046),-14.122223443976166
+ Nguyen-5_44_1,log(x**2),tensor(0.1925),-16.597984628120255
+ Nguyen-5_44_2,-x + exp(3*x),tensor(0.0628),-221.7822595056206
+ Nguyen-5_44_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db041090>>
+ Nguyen-5_44_4,x**2*tan(1)/2,tensor(0.2185),-11.79499883087217
+ Nguyen-5_44_5,x**2/9,tensor(0.2533),-7.690068657406975
+ Nguyen-5_44_6,2*x - sin(x),tensor(0.2818),-5.4964435316085
+ Nguyen-5_44_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db075f10>>
+ Nguyen-5_44_8,x**2*log(x)**2,tensor(0.),0
+ Nguyen-5_44_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1deb90>>
+ Nguyen-5_44_10,824*x**6,tensor(0.0017),-355303.1525526244
+ Nguyen-5_44_11,x*(x**4 + 1),tensor(0.2651),-6.684515654302789
+ Nguyen-5_44_12,x*log(x) + 5*x,tensor(0.),0
+ Nguyen-5_44_13,2*x*asin(x)/5,tensor(0.2337),-9.754889162305357
+ Nguyen-5_44_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db039490>>
+ Nguyen-5_44_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db089410>>
+ Nguyen-5_45_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0257650>>
+ Nguyen-5_45_1,x**5/5 + 3*x**2,tensor(0.1445),-34.0554374094092
+ Nguyen-5_45_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db09cad0>>
+ Nguyen-5_45_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db07fa10>>
+ Nguyen-5_45_4,x**2/2,tensor(0.2322),-9.931467582811015
+ Nguyen-5_45_5,(3*x + 1)**2,tensor(0.0588),-255.03382453980305
+ Nguyen-5_45_6,sqrt(2)/x,tensor(0.0497),-364.5258489929314
+ Nguyen-5_45_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db08a6d0>>
+ Nguyen-5_45_8,x - sin(x),tensor(0.2634),-6.821094091789283
+ Nguyen-5_45_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db07c550>>
+ Nguyen-5_45_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db07f2d0>>
+ Nguyen-5_45_11,x*(3*x**(5/2) + x),tensor(0.),0
+ Nguyen-5_45_12,x**2*log(4)/2,tensor(0.2226),-11.200088074084658
+ Nguyen-5_45_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db088650>>
+ Nguyen-5_45_14,x - sin(x),tensor(0.2634),-6.821094091789283
+ Nguyen-5_45_15,-4*x + sin(x),tensor(0.1326),-41.795040811681076
+ Nguyen-5_46_0,sin(x)**3/3 + 3*cos(x)**2/2,tensor(0.1562),-28.160998168256903
+ Nguyen-5_46_1,x**3*(x + 1),tensor(0.2347),-9.632065860737287
+ Nguyen-5_46_2,x + sqrt(x**3),tensor(0.),0
+ Nguyen-5_46_3,tan(sqrt(x)) - 1/x,tensor(0.),0
+ Nguyen-5_46_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0a0410>>
+ Nguyen-5_46_5,-x**2 - x,tensor(0.2352),-9.569467721133064
+ Nguyen-5_46_6,exp(4*x),tensor(0.0274),-1256.740237807557
+ Nguyen-5_46_7,x*(x + 6),tensor(0.1064),-69.57830020452057
+ Nguyen-5_46_8,cosh(x + 4),tensor(0.0109),-8193.427399857868
+ Nguyen-5_46_9,x**4 - 1,tensor(0.4204),-0.901248325196871
+ Nguyen-5_46_10,sin(x + 9),tensor(0.1878),-17.708279788825884
+ Nguyen-5_46_11,2*x*sinh(x),tensor(0.1641),-24.93918482654474
+ Nguyen-5_46_12,2*x + 8,tensor(0.0427),-500.4805848017844
+ Nguyen-5_46_13,x**4/2,tensor(0.2425),-8.755916204401327
+ Nguyen-5_46_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0a0650>>
+ Nguyen-5_46_15,-2*x + tan(2),tensor(0.1770),-20.613091131748007
+ Nguyen-5_47_0,9*log(x),tensor(0.),0
+ Nguyen-5_47_1,x/(x + 2),tensor(0.3021),-4.339122668719956
+ Nguyen-5_47_2,x*asin(3),tensor(0.),0
+ Nguyen-5_47_3,x/15,tensor(0.2628),-6.865030013907796
+ Nguyen-5_47_4,-x,tensor(0.2079),-13.507579494747828
+ Nguyen-5_47_5,x**6/6 + 4*x**3/3,tensor(0.2677),-6.483409456163101
+ Nguyen-5_47_6,x**2*(x**2 + 1),tensor(0.1826),-19.03016476328564
+ Nguyen-5_47_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0518d0>>
+ Nguyen-5_47_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db053210>>
+ Nguyen-5_47_9,x**2/2 + cos(1),tensor(0.1783),-20.243749424066124
+ Nguyen-5_47_10,x*(x**3/3 + x),tensor(0.1994),-15.126017468712273
+ Nguyen-5_47_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1b0ed0>>
+ Nguyen-5_47_12,16*x**5/5 + 5*x**2/6,tensor(0.2034),-14.33219222185282
+ Nguyen-5_47_13,0,tensor(0.),0
+ Nguyen-5_47_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1edf0d0>>
+ Nguyen-5_47_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db17c910>>
+ Nguyen-5_48_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db161790>>
+ Nguyen-5_48_1,4*x**2 - x,tensor(0.1161),-56.906323456519466
+ Nguyen-5_48_2,5*x**3/3 + 5*x**2/2,tensor(0.1596),-26.73518510814864
+ Nguyen-5_48_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1202d0>>
+ Nguyen-5_48_4,x**(3/2) + 1/2,tensor(0.),0
+ Nguyen-5_48_5,tan(3)/x,tensor(0.2243),-10.964403290113047
+ Nguyen-5_48_6,x**2,tensor(0.2084),-13.427628353794578
+ Nguyen-5_48_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db123a10>>
+ Nguyen-5_48_8,(5 - x)**5,tensor(9.1677e-05),-118960832.01440223
+ Nguyen-5_48_9,x**4 + 4,tensor(0.0699),-175.91720401523915
+ Nguyen-5_48_10,x**4 + x + tan(x),tensor(0.2084),-13.424628455233828
+ Nguyen-5_48_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f040f290>>
+ Nguyen-5_48_12,x**3/3 - x/2 + atanh(x)/2,tensor(0.2701),-6.299653970350403
+ Nguyen-5_48_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02f5c10>>
+ Nguyen-5_48_14,5*x**2/2 + x,tensor(0.1632),-25.28975027395136
+ Nguyen-5_48_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0f2ed0>>
+ Nguyen-5_49_0,x**7/76 + x**2/4,tensor(0.2456),-8.430749639318048
+ Nguyen-5_49_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0e49d0>>
+ Nguyen-5_49_2,x*(x + sin(x) + 1),tensor(0.1832),-18.8728498720559
+ Nguyen-5_49_3,atan(x**5),tensor(0.2680),-6.4622946226017675
+ Nguyen-5_49_4,x**5/5 + exp(x) - 3*log(x + 1)/4,tensor(0.1355),-39.67078571254014
+ Nguyen-5_49_5,x**4 - x**2 + 2*x,tensor(0.2632),-6.832624347970093
+ Nguyen-5_49_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db11f690>>
+ Nguyen-5_49_7,1/(36*x**4),tensor(0.0004),-6717874.753856371
+ Nguyen-5_49_8,tanh(x + 1),tensor(0.1912),-16.890636504928512
+ Nguyen-5_49_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db06dad0>>
+ Nguyen-5_49_10,-x**5 + x,tensor(0.2854),-5.270499644483705
+ Nguyen-5_49_11,-log(tanh(x) + 1) + sin(x),tensor(0.2314),-10.03102432275582
+ Nguyen-5_49_12,log(2*x),tensor(0.),0
+ Nguyen-5_49_13,5*x**2 + 2*x,tensor(0.1109),-63.335838844655285
+ Nguyen-5_49_14,cos(x),tensor(0.1708),-22.56711102362594
+ Nguyen-5_49_15,x**3/3 - x/2 + cosh(x)/2,tensor(0.1820),-19.202149631043955
+ Nguyen-5_50_0,2*x + 2,tensor(0.1171),-55.85413381477142
+ Nguyen-5_50_1,325*x**6,tensor(0.0042),-55674.026058472205
+ Nguyen-5_50_2,-x*asin(x),tensor(0.3217),-3.444946820872378
+ Nguyen-5_50_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db11dc10>>
+ Nguyen-5_50_4,x**2 + x + 1,tensor(0.1438),-34.47442943118447
+ Nguyen-5_50_5,x**5/5 + 5*x,tensor(0.1271),-46.133895590688944
+ Nguyen-5_50_6,asin(x + 3),tensor(0.),0
+ Nguyen-5_50_7,pi*x/2,tensor(0.2686),-6.414617759889786
+ Nguyen-5_50_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db096e10>>
+ Nguyen-5_50_9,-x**2/2 - x*cos(x)/4,tensor(0.2768),-5.823838644002352
+ Nguyen-5_50_10,271*x**5/5,tensor(0.0233),-1761.572481599628
+ Nguyen-5_50_11,cosh(2*x) + 1/2,tensor(0.1005),-79.02053575415248
+ Nguyen-5_50_12,x*exp(-x),tensor(0.3370),-2.870722257720431
+ Nguyen-5_50_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1f124d0>>
+ Nguyen-5_50_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db239890>>
+ Nguyen-5_50_15,log(x) + 2*sin(x),tensor(0.),0
+ Nguyen-5_51_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db120210>>
+ Nguyen-5_51_1,x**2/2 + 4*x*sin(x) - x*cos(x),tensor(0.1172),-55.76071663887495
+ Nguyen-5_51_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0e7650>>
+ Nguyen-5_51_3,sin(x) + tan(x),tensor(0.2363),-9.441200587661394
+ Nguyen-5_51_4,x**6/6 + 9*x**3/29,tensor(0.2620),-6.933047655194128
+ Nguyen-5_51_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db06d110>>
+ Nguyen-5_51_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf71a50>>
+ Nguyen-5_51_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf71c50>>
+ Nguyen-5_51_8,x**2 + 3*x + cos(x),tensor(0.1397),-36.893253027320924
+ Nguyen-5_51_9,3*x**4/2 + 32*x**2 + 327*x,tensor(0.0020),-242634.69356744736
+ Nguyen-5_51_10,x + asin(x) + 4,tensor(0.0742),-154.56241534868212
+ Nguyen-5_51_11,3*x + 9,tensor(0.0387),-616.4618658160714
+ Nguyen-5_51_12,3*x*sin(x),tensor(0.1517),-30.2766319392741
+ Nguyen-5_51_13,-sqrt(x) + 2*x + 2*log(x),tensor(0.),0
+ Nguyen-5_51_14,2*x + 3,tensor(0.0911),-98.53536170090764
+ Nguyen-5_51_15,acos(x)**4,tensor(0.0159),-3811.8710973024813
+ Nguyen-5_52_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db03ab10>>
+ Nguyen-5_52_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db098d90>>
+ Nguyen-5_52_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf70090>>
+ Nguyen-5_52_3,4*x + 8,tensor(0.0426),-502.9877836202508
+ Nguyen-5_52_4,2*x**3*asin(x)**2,tensor(0.2313),-10.039797674937798
+ Nguyen-5_52_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf7a010>>
+ Nguyen-5_52_6,x**3/3 + 12*x,tensor(0.0544),-300.7556577209689
+ Nguyen-5_52_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf88a10>>
+ Nguyen-5_52_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf89890>>
+ Nguyen-5_52_9,log(x) + 3,tensor(0.),0
+ Nguyen-5_52_10,-1/x,tensor(0.0678),-188.07649511514322
+ Nguyen-5_52_11,-x**5 + 4*x**3/3,tensor(0.2744),-5.991308429409948
+ Nguyen-5_52_12,x**2 + 2*x + log(x),tensor(0.),0
+ Nguyen-5_52_13,x*atan(x + 1)/2 - log(2*x + 1)/2,tensor(0.),0
+ Nguyen-5_52_14,x**3/3 - x**2/4 + x,tensor(0.2956),-4.67590174491416
+ Nguyen-5_52_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf7bc10>>
+ Nguyen-5_53_0,x**2/4 - x + cos(x),tensor(0.1482),-32.060888061410715
+ Nguyen-5_53_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf53290>>
+ Nguyen-5_53_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf50950>>
+ Nguyen-5_53_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf95050>>
+ Nguyen-5_53_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf9e310>>
+ Nguyen-5_53_5,x**4 + 5*x,tensor(0.1258),-47.262084629376886
+ Nguyen-5_53_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf8fc90>>
+ Nguyen-5_53_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf8ff50>>
+ Nguyen-5_53_8,tan(x + 2) + 1,tensor(0.0197),-2469.7401908422867
+ Nguyen-5_53_9,x*(x + asin(x)),tensor(0.1650),-24.604236088470696
+ Nguyen-5_53_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf51d50>>
+ Nguyen-5_53_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf95650>>
+ Nguyen-5_53_12,x**2/(3*sin(3)),tensor(0.1603),-26.457420395494292
+ Nguyen-5_53_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf97ed0>>
+ Nguyen-5_53_14,x*(x - 1),tensor(0.1784),-20.210320955093852
+ Nguyen-5_53_15,x*log(x + 5),tensor(0.2564),-7.4106922599240015
+ Nguyen-5_54_0,-acos(2*x + 4)/2,tensor(0.),0
+ Nguyen-5_54_1,sqrt(x)/3 + x*acosh(x),tensor(0.),0
+ Nguyen-5_54_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf7a550>>
+ Nguyen-5_54_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf52590>>
+ Nguyen-5_54_4,x + 3*cosh(x),tensor(0.0800),-131.32241770536916
+ Nguyen-5_54_5,x/2 + exp(x),tensor(0.1529),-29.67224057176936
+ Nguyen-5_54_6,(x**3/3 + 1/2)/x,tensor(0.1198),-52.991298436019555
+ Nguyen-5_54_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafd8a10>>
+ Nguyen-5_54_8,4*x - log(x),tensor(0.),0
+ Nguyen-5_54_9,4*x**3 + 3*x**2/2,tensor(0.1661),-24.2088496156259
+ Nguyen-5_54_10,x*(2*x - 1) + x,tensor(0.1710),-22.49342216081015
+ Nguyen-5_54_11,x + (2*x + 4)**2,tensor(0.0198),-2447.686137206031
+ Nguyen-5_54_12,22*x**2 + 5*x,tensor(0.0346),-777.4787541292255
+ Nguyen-5_54_13,-x**2/4 + x*log(x) - x,tensor(0.),0
+ Nguyen-5_54_14,-x**2 - x,tensor(0.2352),-9.569467721133064
+ Nguyen-5_54_15,x*(x**2 + x) + x,tensor(0.2121),-12.802590327865312
+ Nguyen-5_55_0,x**2*sin(1),tensor(0.2156),-12.244313574952836
+ Nguyen-5_55_1,-x + exp(x - 1),tensor(0.1875),-17.77698016921715
+ Nguyen-5_55_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0e1510>>
+ Nguyen-5_55_3,x**2 + asinh(x),tensor(0.2225),-11.209612024342022
+ Nguyen-5_55_4,x*cosh(5),tensor(0.0089),-12403.435554906659
+ Nguyen-5_55_5,log(5*x),tensor(0.),0
+ Nguyen-5_55_6,1/(6*x),tensor(0.2178),-11.896533857403666
+ Nguyen-5_55_7,x*(x + 5)**2 + 35*x,tensor(0.0109),-8173.507253130447
+ Nguyen-5_55_8,2*x**3,tensor(0.2617),-6.9619280492597975
+ Nguyen-5_55_9,-5*x**(7/2) + 3*x,tensor(0.),0
+ Nguyen-5_55_10,2*x**2 - x,tensor(0.1529),-29.67769210217113
+ Nguyen-5_55_11,15*x**2/4,tensor(0.1285),-45.01095150678449
+ Nguyen-5_55_12,x + tan(2*x),tensor(0.0997),-80.50958812103251
+ Nguyen-5_55_13,x*(x + 3),tensor(0.1766),-20.75007268090294
+ Nguyen-5_55_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2dd550>>
+ Nguyen-5_55_15,sqrt(5)*x**5/5,tensor(0.2651),-6.688801278507653
+ Nguyen-5_56_0,2*x**4 + 2/7,tensor(0.1730),-21.84443941650645
+ Nguyen-5_56_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafd7910>>
+ Nguyen-5_56_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafd5350>>
+ Nguyen-5_56_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafd6050>>
+ Nguyen-5_56_4,5*x**2 - sin(x),tensor(0.1036),-73.79128545079874
+ Nguyen-5_56_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db011c90>>
+ Nguyen-5_56_6,x*tan(3) + x,tensor(0.2845),-5.327478567116749
+ Nguyen-5_56_7,x**5/15 + 2*x**3/3,tensor(0.2717),-6.185794150100218
+ Nguyen-5_56_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db00b950>>
+ Nguyen-5_56_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db008850>>
+ Nguyen-5_56_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db00a050>>
+ Nguyen-5_56_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daff2bd0>>
+ Nguyen-5_56_12,E*x*cos(x)/5,tensor(0.2772),-5.799373590048261
+ Nguyen-5_56_13,exp(x) + 3,tensor(0.0715),-167.52450989566572
+ Nguyen-5_56_14,1/(2*x),tensor(0.1214),-51.37530862304666
+ Nguyen-5_56_15,x/tan(x),tensor(0.1676),-23.6541173609274
+ Nguyen-5_57_0,x**3/3 - log(cos(x)),tensor(0.2338),-9.742659342996307
+ Nguyen-5_57_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db009a50>>
+ Nguyen-5_57_2,-2*x + exp(-x),tensor(0.1055),-70.87652699936928
+ Nguyen-5_57_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafdd490>>
+ Nguyen-5_57_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db012550>>
+ Nguyen-5_57_5,sin(x/3),tensor(0.2738),-6.031213671370552
+ Nguyen-5_57_6,x**3*exp(x),tensor(0.2277),-10.501229202814448
+ Nguyen-5_57_7,x + exp(tan(x)),tensor(0.1359),-39.4164662971949
+ Nguyen-5_57_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafbaf10>>
+ Nguyen-5_57_9,3*x**2,tensor(0.1440),-34.323845654556976
+ Nguyen-5_57_10,tanh(x) + acos(x),tensor(0.1280),-45.39651302406453
+ Nguyen-5_57_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daff2ed0>>
+ Nguyen-5_57_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0415d0>>
+ Nguyen-5_57_13,x**2/2 - log(cos(x)),tensor(0.2055),-13.944300200288387
+ Nguyen-5_57_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db00afd0>>
+ Nguyen-5_57_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf49910>>
+ Nguyen-5_58_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db258890>>
+ Nguyen-5_58_1,x**6 - 8,tensor(0.0555),-289.0900455170447
+ Nguyen-5_58_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daffa250>>
+ Nguyen-5_58_3,x**3/3 - x**2,tensor(0.3314),-3.068835929980942
+ Nguyen-5_58_4,-x - cos(x),tensor(0.2744),-5.994534133203469
+ Nguyen-5_58_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae40890>>
+ Nguyen-5_58_6,x + sin(x)**2,tensor(0.2324),-9.908047118856949
+ Nguyen-5_58_7,sqrt(x) + x**2,tensor(0.),0
+ Nguyen-5_58_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daffb1d0>>
+ Nguyen-5_58_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0b2e10>>
+ Nguyen-5_58_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae41810>>
+ Nguyen-5_58_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae41d90>>
+ Nguyen-5_58_12,2*x**(3/2) + x**2/2,tensor(0.),0
+ Nguyen-5_58_13,cos(x) + tanh(x),tensor(0.1794),-19.917468144070597
+ Nguyen-5_58_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daff9790>>
+ Nguyen-5_58_15,cosh(x + 4),tensor(0.0109),-8193.427399857868
+ Nguyen-5_59_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db3155d0>>
+ Nguyen-5_59_1,x**3/3 + x**2/2 + 3*x,tensor(0.1791),-20.02235980018727
+ Nguyen-5_59_2,10*x**6,tensor(0.1004),-79.29192251693806
+ Nguyen-5_59_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db30bf50>>
+ Nguyen-5_59_4,x**2*cos(2),tensor(0.2846),-5.318887449455654
+ Nguyen-5_59_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae39950>>
+ Nguyen-5_59_6,-x**3 + 8*x,tensor(0.0893),-103.01056403165522
+ Nguyen-5_59_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae67150>>
+ Nguyen-5_59_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae46310>>
+ Nguyen-5_59_9,4*x*sin(x) + 4*cos(x),tensor(0.0651),-205.0739830525937
+ Nguyen-5_59_10,3*x**4/8,tensor(0.2468),-8.31287882431417
+ Nguyen-5_59_11,sinh(x) + cosh(x),tensor(0.1539),-29.224117802051005
+ Nguyen-5_59_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae46350>>
+ Nguyen-5_59_13,x*(cos(x) + 4),tensor(0.1364),-39.0712992782278
+ Nguyen-5_59_14,exp(x**2)/12,tensor(0.2410),-8.91500564609527
+ Nguyen-5_59_15,x**2*(x**3 + sin(x)),tensor(0.2646),-6.725104335438296
+ Nguyen-5_60_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daff1e10>>
+ Nguyen-5_60_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2f7dd0>>
+ Nguyen-5_60_2,sqrt(x),tensor(0.),0
+ Nguyen-5_60_3,x**2 + x*atanh(5),tensor(0.),0
+ Nguyen-5_60_4,-1/x,tensor(0.0678),-188.07649511514322
+ Nguyen-5_60_5,5*x*tan(x),tensor(0.0898),-101.77923931767099
+ Nguyen-5_60_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daff9d50>>
+ Nguyen-5_60_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daffbbd0>>
+ Nguyen-5_60_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf5a110>>
+ Nguyen-5_60_9,x**3/3 + 2*x**2 + log(x),tensor(0.),0
+ Nguyen-5_60_10,(2*x + 3)/x**3,tensor(6.9781e-05),-205336613.22797465
+ Nguyen-5_60_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db010250>>
+ Nguyen-5_60_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafdda50>>
+ Nguyen-5_60_13,x**3/3 + x**2/2,tensor(0.2373),-9.332919776255089
+ Nguyen-5_60_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db00db90>>
+ Nguyen-5_60_15,-x - log(cos(x)),tensor(0.1910),-16.940455043707015
+ Nguyen-5_61_0,x**4/4 + 3*x,tensor(0.1938),-16.304619811560606
+ Nguyen-5_61_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1da4cd0>>
+ Nguyen-5_61_2,x + (x + 4)**5,tensor(0.0003),-12840209.852380158
+ Nguyen-5_61_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdb000d0>>
+ Nguyen-5_61_4,sinh(x**4),tensor(0.2234),-11.086632043784782
+ Nguyen-5_61_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e86c50>>
+ Nguyen-5_61_6,x/sin(8),tensor(0.2839),-5.36314031747669
+ Nguyen-5_61_7,x*atan(x) - x,tensor(0.1825),-19.05563676102852
+ Nguyen-5_61_8,-x**4/2,tensor(0.2761),-5.87753906117268
+ Nguyen-5_61_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafb8150>>
+ Nguyen-5_61_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafb8690>>
+ Nguyen-5_61_11,-4*x**5/5 + x**4/4,tensor(0.2375),-9.304582293101085
+ Nguyen-5_61_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1da4d90>>
+ Nguyen-5_61_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf56d10>>
+ Nguyen-5_61_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf55c90>>
+ Nguyen-5_61_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1f1b310>>
+ Nguyen-5_62_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdcc19d0>>
+ Nguyen-5_62_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db00cc10>>
+ Nguyen-5_62_2,-asinh(x),tensor(0.2115),-12.892294109021455
+ Nguyen-5_62_3,2*x**5 + 8*x + 1/7,tensor(0.0743),-154.2606787276904
+ Nguyen-5_62_4,x**23/(x + 4),tensor(0.2609),-7.021223006254639
+ Nguyen-5_62_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db048a90>>
+ Nguyen-5_62_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db048a50>>
+ Nguyen-5_62_7,77*x**3,tensor(0.0131),-5669.259440826237
+ Nguyen-5_62_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db3023d0>>
+ Nguyen-5_62_9,x**2/2 + 3*x + sin(x) + 3*atan(x),tensor(0.1008),-78.60333295045598
+ Nguyen-5_62_10,x + acos(x),tensor(0.1292),-44.44621311147902
+ Nguyen-5_62_11,x + sin(x),tensor(0.2536),-7.665909442714472
+ Nguyen-5_62_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf3c7d0>>
+ Nguyen-5_62_13,2*x/3,tensor(0.2828),-5.434472775185791
+ Nguyen-5_62_14,x**2*cos(x),tensor(0.2218),-11.316146257527947
+ Nguyen-5_62_15,-3*x**2/8,tensor(0.2821),-5.476283779514046
+ Nguyen-5_63_0,-x + 3*log(x),tensor(0.),0
+ Nguyen-5_63_1,25*x**2/4,tensor(0.0940),-91.86594578322193
+ Nguyen-5_63_2,2*x**4 + x**2/2 + 3*x,tensor(0.1573),-27.6909050250966
+ Nguyen-5_63_3,-log(cos(x)) + sin(x),tensor(0.2471),-8.283486595045408
+ Nguyen-5_63_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db194490>>
+ Nguyen-5_63_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafb8c50>>
+ Nguyen-5_63_6,x**3 + 7*x**2/2,tensor(0.1356),-39.66979505119403
+ Nguyen-5_63_7,3*x**2/4,tensor(0.2198),-11.593153290592447
+ Nguyen-5_63_8,-exp(x) + cos(x),tensor(0.2285),-10.399939110460043
+ Nguyen-5_63_9,5*x*sin(x),tensor(0.1164),-56.580649578203484
+ Nguyen-5_63_10,x - 2*atanh(x),tensor(0.1682),-23.4636955807461
+ Nguyen-5_63_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1548d0>>
+ Nguyen-5_63_12,2*x + exp(x) + asin(x)/2,tensor(0.1296),-44.13624157643662
+ Nguyen-5_63_13,5*x**2 + 5*x,tensor(0.0933),-93.50987722202936
+ Nguyen-5_63_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1df450>>
+ Nguyen-5_63_15,x**2/2 + 2*x*log(x) - 2*x,tensor(0.),0
+ Nguyen-5_64_0,(x + sqrt(x**3))**2,tensor(0.),0
+ Nguyen-5_64_1,x**2 + asin(x)/x,tensor(0.1335),-41.1111001834843
+ Nguyen-5_64_2,2*x/9,tensor(0.2697),-6.334726157846499
+ Nguyen-5_64_3,x*(x + 4)**3,tensor(0.0085),-13616.417423587782
+ Nguyen-5_64_4,-x - log(cos(x)),tensor(0.1910),-16.940455043707015
+ Nguyen-5_64_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0328150>>
+ Nguyen-5_64_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02b6050>>
+ Nguyen-5_64_7,-x**4/4 - x**2/2,tensor(0.2973),-4.585978078548781
+ Nguyen-5_64_8,sin(cos(x)**2)/2,tensor(0.2171),-12.001700759604166
+ Nguyen-5_64_9,x*(x + 2),tensor(0.2069),-13.69750421669912
+ Nguyen-5_64_10,3*x**3 + 3*x,tensor(0.1307),-43.23316198874256
+ Nguyen-5_64_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2390d0>>
+ Nguyen-5_64_12,2*x**2 + 3*x,tensor(0.1552),-28.611134467733393
+ Nguyen-5_64_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db240ad0>>
+ Nguyen-5_64_14,-x**5/5 + 3*cos(x),tensor(0.0999),-80.18689795844881
+ Nguyen-5_64_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db145550>>
+ Nguyen-5_65_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2a5450>>
+ Nguyen-5_65_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0393f90>>
+ Nguyen-5_65_2,x + tan(1),tensor(0.1354),-39.789971804974826
+ Nguyen-5_65_3,cos(x)**2,tensor(0.1797),-19.83899903309627
+ Nguyen-5_65_4,x + 1/(x**2 - x),tensor(0.0540),-305.5506189546399
+ Nguyen-5_65_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0393d90>>
+ Nguyen-5_65_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d35150>>
+ Nguyen-5_65_7,5*exp(6*x**4)/2,tensor(0.0035),-81987.6456256844
+ Nguyen-5_65_8,x + log(x) + 2,tensor(0.),0
+ Nguyen-5_65_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d1acd0>>
+ Nguyen-5_65_10,sqrt(3)*tan(x)**(3/2)/4,tensor(0.),0
+ Nguyen-5_65_11,x**2/2 + exp(3*x)/16,tensor(0.2113),-12.938701173574792
+ Nguyen-5_65_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d34cd0>>
+ Nguyen-5_65_13,sin(x)**2,tensor(0.2169),-12.030324097336683
+ Nguyen-5_65_14,x**2*(x - 1),tensor(0.3426),-2.6810167464135684
+ Nguyen-5_65_15,x**2/4 + exp(x),tensor(0.1484),-31.952730277943367
+ Nguyen-5_66_0,2*x**2 + 2*x,tensor(0.1727),-21.960143343591277
+ Nguyen-5_66_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db2963d0>>
+ Nguyen-5_66_2,x**5*sin(2),tensor(0.2675),-6.497262235461022
+ Nguyen-5_66_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1cfcd0>>
+ Nguyen-5_66_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0291950>>
+ Nguyen-5_66_5,4*x**3/3 + x*log(x) + 2*x,tensor(0.),0
+ Nguyen-5_66_6,log(2*x + 1),tensor(0.),0
+ Nguyen-5_66_7,x**3/3 + 5*x**2/2,tensor(0.1581),-27.361235474846694
+ Nguyen-5_66_8,(x + 5)**4,tensor(0.0006),-3163992.1880508405
+ Nguyen-5_66_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db30bd10>>
+ Nguyen-5_66_10,5*x/8,tensor(0.2820),-5.480173365178715
+ Nguyen-5_66_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db308690>>
+ Nguyen-5_66_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db308510>>
+ Nguyen-5_66_13,exp(x + 1),tensor(0.0845),-116.50626419695169
+ Nguyen-5_66_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf3c590>>
+ Nguyen-5_66_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db30be10>>
+ Nguyen-5_67_0,x*(x + 1)**2,tensor(0.1747),-21.311898921659854
+ Nguyen-5_67_1,x**2/4 - x,tensor(0.2004),-14.924080826703277
+ Nguyen-5_67_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdc5dfd0>>
+ Nguyen-5_67_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdc69150>>
+ Nguyen-5_67_4,2*pi,tensor(0.),0
+ Nguyen-5_67_5,2*x*(x*tan(3) + x),tensor(0.1804),-19.6270905007757
+ Nguyen-5_67_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdc78ad0>>
+ Nguyen-5_67_7,x**2 + 4*x,tensor(0.1475),-32.414394833607794
+ Nguyen-5_67_8,-x**3/5 + x**2/2,tensor(0.2285),-10.395295235766193
+ Nguyen-5_67_9,x - 1/x,tensor(0.0703),-173.73786129772697
+ Nguyen-5_67_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdc78a90>>
+ Nguyen-5_67_11,x**6/3,tensor(0.2515),-7.85370069394058
+ Nguyen-5_67_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f041c4d0>>
+ Nguyen-5_67_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db10c310>>
+ Nguyen-5_67_14,x**3/3 - x**2 + 3*x,tensor(0.1972),-15.56537398419081
+ Nguyen-5_67_15,4*log(x),tensor(0.),0
+ Nguyen-5_68_0,x**2*(x + 5),tensor(0.1100),-64.44022140974484
+ Nguyen-5_68_1,x**2 - cos(x),tensor(0.3210),-3.4743042296437094
+ Nguyen-5_68_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdc5eed0>>
+ Nguyen-5_68_3,2*sqrt(2)*x**(3/2),tensor(0.),0
+ Nguyen-5_68_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db023b90>>
+ Nguyen-5_68_5,(x + 8)*exp(x),tensor(0.0327),-872.6581115914809
+ Nguyen-5_68_6,x**2 + 2*x*log(x),tensor(0.),0
+ Nguyen-5_68_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1cf1b50>>
+ Nguyen-5_68_8,-x,tensor(0.2079),-13.507579494747828
+ Nguyen-5_68_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0f7ad0>>
+ Nguyen-5_68_10,x**2*(4*x + 2),tensor(0.1549),-28.777509483656452
+ Nguyen-5_68_11,x**4/2 + 16*x**3,tensor(0.0621),-226.74739618456326
+ Nguyen-5_68_12,4*x + 5,tensor(0.0617),-230.4926504551477
+ Nguyen-5_68_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1c61150>>
+ Nguyen-5_68_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf8b650>>
+ Nguyen-5_68_15,x**3 + x + exp(x),tensor(0.1419),-35.59684581897282
+ Nguyen-5_69_0,-x*exp(x),tensor(0.2162),-12.144188850451654
+ Nguyen-5_69_1,x*(x + 2) + x,tensor(0.1766),-20.75007268090294
+ Nguyen-5_69_2,2*x**2 + exp(x),tensor(0.1171),-55.89111956096957
+ Nguyen-5_69_3,3*x**2,tensor(0.1440),-34.323845654556976
+ Nguyen-5_69_4,log(x) - log(cos(x)),tensor(0.),0
+ Nguyen-5_69_5,x**6/6 + x**2/2,tensor(0.2284),-10.407460158385806
+ Nguyen-5_69_6,2*x + 1,tensor(0.1620),-25.74217817331497
+ Nguyen-5_69_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f036bb90>>
+ Nguyen-5_69_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf98f10>>
+ Nguyen-5_69_9,E/x,tensor(0.0267),-1330.8527210124093
+ Nguyen-5_69_10,x**2 + x,tensor(0.2222),-11.256689440996333
+ Nguyen-5_69_11,x**3/3 + 1,tensor(0.1612),-26.089164499057794
+ Nguyen-5_69_12,2*x**(3/2)/3 - cos(x),tensor(0.),0
+ Nguyen-5_69_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1df2910>>
+ Nguyen-5_69_14,-1 + 1/x,tensor(0.0711),-169.8187589872376
+ Nguyen-5_69_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d9ab50>>
+ Nguyen-5_70_0,2*x + tan(4),tensor(0.1530),-29.65917122823754
+ Nguyen-5_70_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db13f690>>
+ Nguyen-5_70_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae7d010>>
+ Nguyen-5_70_3,1 + 1/x,tensor(0.0639),-213.6306323897454
+ Nguyen-5_70_4,1/(15*x**2),tensor(0.0573),-269.2658843768928
+ Nguyen-5_70_5,5*x**5,tensor(0.1936),-16.35610062776871
+ Nguyen-5_70_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db09cf50>>
+ Nguyen-5_70_7,x**2/2 + 5*x,tensor(0.1271),-46.19825325398438
+ Nguyen-5_70_8,asinh(x*tan(x)),tensor(0.2014),-14.730591275250198
+ Nguyen-5_70_9,x**2 + exp(x) - log(x + 1),tensor(0.1130),-60.60883978714724
+ Nguyen-5_70_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0295dd0>>
+ Nguyen-5_70_11,-x - log(x**2 + 1)/2,tensor(0.2199),-11.582260371583983
+ Nguyen-5_70_12,log(x + 1/2)/2 + log(x + 1)/2,tensor(0.),0
+ Nguyen-5_70_13,x**3 + tan(x),tensor(0.2436),-8.639366000189046
+ Nguyen-5_70_14,x**2*(x**2 - 1),tensor(0.2854),-5.266254871137362
+ Nguyen-5_70_15,-2*x + exp(x) + sin(x),tensor(0.1479),-32.166752722163146
+ Nguyen-5_71_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0e7b50>>
+ Nguyen-5_71_1,x**5/5 + 2,tensor(0.1146),-58.7459484088168
+ Nguyen-5_71_2,9*x**2 - x,tensor(0.0704),-173.3589213601873
+ Nguyen-5_71_3,-1,tensor(0.),0
+ Nguyen-5_71_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae7ce10>>
+ Nguyen-5_71_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db050f10>>
+ Nguyen-5_71_6,1/(5*x**3),tensor(0.0011),-856482.1722602171
+ Nguyen-5_71_7,x + 4*tanh(x),tensor(0.1460),-33.196046598392485
+ Nguyen-5_71_8,log(4*x),tensor(0.),0
+ Nguyen-5_71_9,acos(x) + 2,tensor(0.0760),-147.00205453449425
+ Nguyen-5_71_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cdc6bf10>>
+ Nguyen-5_71_11,2*x + acosh(2),tensor(0.1447),-33.92580430989865
+ Nguyen-5_71_12,x/(x + 5),tensor(0.2716),-6.195660887642953
+ Nguyen-5_71_13,8*x**2 + 8*x,tensor(0.0625),-224.21866935644726
+ Nguyen-5_71_14,-x - sin(x),tensor(0.1686),-23.305656277653945
+ Nguyen-5_71_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae53490>>
+ Nguyen-5_72_0,x*exp(4),tensor(0.0121),-6658.347981725165
+ Nguyen-5_72_1,(x + 1)**3,tensor(0.1024),-75.91523467261571
+ Nguyen-5_72_2,(3 - x)*exp(x),tensor(0.0877),-107.29056991943655
+ Nguyen-5_72_3,-x**3/3,tensor(0.2509),-7.917316913334682
+ Nguyen-5_72_4,x*log(x**2) + 2*x - asin(x),tensor(0.2541),-7.613215587029348
+ Nguyen-5_72_5,x*(x**4 - x),tensor(0.3327),-3.0242453107364415
+ Nguyen-5_72_6,-5*x**4 + x**3/3,tensor(0.2218),-11.3048689280211
+ Nguyen-5_72_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1e0b450>>
+ Nguyen-5_72_8,-3*x**2 + x,tensor(0.3039),-4.246120440493448
+ Nguyen-5_72_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf96e90>>
+ Nguyen-5_72_10,x**2*cos(x)**2 + x,tensor(0.2495),-8.045786527895853
+ Nguyen-5_72_11,2*x*(x + 1)**3,tensor(0.0722),-164.21803597787178
+ Nguyen-5_72_12,2*sqrt(2)*x**(3/2)/9,tensor(0.),0
+ Nguyen-5_72_13,x**2 + x/5,tensor(0.2132),-12.624500276154846
+ Nguyen-5_72_14,3*(x + 5)**3,tensor(0.0010),-993079.2745923536
+ Nguyen-5_72_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafd7ed0>>
+ Nguyen-5_73_0,tan(x + 3),tensor(0.3153),-3.7154412948347995
+ Nguyen-5_73_1,4*x*cosh(x) + 4*sin(x),tensor(0.0744),-153.99214918574836
+ Nguyen-5_73_2,x**4/2 + exp(x),tensor(0.1470),-32.67576620381156
+ Nguyen-5_73_3,tan(3*x),tensor(0.1136),-59.90514938249538
+ Nguyen-5_73_4,-x*sqrt(1 - x**2) - x*acos(x) - acos(x),tensor(0.2692),-6.370065921462141
+ Nguyen-5_73_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1dc3a10>>
+ Nguyen-5_73_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf457d0>>
+ Nguyen-5_73_7,64*x,tensor(0.0103),-9191.18275959645
+ Nguyen-5_73_8,2*sqrt(2)*sqrt(x),tensor(0.),0
+ Nguyen-5_73_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae623d0>>
+ Nguyen-5_73_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae60b90>>
+ Nguyen-5_73_11,tan(x + 5),tensor(0.0529),-319.02694816620243
+ Nguyen-5_73_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0338b50>>
+ Nguyen-5_73_13,(x + log(x))**2,tensor(0.),0
+ Nguyen-5_73_14,x**2/2 - x + sin(x),tensor(0.2293),-10.29992597997028
+ Nguyen-5_73_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafb2590>>
+ Nguyen-5_74_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1dfb10>>
+ Nguyen-5_74_1,x*(1 - x),tensor(0.3578),-2.222145567282376
+ Nguyen-5_74_2,5*sin(x),tensor(0.1419),-35.56326689305063
+ Nguyen-5_74_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae9f2d0>>
+ Nguyen-5_74_4,x**2 + 4*x + cos(x),tensor(0.1253),-47.688702576873666
+ Nguyen-5_74_5,x*exp(x + 4),tensor(0.0079),-15766.45026925924
+ Nguyen-5_74_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae90e90>>
+ Nguyen-5_74_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae939d0>>
+ Nguyen-5_74_8,x**2*acos(x) + x*sqrt(1 - x**2)/2 + 4*x,tensor(0.1515),-30.3870730656964
+ Nguyen-5_74_9,x + exp(x) + sin(x),tensor(0.1396),-36.980171569181785
+ Nguyen-5_74_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae9a410>>
+ Nguyen-5_74_11,5*sqrt(x),tensor(0.),0
+ Nguyen-5_74_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae9ba50>>
+ Nguyen-5_74_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae9a6d0>>
+ Nguyen-5_74_14,x**2*(x + 1),tensor(0.2158),-12.208899553932296
+ Nguyen-5_74_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae800d0>>
+ Nguyen-5_75_0,x**3/9 + x**2/2,tensor(0.2341),-9.707715774833664
+ Nguyen-5_75_1,2*x + exp(x),tensor(0.1381),-37.934239413675975
+ Nguyen-5_75_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1a7d90>>
+ Nguyen-5_75_3,x**2 + 2*x + exp(x),tensor(0.1238),-49.08227076964621
+ Nguyen-5_75_4,x*sin(acosh(x)) + x + sin(cos(acosh(x))),tensor(0.),0
+ Nguyen-5_75_5,3*x**3 + 2*x**2 + x,tensor(0.1523),-29.983201956545525
+ Nguyen-5_75_6,exp(x) + cos(x),tensor(0.1171),-55.84947581958339
+ Nguyen-5_75_7,2*x*log(x) - 4*x,tensor(0.),0
+ Nguyen-5_75_8,x**10 + exp(x),tensor(0.1473),-32.52567908637572
+ Nguyen-5_75_9,5*x - cosh(x),tensor(0.1299),-43.88099263710551
+ Nguyen-5_75_10,x**2/2 + 16*x,tensor(0.0415),-531.8195063186564
+ Nguyen-5_75_11,2*x**4 + x,tensor(0.2060),-13.848255589340226
+ Nguyen-5_75_12,3*x - 3*cos(x),tensor(0.1524),-29.9303978291662
+ Nguyen-5_75_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae93750>>
+ Nguyen-5_75_14,x*log(x) - 10*x,tensor(0.),0
+ Nguyen-5_75_15,x/(x**2 + x)**3,tensor(0.0001),-76632019.04722375
+ Nguyen-5_76_0,log(x),tensor(0.),0
+ Nguyen-5_76_1,2*x + cos(3),tensor(0.3276),-3.2135909431827026
+ Nguyen-5_76_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daea5d50>>
+ Nguyen-5_76_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daea6c90>>
+ Nguyen-5_76_4,13*x**7,tensor(0.1056),-70.74311228997846
+ Nguyen-5_76_5,(x + 1)/x**2,tensor(0.0041),-59299.52802271868
+ Nguyen-5_76_6,x*(x + 4),tensor(0.1475),-32.414394833607794
+ Nguyen-5_76_7,tan(3)/(2*x**5),tensor(7.4478e-06),-18027608393.853737
+ Nguyen-5_76_8,x**16/16,tensor(0.2591),-7.176610373053268
+ Nguyen-5_76_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daeb8210>>
+ Nguyen-5_76_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daebba90>>
+ Nguyen-5_76_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daeb8890>>
+ Nguyen-5_76_12,x**4 + 2*x**3/3,tensor(0.2334),-9.791886046311763
+ Nguyen-5_76_13,x**2*cosh(x),tensor(0.1942),-16.21719337366382
+ Nguyen-5_76_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daebafd0>>
+ Nguyen-5_76_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daeb8690>>
+ Nguyen-5_77_0,x**2/2 + x*atanh(x)/2 + 2*x,tensor(0.1969),-15.626635844078614
+ Nguyen-5_77_1,2*log(x)/x,tensor(0.),0
+ Nguyen-5_77_2,atanh(x + 1),tensor(0.),0
+ Nguyen-5_77_3,x*cos(cos(x)),tensor(0.2817),-5.499892308610968
+ Nguyen-5_77_4,x**2*exp(x),tensor(0.1999),-15.011255544324161
+ Nguyen-5_77_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf3f8d0>>
+ Nguyen-5_77_6,x/2 + sin(x),tensor(0.2759),-5.890599680047473
+ Nguyen-5_77_7,x**2*(x + 8),tensor(0.0796),-132.64232451228247
+ Nguyen-5_77_8,x**4/2 + x**2*atanh(2)/2,tensor(0.),0
+ Nguyen-5_77_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daea56d0>>
+ Nguyen-5_77_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daee5690>>
+ Nguyen-5_77_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daee45d0>>
+ Nguyen-5_77_12,-x**2/2 + x*exp(acos(x)),tensor(0.0717),-166.78367647357754
+ Nguyen-5_77_13,x**3/3 + x**2/2,tensor(0.2373),-9.332919776255089
+ Nguyen-5_77_14,x*(5*x + asin(x)),tensor(0.0944),-90.92386552878861
+ Nguyen-5_77_15,-2*log(x)**2,tensor(0.),0
+ Nguyen-5_78_0,0,tensor(0.),0
+ Nguyen-5_78_1,x**2/2 + exp(x) + 2*cos(x),tensor(0.0904),-100.21047354180325
+ Nguyen-5_78_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f024eb90>>
+ Nguyen-5_78_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daee6050>>
+ Nguyen-5_78_4,x + log(x + 2),tensor(0.1930),-16.489939213064922
+ Nguyen-5_78_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daefa6d0>>
+ Nguyen-5_78_6,x*(x + 7),tensor(0.0926),-95.07788342272849
+ Nguyen-5_78_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daef9d10>>
+ Nguyen-5_78_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daefb490>>
+ Nguyen-5_78_9,-x**2/14,tensor(0.2639),-6.782170483339364
+ Nguyen-5_78_10,x*(2*x + sin(x)),tensor(0.1465),-32.93580281132943
+ Nguyen-5_78_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daefcf10>>
+ Nguyen-5_78_12,tan(log(9*x/2)),tensor(0.),0
+ Nguyen-5_78_13,-sqrt(x),tensor(0.),0
+ Nguyen-5_78_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daee7810>>
+ Nguyen-5_78_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daefe390>>
+ Nguyen-5_79_0,-log(x),tensor(0.),0
+ Nguyen-5_79_1,x**2 + 3*x,tensor(0.1766),-20.750072680902946
+ Nguyen-5_79_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0254f50>>
+ Nguyen-5_79_3,sqrt(15)*x**(5/2)/25,tensor(0.),0
+ Nguyen-5_79_4,x*(x + 2) + x,tensor(0.1766),-20.75007268090294
+ Nguyen-5_79_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daece610>>
+ Nguyen-5_79_6,x + 2/x,tensor(0.0353),-746.3864640296903
+ Nguyen-5_79_7,x/(x**2 + x),tensor(0.0559),-284.0505365169387
+ Nguyen-5_79_8,x/log(2),tensor(0.2736),-6.046518516524976
+ Nguyen-5_79_9,cos(x**3),tensor(0.1639),-25.012792126386707
+ Nguyen-5_79_10,3*x + tan(6),tensor(0.2096),-13.219118767372837
+ Nguyen-5_79_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daeffcd0>>
+ Nguyen-5_79_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daef9010>>
+ Nguyen-5_79_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f1d51a10>>
+ Nguyen-5_79_14,exp(30*x)/3,tensor(2.9044e-12),-1.1854352665347253e+23
+ Nguyen-5_79_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf53690>>
+ Nguyen-5_80_0,x**3,tensor(0.2734),-6.0626433068073045
+ Nguyen-5_80_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daefed50>>
+ Nguyen-5_80_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf9e190>>
+ Nguyen-5_80_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daea0650>>
+ Nguyen-5_80_4,x**3/3 + x**2/2 + x*log(x) - 2*x,tensor(0.),0
+ Nguyen-5_80_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daeb3bd0>>
+ Nguyen-5_80_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf0c490>>
+ Nguyen-5_80_7,-x**2 + sin(x),tensor(0.3619),-2.1080278342713727
+ Nguyen-5_80_8,x + 5*sin(x),tensor(0.1182),-54.629118700040486
+ Nguyen-5_80_9,x**2/12,tensor(0.2549),-7.545967748554636
+ Nguyen-5_80_10,x*atanh(x**2),tensor(0.2668),-6.5514572359578445
+ Nguyen-5_80_11,(x - 1)**2,tensor(0.1152),-58.012415949813395
+ Nguyen-5_80_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf0fa90>>
+ Nguyen-5_80_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf0f890>>
+ Nguyen-5_80_14,3*x**3 + 2*x,tensor(0.1578),-27.48512712428325
+ Nguyen-5_80_15,(x + cos(x))**2,tensor(0.1628),-25.431062496733123
+ Nguyen-5_81_0,x**6 + log(x),tensor(0.),0
+ Nguyen-5_81_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daec38d0>>
+ Nguyen-5_81_2,x*(x**4 + x),tensor(0.2126),-12.721927491762564
+ Nguyen-5_81_3,30*x,tensor(0.0221),-1960.1584715493623
+ Nguyen-5_81_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf13c90>>
+ Nguyen-5_81_5,4*x*cos(x),tensor(0.2041),-14.21291432890442
+ Nguyen-5_81_6,x**2/2 + sinh(x),tensor(0.2489),-8.103471908988972
+ Nguyen-5_81_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf0d590>>
+ Nguyen-5_81_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daec93d0>>
+ Nguyen-5_81_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daec9a10>>
+ Nguyen-5_81_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daec9dd0>>
+ Nguyen-5_81_11,x*(x + 3)**2,tensor(0.0608),-237.70499553918356
+ Nguyen-5_81_12,2*x + exp(x),tensor(0.1381),-37.934239413675975
+ Nguyen-5_81_13,3*x + asin(x),tensor(0.1513),-30.46110169437439
+ Nguyen-5_81_14,x**6/20,tensor(0.2585),-7.2281710629541305
+ Nguyen-5_81_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daecbb90>>
+ Nguyen-5_82_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f024ce90>>
+ Nguyen-5_82_1,2*x + cos(x + 4),tensor(0.2407),-8.953801305148447
+ Nguyen-5_82_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad3d250>>
+ Nguyen-5_82_3,4*x + exp(x),tensor(0.1095),-65.09137577930507
+ Nguyen-5_82_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad38450>>
+ Nguyen-5_82_5,1/(5*x**3),tensor(0.0011),-856482.1722602171
+ Nguyen-5_82_6,2*x + exp(x),tensor(0.1381),-37.934239413675975
+ Nguyen-5_82_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad38190>>
+ Nguyen-5_82_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf00dd0>>
+ Nguyen-5_82_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf03e90>>
+ Nguyen-5_82_10,x**3/3 + x**2/2 + exp(x),tensor(0.1426),-35.129829401144356
+ Nguyen-5_82_11,cos(x) + 1,tensor(0.1202),-52.612299409519856
+ Nguyen-5_82_12,-x*cos(x) - x + sin(x),tensor(0.2165),-12.102002225007237
+ Nguyen-5_82_13,exp(x)*sin(x),tensor(0.2206),-11.476707941098194
+ Nguyen-5_82_14,x**2 + sinh(2*x),tensor(0.1749),-21.267569940333335
+ Nguyen-5_82_15,x*acos(x/2),tensor(0.2974),-4.579116086380313
+ Nguyen-5_83_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daecb3d0>>
+ Nguyen-5_83_1,125*x**3,tensor(0.0081),-15088.217784350398
+ Nguyen-5_83_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db266c90>>
+ Nguyen-5_83_3,acos(x),tensor(0.1195),-53.296281752778896
+ Nguyen-5_83_4,x**2*(1/2 - x)**2,tensor(0.1966),-15.708440138628625
+ Nguyen-5_83_5,2*x*(x + asin(x)),tensor(0.1172),-55.708896975167626
+ Nguyen-5_83_6,x*(x + cos(4)),tensor(0.1893),-17.339056257897983
+ Nguyen-5_83_7,x*sinh(x)/2 + sinh(x),tensor(0.2457),-8.428379039518235
+ Nguyen-5_83_8,x**2 - sin(x),tensor(0.1811),-19.43499638907411
+ Nguyen-5_83_9,-x**3 + x*log(x) + x,tensor(0.),0
+ Nguyen-5_83_10,-x**2/2 - x*(x + 1) + exp(x),tensor(0.1849),-18.44122312737814
+ Nguyen-5_83_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf070d0>>
+ Nguyen-5_83_12,x**(6/5)/4,tensor(0.),0
+ Nguyen-5_83_13,2*x**3/3 + 2*x**2,tensor(0.1746),-21.35954152666736
+ Nguyen-5_83_14,1/sin(x + 5),tensor(0.3038),-4.250639390593756
+ Nguyen-5_83_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad68c10>>
+ Nguyen-5_84_0,1,tensor(0.),0
+ Nguyen-5_84_1,x**2 + 12*x + sin(x),tensor(0.0514),-339.52204713030386
+ Nguyen-5_84_2,x**2*(x**(3/2) + x),tensor(0.),0
+ Nguyen-5_84_3,x**2 - 3*exp(x),tensor(0.1162),-56.875759197493636
+ Nguyen-5_84_4,x**2/2 - x + 1/3,tensor(0.1701),-22.79627536103447
+ Nguyen-5_84_5,log(x) + 3*atan(x),tensor(0.),0
+ Nguyen-5_84_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad62fd0>>
+ Nguyen-5_84_7,2*x**2 + 4*x + 12*log(x),tensor(0.),0
+ Nguyen-5_84_8,asin(x)**2,tensor(0.1905),-17.05466732149757
+ Nguyen-5_84_9,x**2 + 2*x,tensor(0.2069),-13.69750421669912
+ Nguyen-5_84_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad60550>>
+ Nguyen-5_84_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad38e10>>
+ Nguyen-5_84_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad61bd0>>
+ Nguyen-5_84_13,log(x) - 1/x,tensor(0.),0
+ Nguyen-5_84_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad66150>>
+ Nguyen-5_84_15,x**3*acos(x),tensor(0.3046),-4.211692386178473
+ Nguyen-5_85_0,x**2/2,tensor(0.2322),-9.931467582811015
+ Nguyen-5_85_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daec80d0>>
+ Nguyen-5_85_2,-tan(3*x),tensor(0.1427),-35.102191851933064
+ Nguyen-5_85_3,2*x*sin(x) - cos(x),tensor(0.2530),-7.71775108778982
+ Nguyen-5_85_4,x + 10,tensor(0.0350),-757.0342166882324
+ Nguyen-5_85_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad529d0>>
+ Nguyen-5_85_6,x*(x + 2),tensor(0.2069),-13.69750421669912
+ Nguyen-5_85_7,x**2 + 2*x + sinh(x),tensor(0.1731),-21.833894585378932
+ Nguyen-5_85_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafe8610>>
+ Nguyen-5_85_9,asin(x + 4),tensor(0.),0
+ Nguyen-5_85_10,x*log(x) - x + sin(x),tensor(0.),0
+ Nguyen-5_85_11,2*x*cos(x),tensor(0.2773),-5.794410904906676
+ Nguyen-5_85_12,2*x**2 + 3*x,tensor(0.1552),-28.611134467733393
+ Nguyen-5_85_13,x**3*log(x**2)/2 - x**2/2 + 2*x,tensor(0.2749),-5.96085593832878
+ Nguyen-5_85_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad3d8d0>>
+ Nguyen-5_85_15,-10*x**3/9,tensor(0.2269),-10.61089536897982
+ Nguyen-5_86_0,atan(log(2*x)),tensor(0.),0
+ Nguyen-5_86_1,-x**6/6,tensor(0.2636),-6.806249765769688
+ Nguyen-5_86_2,x*(x + 5),tensor(0.1242),-48.690470674813675
+ Nguyen-5_86_3,x**2 + 6*x,tensor(0.1064),-69.57830020452057
+ Nguyen-5_86_4,x + 3*log(x),tensor(0.),0
+ Nguyen-5_86_5,8*x**3/3 + 5*x,tensor(0.0985),-82.78452364928111
+ Nguyen-5_86_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db329ad0>>
+ Nguyen-5_86_7,-146*sqrt(x)/9,tensor(0.),0
+ Nguyen-5_86_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daea6e50>>
+ Nguyen-5_86_9,2*x,tensor(0.2480),-8.199494776538224
+ Nguyen-5_86_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dafd7f10>>
+ Nguyen-5_86_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daea6410>>
+ Nguyen-5_86_12,x**2/2 - cos(x),tensor(0.3813),-1.632719141539451
+ Nguyen-5_86_13,2*x**3/3 + x**2/12,tensor(0.2661),-6.6100249523376515
+ Nguyen-5_86_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db0bb2d0>>
+ Nguyen-5_86_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf11090>>
+ Nguyen-5_87_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad58250>>
+ Nguyen-5_87_1,2*exp(3*x),tensor(0.0322),-903.9955813303656
+ Nguyen-5_87_2,3*x + 1,tensor(0.1480),-32.133021072670125
+ Nguyen-5_87_3,(2*x + 3)**2,tensor(0.0307),-993.4904138038678
+ Nguyen-5_87_4,2*x + exp(acosh(x)),tensor(0.),0
+ Nguyen-5_87_5,sin(x) + 3*atanh(x),tensor(0.1197),-53.07460990503085
+ Nguyen-5_87_6,x*(x + cos(x)),tensor(0.2225),-11.215803298356
+ Nguyen-5_87_7,14*x**6,tensor(0.0784),-137.3254342132301
+ Nguyen-5_87_8,x**2/2 + sin(1),tensor(0.1576),-27.58457703566127
+ Nguyen-5_87_9,10*exp(x),tensor(0.0283),-1178.2866796445376
+ Nguyen-5_87_10,x**3*(x + 1)**2,tensor(0.1975),-15.519804128956203
+ Nguyen-5_87_11,x**3/3 + x**2/2 + 2*x,tensor(0.2181),-11.847459437042183
+ Nguyen-5_87_12,2*x + asin(x),tensor(0.1882),-17.59648111884907
+ Nguyen-5_87_13,x/(3*x + 4),tensor(0.2940),-4.767132702295781
+ Nguyen-5_87_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db1a6250>>
+ Nguyen-5_87_15,2*x + 5,tensor(0.0628),-221.60563420721923
+ Nguyen-5_88_0,-cos(x),tensor(0.4510),-0.4822914751180065
+ Nguyen-5_88_1,x**2/2,tensor(0.2322),-9.931467582811015
+ Nguyen-5_88_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daeba5d0>>
+ Nguyen-5_88_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadbf410>>
+ Nguyen-5_88_4,sin(sqrt(x)),tensor(0.),0
+ Nguyen-5_88_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadbc190>>
+ Nguyen-5_88_6,3/x,tensor(0.0242),-1619.8581288742575
+ Nguyen-5_88_7,log(x)**3,tensor(0.),0
+ Nguyen-5_88_8,tan(x)**2,tensor(0.1790),-20.0328944716703
+ Nguyen-5_88_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dade0310>>
+ Nguyen-5_88_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dade0c50>>
+ Nguyen-5_88_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dade0d10>>
+ Nguyen-5_88_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dade1410>>
+ Nguyen-5_88_13,x*cos(x + 4),tensor(0.2062),-13.822394082168872
+ Nguyen-5_88_14,-atanh(x),tensor(0.1876),-17.757201929234927
+ Nguyen-5_88_15,x*tan(3),tensor(0.2526),-7.754229685659158
+ Nguyen-5_89_0,-x + cos(x),tensor(0.1526),-29.817098888015618
+ Nguyen-5_89_1,-x**2/2,tensor(0.2897),-5.012618305892326
+ Nguyen-5_89_2,-16*x**7/7,tensor(0.2205),-11.493202680263526
+ Nguyen-5_89_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad86850>>
+ Nguyen-5_89_4,175*x**13,tensor(0.0126),-6101.230689888092
+ Nguyen-5_89_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad91a10>>
+ Nguyen-5_89_6,x**7/7,tensor(0.2611),-7.007973812901053
+ Nguyen-5_89_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadd3390>>
+ Nguyen-5_89_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadd3190>>
+ Nguyen-5_89_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadd2b90>>
+ Nguyen-5_89_10,x - exp(x),tensor(0.4450),-0.5560964407260289
+ Nguyen-5_89_11,x**4/4 + 2*x**2,tensor(0.1660),-24.242135131014216
+ Nguyen-5_89_12,sin(3*x),tensor(0.2824),-5.456304864481082
+ Nguyen-5_89_13,x**2/2 + 3*x + 6*log(x),tensor(0.),0
+ Nguyen-5_89_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadd1c90>>
+ Nguyen-5_89_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadb40d0>>
+ Nguyen-5_90_0,x**2/2 - 2*x,tensor(0.1573),-27.707029133848888
+ Nguyen-5_90_1,(x + 1)**4,tensor(0.0653),-204.16107083621648
+ Nguyen-5_90_2,-x*cos(x) + x,tensor(0.2692),-6.370436741542405
+ Nguyen-5_90_3,(x + 1)/x**2,tensor(0.0041),-59299.52802271868
+ Nguyen-5_90_4,x**4 + x**2 + x,tensor(0.1920),-16.704317977328067
+ Nguyen-5_90_5,4*x**3 + 6*x,tensor(0.0778),-139.56106291427756
+ Nguyen-5_90_6,8*x**3,tensor(0.1192),-53.58285555623926
+ Nguyen-5_90_7,asin(x + 4),tensor(0.),0
+ Nguyen-5_90_8,x**2*log(x)**2 + x - log(x),tensor(0.),0
+ Nguyen-5_90_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f02b7390>>
+ Nguyen-5_90_10,4*x*log(2*x),tensor(0.),0
+ Nguyen-5_90_11,-x**9,tensor(0.2483),-8.162416742421563
+ Nguyen-5_90_12,x**9/9 + x**2/3,tensor(0.2417),-8.844382129006796
+ Nguyen-5_90_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad5a410>>
+ Nguyen-5_90_14,cos(x)/(2*sin(x)),tensor(0.1217),-51.073726383808705
+ Nguyen-5_90_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad58b90>>
+ Nguyen-5_91_0,-3*acos(x)/2,tensor(0.2009),-14.826582215304942
+ Nguyen-5_91_1,x**3/3 + sin(x),tensor(0.2815),-5.512127275523368
+ Nguyen-5_91_2,-x**2/2 + 9*x,tensor(0.0737),-156.9185949675783
+ Nguyen-5_91_3,8*x + 2,tensor(0.0737),-156.99567910895573
+ Nguyen-5_91_4,x**3 + 1,tensor(0.1631),-25.330355173343065
+ Nguyen-5_91_5,5*x**2,tensor(0.1087),-66.27858170224442
+ Nguyen-5_91_6,cosh(x + 1),tensor(0.1232),-49.65594156511811
+ Nguyen-5_91_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae23ad0>>
+ Nguyen-5_91_8,25*x*sin(x),tensor(0.0342),-797.9260160446513
+ Nguyen-5_91_9,x**2*tan(1),tensor(0.1860),-18.139948762671548
+ Nguyen-5_91_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad60b10>>
+ Nguyen-5_91_11,(3*x + 3)**2,tensor(0.0244),-1602.8722688207497
+ Nguyen-5_91_12,x + asin(x),tensor(0.2372),-9.343614231824779
+ Nguyen-5_91_13,x**2*cos(2)**5,tensor(0.2604),-7.065289707630521
+ Nguyen-5_91_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadf5d90>>
+ Nguyen-5_91_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadf6050>>
+ Nguyen-5_92_0,x*log(x)**3 + x - 1,tensor(0.),0
+ Nguyen-5_92_1,exp(x + 2),tensor(0.0372),-668.821828227565
+ Nguyen-5_92_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadf0f10>>
+ Nguyen-5_92_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae22890>>
+ Nguyen-5_92_4,2*x**2*(x + 5),tensor(0.0673),-191.2837476918231
+ Nguyen-5_92_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad937d0>>
+ Nguyen-5_92_6,x,tensor(0.2840),-5.357102660773727
+ Nguyen-5_92_7,2*x**2,tensor(0.1710),-22.493422160810145
+ Nguyen-5_92_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dad86c50>>
+ Nguyen-5_92_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadf1a10>>
+ Nguyen-5_92_10,sin(x)/5,tensor(0.2681),-6.452993197672852
+ Nguyen-5_92_11,x**3/3 + x**2/2,tensor(0.2373),-9.332919776255089
+ Nguyen-5_92_12,2*x**3*exp(x),tensor(0.1806),-19.59639394736291
+ Nguyen-5_92_13,x**3*tan(2),tensor(0.1939),-16.28201250931069
+ Nguyen-5_92_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0291750>>
+ Nguyen-5_92_15,x*(x + cos(x)),tensor(0.2225),-11.215803298356
+ Nguyen-5_93_0,-3*x + 5*log(x),tensor(0.),0
+ Nguyen-5_93_1,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae0e510>>
+ Nguyen-5_93_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae0ddd0>>
+ Nguyen-5_93_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae0ff90>>
+ Nguyen-5_93_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc59e790>>
+ Nguyen-5_93_5,log(x) + sqrt(2),tensor(0.),0
+ Nguyen-5_93_6,x*atan(x + 1),tensor(0.2471),-8.279909593497992
+ Nguyen-5_93_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae2f590>>
+ Nguyen-5_93_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae2f650>>
+ Nguyen-5_93_9,2*atan(x),tensor(0.2639),-6.78196204143566
+ Nguyen-5_93_10,-4*x + 2*log(x + 1),tensor(0.2106),-13.05777143453815
+ Nguyen-5_93_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae2d810>>
+ Nguyen-5_93_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae2f7d0>>
+ Nguyen-5_93_13,x + (x + 1)**4,tensor(0.0620),-228.2695679459692
+ Nguyen-5_93_14,cos(x + 1),tensor(0.1819),-19.234088609353762
+ Nguyen-5_93_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae2c710>>
+ Nguyen-5_94_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadd1cd0>>
+ Nguyen-5_94_1,tan(x + 5),tensor(0.0529),-319.02694816620243
+ Nguyen-5_94_2,sin(x) + tanh(sqrt(x)),tensor(0.),0
+ Nguyen-5_94_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc599c90>>
+ Nguyen-5_94_4,sin(x + 4),tensor(0.3061),-4.138900175321244
+ Nguyen-5_94_5,(acos(x) - 1)*exp(x),tensor(0.1925),-16.602139343866664
+ Nguyen-5_94_6,x - acos(x),tensor(0.2575),-7.310575815773834
+ Nguyen-5_94_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5852d0>>
+ Nguyen-5_94_8,-cos(4*x + 4)/4,tensor(0.2603),-7.072771653362816
+ Nguyen-5_94_9,7*x**2 + 8*x,tensor(0.0656),-201.7777161495378
+ Nguyen-5_94_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5857d0>>
+ Nguyen-5_94_11,5*x**2/2 + 5*x/2,tensor(0.1527),-29.776831055554577
+ Nguyen-5_94_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc585e90>>
+ Nguyen-5_94_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc587790>>
+ Nguyen-5_94_14,3*cosh(sqrt(x)),tensor(0.),0
+ Nguyen-5_94_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc587d10>>
+ Nguyen-5_95_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db228310>>
+ Nguyen-5_95_1,(1 - 3*x)/x,tensor(0.0699),-176.28397456344877
+ Nguyen-5_95_2,x - 4,tensor(0.1164),-56.62587990082258
+ Nguyen-5_95_3,x*(x**2 + 2),tensor(0.2129),-12.664933223297778
+ Nguyen-5_95_4,(x**2 + x)**3,tensor(0.1457),-33.393271623505164
+ Nguyen-5_95_5,x**4/8 + x**2/2 + 2*x,tensor(0.2236),-11.058576527168027
+ Nguyen-5_95_6,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5cd550>>
+ Nguyen-5_95_7,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5ce790>>
+ Nguyen-5_95_8,32*x**2 + 4*x - atanh(x),tensor(0.0248),-1550.0837333690538
+ Nguyen-5_95_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc59eb10>>
+ Nguyen-5_95_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5d1a10>>
+ Nguyen-5_95_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5d0d10>>
+ Nguyen-5_95_12,x**2/cos(3),tensor(0.3187),-3.568294765844594
+ Nguyen-5_95_13,log(x)/x,tensor(0.),0
+ Nguyen-5_95_14,x + atan(x),tensor(0.2561),-7.43689715897729
+ Nguyen-5_95_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5d35d0>>
+ Nguyen-5_96_0,x**2 + 1,tensor(0.1385),-37.70867124889309
+ Nguyen-5_96_1,2*x*(x + 1),tensor(0.1727),-21.96014334359128
+ Nguyen-5_96_2,3*x + tan(x),tensor(0.1478),-32.26197386855771
+ Nguyen-5_96_3,sin(x + 2),tensor(0.1695),-22.997399637904046
+ Nguyen-5_96_4,x*(2*x + exp(x)),tensor(0.1459),-33.28482208292269
+ Nguyen-5_96_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73db058d10>>
+ Nguyen-5_96_6,3/(2*x),tensor(0.0470),-409.3207170628253
+ Nguyen-5_96_7,x**2/2 + sin(acosh(x)),tensor(0.),0
+ Nguyen-5_96_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae7c5d0>>
+ Nguyen-5_96_9,sin(4*x)/4,tensor(0.2660),-6.611680511514169
+ Nguyen-5_96_10,log(x**2/2),tensor(0.1651),-24.558695685715957
+ Nguyen-5_96_11,sqrt(x + 1) + exp(x),tensor(0.1132),-60.36858160116444
+ Nguyen-5_96_12,log(tan(x - 1) + 1)/2 + 2*log(tan(x + 1) + 2),tensor(0.),0
+ Nguyen-5_96_13,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5b9790>>
+ Nguyen-5_96_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5ba490>>
+ Nguyen-5_96_15,x**5/5 + 2*x,tensor(0.2425),-8.758333710896002
+ Nguyen-5_97_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73f0291590>>
+ Nguyen-5_97_1,sqrt(3)*sqrt(x) + 2*x,tensor(0.),0
+ Nguyen-5_97_2,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc58f590>>
+ Nguyen-5_97_3,x**2*(5*x + 1/2),tensor(0.1671),-23.856149957952432
+ Nguyen-5_97_4,x**3/3 + sin(x),tensor(0.2815),-5.512127275523368
+ Nguyen-5_97_5,2*x*log(x) + x,tensor(0.),0
+ Nguyen-5_97_6,x + x*tan(1),tensor(0.2185),-11.785623373235492
+ Nguyen-5_97_7,x**2/2 - sin(x),tensor(0.1964),-15.750668653931193
+ Nguyen-5_97_8,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae18290>>
+ Nguyen-5_97_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadb6c10>>
+ Nguyen-5_97_10,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadb6450>>
+ Nguyen-5_97_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadb7dd0>>
+ Nguyen-5_97_12,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dadb5ed0>>
+ Nguyen-5_97_13,2*x*sin(x) - cos(x),tensor(0.2530),-7.71775108778982
+ Nguyen-5_97_14,3*sqrt(x) + 2*x,tensor(0.),0
+ Nguyen-5_97_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5e6250>>
+ Nguyen-5_98_0,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daeb4850>>
+ Nguyen-5_98_1,24/x,tensor(0.0031),-103443.41358735661
+ Nguyen-5_98_2,sin(3)/x,tensor(0.2276),-10.517779142814904
+ Nguyen-5_98_3,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc5cde90>>
+ Nguyen-5_98_4,x**3*(x**3 + x),tensor(0.2024),-14.535644432172544
+ Nguyen-5_98_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae0d190>>
+ Nguyen-5_98_6,x - tan(x),tensor(0.2471),-8.283576902475621
+ Nguyen-5_98_7,x/2,tensor(0.2792),-5.6653142360793645
+ Nguyen-5_98_8,x + exp(x**2),tensor(0.1356),-39.65787680804157
+ Nguyen-5_98_9,x**4/4 + x**2/2,tensor(0.2244),-10.944015927081791
+ Nguyen-5_98_10,2*x + cos(x),tensor(0.1728),-21.902396360349698
+ Nguyen-5_98_11,x**5/210,tensor(0.2598),-7.120496884201804
+ Nguyen-5_98_12,(x - 2)/cos(x),tensor(0.1913),-16.862994170069857
+ Nguyen-5_98_13,x**6 + x**5/5 + x,tensor(0.2503),-7.973853500285376
+ Nguyen-5_98_14,sqrt(x) + log(x),tensor(0.),0
+ Nguyen-5_98_15,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc62d050>>
+ Nguyen-5_99_0,68/x,tensor(0.0011),-830534.9914629702
+ Nguyen-5_99_1,x**2 - x + exp(x),tensor(0.1296),-44.13945090514544
+ Nguyen-5_99_2,x*(sin(x) + cos(x)) + x,tensor(0.2195),-11.64058631965627
+ Nguyen-5_99_3,-log(x**2 + 1)/2,tensor(0.2838),-5.371475805881232
+ Nguyen-5_99_4,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73dae63c90>>
+ Nguyen-5_99_5,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73daf52ad0>>
+ Nguyen-5_99_6,2*x**3 - x,tensor(0.2520),-7.813783937034849
+ Nguyen-5_99_7,x**2/2 + cos(2),tensor(0.2991),-4.49026509507579
+ Nguyen-5_99_8,log(x)*tan(3),tensor(0.),0
+ Nguyen-5_99_9,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc610550>>
+ Nguyen-5_99_10,8*x**4,tensor(0.1006),-78.86091159418503
+ Nguyen-5_99_11,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc609690>>
+ Nguyen-5_99_12,4*x**2 - 6*x,tensor(0.0718),-166.01975189145693
+ Nguyen-5_99_13,2*x**3*log(x),tensor(0.),0
+ Nguyen-5_99_14,None,tensor(0.),<bound method Expression.r2 of <Expression.Expression object at 0x7f73cc602690>>
+ Nguyen-5_99_15,cos(3)/x,tensor(0.0684),-184.48596123401742

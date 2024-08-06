@@ -67,8 +67,8 @@ def eval_expr(expression, x):
     
 expression_folder = "./data/expressions/"
 input_folder = "./data/input/"
-expression_file = "all_expr.csv"
-result_folder = "./experiment/1000_points/"
+expression_file = "test_expr.csv"
+result_folder = "./experiment/fix_1000e_128b_meu_teste/"
 
 #creating a report folder
 report_folder = os.path.join(result_folder, "report")
